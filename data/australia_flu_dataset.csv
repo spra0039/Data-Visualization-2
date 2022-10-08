@@ -1,0 +1,3578 @@
+date,State,Type,Confirmed
+Jan 1 2014,New South Wales,A(H1N1)pdm09,49
+Jan 1 2014,New South Wales,A(H3N2),44
+Jan 1 2014,New South Wales,A(unsubtyped),155
+Jan 1 2014,New South Wales,B,30
+Jan 1 2014,New South Wales,C,0
+Jan 1 2014,New South Wales,A and B,3
+Jan 1 2014,New South Wales,Untyped,0
+Jan 1 2014,Northern Territory,A(H1N1)pdm09,3
+Jan 1 2014,Northern Territory,A(H3N2),28
+Jan 1 2014,Northern Territory,A(unsubtyped),45
+Jan 1 2014,Northern Territory,B,25
+Jan 1 2014,Northern Territory,C,0
+Jan 1 2014,Northern Territory,A and B,1
+Jan 1 2014,Northern Territory,Untyped,0
+Jan 1 2014,Queensland,A(H1N1)pdm09,90
+Jan 1 2014,Queensland,A(H3N2),7
+Jan 1 2014,Queensland,A(unsubtyped),293
+Jan 1 2014,Queensland,B,78
+Jan 1 2014,Queensland,C,0
+Jan 1 2014,Queensland,A and B,0
+Jan 1 2014,Queensland,Untyped,0
+Jan 1 2014,South Australia,A(H1N1)pdm09,9
+Jan 1 2014,South Australia,A(H3N2),0
+Jan 1 2014,South Australia,A(unsubtyped),177
+Jan 1 2014,South Australia,B,45
+Jan 1 2014,South Australia,C,0
+Jan 1 2014,South Australia,A and B,0
+Jan 1 2014,South Australia,Untyped,0
+Jan 1 2014,Tasmania,A(H1N1)pdm09,5
+Jan 1 2014,Tasmania,A(H3N2),8
+Jan 1 2014,Tasmania,A(unsubtyped),8
+Jan 1 2014,Tasmania,B,2
+Jan 1 2014,Tasmania,C,0
+Jan 1 2014,Tasmania,A and B,0
+Jan 1 2014,Tasmania,Untyped,0
+Jan 1 2014,Victoria,A(H1N1)pdm09,18
+Jan 1 2014,Victoria,A(H3N2),1
+Jan 1 2014,Victoria,A(unsubtyped),231
+Jan 1 2014,Victoria,B,23
+Jan 1 2014,Victoria,C,0
+Jan 1 2014,Victoria,A and B,1
+Jan 1 2014,Victoria,Untyped,0
+Jan 1 2014,Western Australia,A(H1N1)pdm09,34
+Jan 1 2014,Western Australia,A(H3N2),38
+Jan 1 2014,Western Australia,A(unsubtyped),52
+Jan 1 2014,Western Australia,B,19
+Jan 1 2014,Western Australia,C,0
+Jan 1 2014,Western Australia,A and B,0
+Jan 1 2014,Western Australia,Untyped,0
+Feb 1 2014,New South Wales,A(H1N1)pdm09,70
+Feb 1 2014,New South Wales,A(H3N2),36
+Feb 1 2014,New South Wales,A(unsubtyped),101
+Feb 1 2014,New South Wales,B,17
+Feb 1 2014,New South Wales,C,0
+Feb 1 2014,New South Wales,A and B,0
+Feb 1 2014,New South Wales,Untyped,0
+Feb 1 2014,Northern Territory,A(H1N1)pdm09,8
+Feb 1 2014,Northern Territory,A(H3N2),42
+Feb 1 2014,Northern Territory,A(unsubtyped),60
+Feb 1 2014,Northern Territory,B,21
+Feb 1 2014,Northern Territory,C,0
+Feb 1 2014,Northern Territory,A and B,0
+Feb 1 2014,Northern Territory,Untyped,0
+Feb 1 2014,Queensland,A(H1N1)pdm09,84
+Feb 1 2014,Queensland,A(H3N2),9
+Feb 1 2014,Queensland,A(unsubtyped),257
+Feb 1 2014,Queensland,B,61
+Feb 1 2014,Queensland,C,0
+Feb 1 2014,Queensland,A and B,0
+Feb 1 2014,Queensland,Untyped,0
+Feb 1 2014,South Australia,A(H1N1)pdm09,2
+Feb 1 2014,South Australia,A(H3N2),0
+Feb 1 2014,South Australia,A(unsubtyped),91
+Feb 1 2014,South Australia,B,19
+Feb 1 2014,South Australia,C,0
+Feb 1 2014,South Australia,A and B,0
+Feb 1 2014,South Australia,Untyped,0
+Feb 1 2014,Tasmania,A(H1N1)pdm09,4
+Feb 1 2014,Tasmania,A(H3N2),0
+Feb 1 2014,Tasmania,A(unsubtyped),10
+Feb 1 2014,Tasmania,B,3
+Feb 1 2014,Tasmania,C,0
+Feb 1 2014,Tasmania,A and B,0
+Feb 1 2014,Tasmania,Untyped,0
+Feb 1 2014,Victoria,A(H1N1)pdm09,20
+Feb 1 2014,Victoria,A(H3N2),3
+Feb 1 2014,Victoria,A(unsubtyped),109
+Feb 1 2014,Victoria,B,18
+Feb 1 2014,Victoria,C,0
+Feb 1 2014,Victoria,A and B,0
+Feb 1 2014,Victoria,Untyped,0
+Feb 1 2014,Western Australia,A(H1N1)pdm09,26
+Feb 1 2014,Western Australia,A(H3N2),16
+Feb 1 2014,Western Australia,A(unsubtyped),43
+Feb 1 2014,Western Australia,B,31
+Feb 1 2014,Western Australia,C,0
+Feb 1 2014,Western Australia,A and B,0
+Feb 1 2014,Western Australia,Untyped,0
+Mar 1 2014,New South Wales,A(H1N1)pdm09,61
+Mar 1 2014,New South Wales,A(H3N2),22
+Mar 1 2014,New South Wales,A(unsubtyped),81
+Mar 1 2014,New South Wales,B,49
+Mar 1 2014,New South Wales,C,0
+Mar 1 2014,New South Wales,A and B,2
+Mar 1 2014,New South Wales,Untyped,0
+Mar 1 2014,Northern Territory,A(H1N1)pdm09,5
+Mar 1 2014,Northern Territory,A(H3N2),10
+Mar 1 2014,Northern Territory,A(unsubtyped),8
+Mar 1 2014,Northern Territory,B,9
+Mar 1 2014,Northern Territory,C,0
+Mar 1 2014,Northern Territory,A and B,0
+Mar 1 2014,Northern Territory,Untyped,0
+Mar 1 2014,Queensland,A(H1N1)pdm09,132
+Mar 1 2014,Queensland,A(H3N2),11
+Mar 1 2014,Queensland,A(unsubtyped),229
+Mar 1 2014,Queensland,B,59
+Mar 1 2014,Queensland,C,0
+Mar 1 2014,Queensland,A and B,0
+Mar 1 2014,Queensland,Untyped,0
+Mar 1 2014,South Australia,A(H1N1)pdm09,3
+Mar 1 2014,South Australia,A(H3N2),0
+Mar 1 2014,South Australia,A(unsubtyped),117
+Mar 1 2014,South Australia,B,34
+Mar 1 2014,South Australia,C,0
+Mar 1 2014,South Australia,A and B,0
+Mar 1 2014,South Australia,Untyped,0
+Mar 1 2014,Tasmania,A(H1N1)pdm09,2
+Mar 1 2014,Tasmania,A(H3N2),2
+Mar 1 2014,Tasmania,A(unsubtyped),8
+Mar 1 2014,Tasmania,B,0
+Mar 1 2014,Tasmania,C,0
+Mar 1 2014,Tasmania,A and B,0
+Mar 1 2014,Tasmania,Untyped,0
+Mar 1 2014,Victoria,A(H1N1)pdm09,15
+Mar 1 2014,Victoria,A(H3N2),4
+Mar 1 2014,Victoria,A(unsubtyped),105
+Mar 1 2014,Victoria,B,40
+Mar 1 2014,Victoria,C,0
+Mar 1 2014,Victoria,A and B,0
+Mar 1 2014,Victoria,Untyped,0
+Mar 1 2014,Western Australia,A(H1N1)pdm09,32
+Mar 1 2014,Western Australia,A(H3N2),22
+Mar 1 2014,Western Australia,A(unsubtyped),45
+Mar 1 2014,Western Australia,B,28
+Mar 1 2014,Western Australia,C,0
+Mar 1 2014,Western Australia,A and B,0
+Mar 1 2014,Western Australia,Untyped,0
+Apr 1 2014,New South Wales,A(H1N1)pdm09,23
+Apr 1 2014,New South Wales,A(H3N2),4
+Apr 1 2014,New South Wales,A(unsubtyped),113
+Apr 1 2014,New South Wales,B,59
+Apr 1 2014,New South Wales,C,0
+Apr 1 2014,New South Wales,A and B,4
+Apr 1 2014,New South Wales,Untyped,1
+Apr 1 2014,Northern Territory,A(H1N1)pdm09,1
+Apr 1 2014,Northern Territory,A(H3N2),2
+Apr 1 2014,Northern Territory,A(unsubtyped),4
+Apr 1 2014,Northern Territory,B,22
+Apr 1 2014,Northern Territory,C,0
+Apr 1 2014,Northern Territory,A and B,0
+Apr 1 2014,Northern Territory,Untyped,0
+Apr 1 2014,Queensland,A(H1N1)pdm09,130
+Apr 1 2014,Queensland,A(H3N2),12
+Apr 1 2014,Queensland,A(unsubtyped),194
+Apr 1 2014,Queensland,B,48
+Apr 1 2014,Queensland,C,0
+Apr 1 2014,Queensland,A and B,0
+Apr 1 2014,Queensland,Untyped,0
+Apr 1 2014,South Australia,A(H1N1)pdm09,4
+Apr 1 2014,South Australia,A(H3N2),0
+Apr 1 2014,South Australia,A(unsubtyped),108
+Apr 1 2014,South Australia,B,25
+Apr 1 2014,South Australia,C,0
+Apr 1 2014,South Australia,A and B,0
+Apr 1 2014,South Australia,Untyped,0
+Apr 1 2014,Tasmania,A(H1N1)pdm09,4
+Apr 1 2014,Tasmania,A(H3N2),1
+Apr 1 2014,Tasmania,A(unsubtyped),11
+Apr 1 2014,Tasmania,B,1
+Apr 1 2014,Tasmania,C,0
+Apr 1 2014,Tasmania,A and B,0
+Apr 1 2014,Tasmania,Untyped,0
+Apr 1 2014,Victoria,A(H1N1)pdm09,8
+Apr 1 2014,Victoria,A(H3N2),1
+Apr 1 2014,Victoria,A(unsubtyped),91
+Apr 1 2014,Victoria,B,26
+Apr 1 2014,Victoria,C,0
+Apr 1 2014,Victoria,A and B,1
+Apr 1 2014,Victoria,Untyped,0
+Apr 1 2014,Western Australia,A(H1N1)pdm09,16
+Apr 1 2014,Western Australia,A(H3N2),36
+Apr 1 2014,Western Australia,A(unsubtyped),46
+Apr 1 2014,Western Australia,B,32
+Apr 1 2014,Western Australia,C,0
+Apr 1 2014,Western Australia,A and B,0
+Apr 1 2014,Western Australia,Untyped,0
+May 1 2014,New South Wales,A(H1N1)pdm09,24
+May 1 2014,New South Wales,A(H3N2),26
+May 1 2014,New South Wales,A(unsubtyped),152
+May 1 2014,New South Wales,B,63
+May 1 2014,New South Wales,C,0
+May 1 2014,New South Wales,A and B,6
+May 1 2014,New South Wales,Untyped,1
+May 1 2014,Northern Territory,A(H1N1)pdm09,0
+May 1 2014,Northern Territory,A(H3N2),3
+May 1 2014,Northern Territory,A(unsubtyped),6
+May 1 2014,Northern Territory,B,3
+May 1 2014,Northern Territory,C,0
+May 1 2014,Northern Territory,A and B,0
+May 1 2014,Northern Territory,Untyped,0
+May 1 2014,Queensland,A(H1N1)pdm09,143
+May 1 2014,Queensland,A(H3N2),10
+May 1 2014,Queensland,A(unsubtyped),259
+May 1 2014,Queensland,B,108
+May 1 2014,Queensland,C,0
+May 1 2014,Queensland,A and B,0
+May 1 2014,Queensland,Untyped,0
+May 1 2014,South Australia,A(H1N1)pdm09,4
+May 1 2014,South Australia,A(H3N2),0
+May 1 2014,South Australia,A(unsubtyped),84
+May 1 2014,South Australia,B,49
+May 1 2014,South Australia,C,0
+May 1 2014,South Australia,A and B,0
+May 1 2014,South Australia,Untyped,0
+May 1 2014,Tasmania,A(H1N1)pdm09,4
+May 1 2014,Tasmania,A(H3N2),0
+May 1 2014,Tasmania,A(unsubtyped),13
+May 1 2014,Tasmania,B,4
+May 1 2014,Tasmania,C,0
+May 1 2014,Tasmania,A and B,0
+May 1 2014,Tasmania,Untyped,0
+May 1 2014,Victoria,A(H1N1)pdm09,44
+May 1 2014,Victoria,A(H3N2),0
+May 1 2014,Victoria,A(unsubtyped),217
+May 1 2014,Victoria,B,30
+May 1 2014,Victoria,C,1
+May 1 2014,Victoria,A and B,2
+May 1 2014,Victoria,Untyped,0
+May 1 2014,Western Australia,A(H1N1)pdm09,33
+May 1 2014,Western Australia,A(H3N2),18
+May 1 2014,Western Australia,A(unsubtyped),60
+May 1 2014,Western Australia,B,29
+May 1 2014,Western Australia,C,0
+May 1 2014,Western Australia,A and B,0
+May 1 2014,Western Australia,Untyped,0
+Jun 1 2014,New South Wales,A(H1N1)pdm09,51
+Jun 1 2014,New South Wales,A(H3N2),140
+Jun 1 2014,New South Wales,A(unsubtyped),179
+Jun 1 2014,New South Wales,B,73
+Jun 1 2014,New South Wales,C,0
+Jun 1 2014,New South Wales,A and B,11
+Jun 1 2014,New South Wales,Untyped,2
+Jun 1 2014,Northern Territory,A(H1N1)pdm09,2
+Jun 1 2014,Northern Territory,A(H3N2),0
+Jun 1 2014,Northern Territory,A(unsubtyped),4
+Jun 1 2014,Northern Territory,B,5
+Jun 1 2014,Northern Territory,C,0
+Jun 1 2014,Northern Territory,A and B,0
+Jun 1 2014,Northern Territory,Untyped,0
+Jun 1 2014,Queensland,A(H1N1)pdm09,166
+Jun 1 2014,Queensland,A(H3N2),6
+Jun 1 2014,Queensland,A(unsubtyped),270
+Jun 1 2014,Queensland,B,81
+Jun 1 2014,Queensland,C,0
+Jun 1 2014,Queensland,A and B,0
+Jun 1 2014,Queensland,Untyped,0
+Jun 1 2014,South Australia,A(H1N1)pdm09,8
+Jun 1 2014,South Australia,A(H3N2),0
+Jun 1 2014,South Australia,A(unsubtyped),193
+Jun 1 2014,South Australia,B,22
+Jun 1 2014,South Australia,C,0
+Jun 1 2014,South Australia,A and B,0
+Jun 1 2014,South Australia,Untyped,0
+Jun 1 2014,Tasmania,A(H1N1)pdm09,21
+Jun 1 2014,Tasmania,A(H3N2),1
+Jun 1 2014,Tasmania,A(unsubtyped),12
+Jun 1 2014,Tasmania,B,3
+Jun 1 2014,Tasmania,C,0
+Jun 1 2014,Tasmania,A and B,0
+Jun 1 2014,Tasmania,Untyped,0
+Jun 1 2014,Victoria,A(H1N1)pdm09,66
+Jun 1 2014,Victoria,A(H3N2),0
+Jun 1 2014,Victoria,A(unsubtyped),307
+Jun 1 2014,Victoria,B,28
+Jun 1 2014,Victoria,C,0
+Jun 1 2014,Victoria,A and B,0
+Jun 1 2014,Victoria,Untyped,0
+Jun 1 2014,Western Australia,A(H1N1)pdm09,66
+Jun 1 2014,Western Australia,A(H3N2),21
+Jun 1 2014,Western Australia,A(unsubtyped),50
+Jun 1 2014,Western Australia,B,35
+Jun 1 2014,Western Australia,C,0
+Jun 1 2014,Western Australia,A and B,0
+Jun 1 2014,Western Australia,Untyped,0
+Jul 1 2014,New South Wales,A(H1N1)pdm09,260
+Jul 1 2014,New South Wales,A(H3N2),606
+Jul 1 2014,New South Wales,A(unsubtyped),1480
+Jul 1 2014,New South Wales,B,201
+Jul 1 2014,New South Wales,C,0
+Jul 1 2014,New South Wales,A and B,1
+Jul 1 2014,New South Wales,Untyped,0
+Jul 1 2014,Northern Territory,A(H1N1)pdm09,4
+Jul 1 2014,Northern Territory,A(H3N2),3
+Jul 1 2014,Northern Territory,A(unsubtyped),18
+Jul 1 2014,Northern Territory,B,3
+Jul 1 2014,Northern Territory,C,0
+Jul 1 2014,Northern Territory,A and B,0
+Jul 1 2014,Northern Territory,Untyped,0
+Jul 1 2014,Queensland,A(H1N1)pdm09,351
+Jul 1 2014,Queensland,A(H3N2),36
+Jul 1 2014,Queensland,A(unsubtyped),1109
+Jul 1 2014,Queensland,B,185
+Jul 1 2014,Queensland,C,0
+Jul 1 2014,Queensland,A and B,0
+Jul 1 2014,Queensland,Untyped,0
+Jul 1 2014,South Australia,A(H1N1)pdm09,59
+Jul 1 2014,South Australia,A(H3N2),0
+Jul 1 2014,South Australia,A(unsubtyped),524
+Jul 1 2014,South Australia,B,38
+Jul 1 2014,South Australia,C,0
+Jul 1 2014,South Australia,A and B,0
+Jul 1 2014,South Australia,Untyped,0
+Jul 1 2014,Tasmania,A(H1N1)pdm09,26
+Jul 1 2014,Tasmania,A(H3N2),1
+Jul 1 2014,Tasmania,A(unsubtyped),37
+Jul 1 2014,Tasmania,B,2
+Jul 1 2014,Tasmania,C,0
+Jul 1 2014,Tasmania,A and B,0
+Jul 1 2014,Tasmania,Untyped,0
+Jul 1 2014,Victoria,A(H1N1)pdm09,175
+Jul 1 2014,Victoria,A(H3N2),11
+Jul 1 2014,Victoria,A(unsubtyped),675
+Jul 1 2014,Victoria,B,28
+Jul 1 2014,Victoria,C,0
+Jul 1 2014,Victoria,A and B,1
+Jul 1 2014,Victoria,Untyped,0
+Jul 1 2014,Western Australia,A(H1N1)pdm09,403
+Jul 1 2014,Western Australia,A(H3N2),107
+Jul 1 2014,Western Australia,A(unsubtyped),138
+Jul 1 2014,Western Australia,B,65
+Jul 1 2014,Western Australia,C,0
+Jul 1 2014,Western Australia,A and B,0
+Jul 1 2014,Western Australia,Untyped,0
+Aug 1 2014,New South Wales,A(H1N1)pdm09,879
+Aug 1 2014,New South Wales,A(H3N2),1933
+Aug 1 2014,New South Wales,A(unsubtyped),7278
+Aug 1 2014,New South Wales,B,1017
+Aug 1 2014,New South Wales,C,0
+Aug 1 2014,New South Wales,A and B,20
+Aug 1 2014,New South Wales,Untyped,9
+Aug 1 2014,Northern Territory,A(H1N1)pdm09,13
+Aug 1 2014,Northern Territory,A(H3N2),8
+Aug 1 2014,Northern Territory,A(unsubtyped),147
+Aug 1 2014,Northern Territory,B,4
+Aug 1 2014,Northern Territory,C,0
+Aug 1 2014,Northern Territory,A and B,0
+Aug 1 2014,Northern Territory,Untyped,0
+Aug 1 2014,Queensland,A(H1N1)pdm09,617
+Aug 1 2014,Queensland,A(H3N2),220
+Aug 1 2014,Queensland,A(unsubtyped),5949
+Aug 1 2014,Queensland,B,749
+Aug 1 2014,Queensland,C,0
+Aug 1 2014,Queensland,A and B,0
+Aug 1 2014,Queensland,Untyped,0
+Aug 1 2014,South Australia,A(H1N1)pdm09,98
+Aug 1 2014,South Australia,A(H3N2),0
+Aug 1 2014,South Australia,A(unsubtyped),3554
+Aug 1 2014,South Australia,B,144
+Aug 1 2014,South Australia,C,0
+Aug 1 2014,South Australia,A and B,0
+Aug 1 2014,South Australia,Untyped,0
+Aug 1 2014,Tasmania,A(H1N1)pdm09,94
+Aug 1 2014,Tasmania,A(H3N2),13
+Aug 1 2014,Tasmania,A(unsubtyped),115
+Aug 1 2014,Tasmania,B,23
+Aug 1 2014,Tasmania,C,0
+Aug 1 2014,Tasmania,A and B,0
+Aug 1 2014,Tasmania,Untyped,0
+Aug 1 2014,Victoria,A(H1N1)pdm09,333
+Aug 1 2014,Victoria,A(H3N2),5
+Aug 1 2014,Victoria,A(unsubtyped),3017
+Aug 1 2014,Victoria,B,118
+Aug 1 2014,Victoria,C,5
+Aug 1 2014,Victoria,A and B,8
+Aug 1 2014,Victoria,Untyped,0
+Aug 1 2014,Western Australia,A(H1N1)pdm09,772
+Aug 1 2014,Western Australia,A(H3N2),458
+Aug 1 2014,Western Australia,A(unsubtyped),509
+Aug 1 2014,Western Australia,B,166
+Aug 1 2014,Western Australia,C,0
+Aug 1 2014,Western Australia,A and B,0
+Aug 1 2014,Western Australia,Untyped,0
+Sep 1 2014,New South Wales,A(H1N1)pdm09,188
+Sep 1 2014,New South Wales,A(H3N2),466
+Sep 1 2014,New South Wales,A(unsubtyped),2674
+Sep 1 2014,New South Wales,B,848
+Sep 1 2014,New South Wales,C,0
+Sep 1 2014,New South Wales,A and B,11
+Sep 1 2014,New South Wales,Untyped,4
+Sep 1 2014,Northern Territory,A(H1N1)pdm09,15
+Sep 1 2014,Northern Territory,A(H3N2),3
+Sep 1 2014,Northern Territory,A(unsubtyped),168
+Sep 1 2014,Northern Territory,B,7
+Sep 1 2014,Northern Territory,C,0
+Sep 1 2014,Northern Territory,A and B,0
+Sep 1 2014,Northern Territory,Untyped,0
+Sep 1 2014,Queensland,A(H1N1)pdm09,226
+Sep 1 2014,Queensland,A(H3N2),221
+Sep 1 2014,Queensland,A(unsubtyped),2811
+Sep 1 2014,Queensland,B,695
+Sep 1 2014,Queensland,C,0
+Sep 1 2014,Queensland,A and B,0
+Sep 1 2014,Queensland,Untyped,0
+Sep 1 2014,South Australia,A(H1N1)pdm09,49
+Sep 1 2014,South Australia,A(H3N2),0
+Sep 1 2014,South Australia,A(unsubtyped),3649
+Sep 1 2014,South Australia,B,274
+Sep 1 2014,South Australia,C,0
+Sep 1 2014,South Australia,A and B,0
+Sep 1 2014,South Australia,Untyped,0
+Sep 1 2014,Tasmania,A(H1N1)pdm09,38
+Sep 1 2014,Tasmania,A(H3N2),37
+Sep 1 2014,Tasmania,A(unsubtyped),70
+Sep 1 2014,Tasmania,B,28
+Sep 1 2014,Tasmania,C,0
+Sep 1 2014,Tasmania,A and B,0
+Sep 1 2014,Tasmania,Untyped,0
+Sep 1 2014,Victoria,A(H1N1)pdm09,111
+Sep 1 2014,Victoria,A(H3N2),10
+Sep 1 2014,Victoria,A(unsubtyped),2478
+Sep 1 2014,Victoria,B,123
+Sep 1 2014,Victoria,C,5
+Sep 1 2014,Victoria,A and B,1
+Sep 1 2014,Victoria,Untyped,0
+Sep 1 2014,Western Australia,A(H1N1)pdm09,354
+Sep 1 2014,Western Australia,A(H3N2),216
+Sep 1 2014,Western Australia,A(unsubtyped),359
+Sep 1 2014,Western Australia,B,181
+Sep 1 2014,Western Australia,C,0
+Sep 1 2014,Western Australia,A and B,0
+Sep 1 2014,Western Australia,Untyped,0
+Oct 1 2014,New South Wales,A(H1N1)pdm09,26
+Oct 1 2014,New South Wales,A(H3N2),56
+Oct 1 2014,New South Wales,A(unsubtyped),499
+Oct 1 2014,New South Wales,B,337
+Oct 1 2014,New South Wales,C,0
+Oct 1 2014,New South Wales,A and B,7
+Oct 1 2014,New South Wales,Untyped,2
+Oct 1 2014,Northern Territory,A(H1N1)pdm09,3
+Oct 1 2014,Northern Territory,A(H3N2),19
+Oct 1 2014,Northern Territory,A(unsubtyped),29
+Oct 1 2014,Northern Territory,B,18
+Oct 1 2014,Northern Territory,C,0
+Oct 1 2014,Northern Territory,A and B,0
+Oct 1 2014,Northern Territory,Untyped,0
+Oct 1 2014,Queensland,A(H1N1)pdm09,58
+Oct 1 2014,Queensland,A(H3N2),148
+Oct 1 2014,Queensland,A(unsubtyped),751
+Oct 1 2014,Queensland,B,356
+Oct 1 2014,Queensland,C,0
+Oct 1 2014,Queensland,A and B,0
+Oct 1 2014,Queensland,Untyped,0
+Oct 1 2014,South Australia,A(H1N1)pdm09,7
+Oct 1 2014,South Australia,A(H3N2),0
+Oct 1 2014,South Australia,A(unsubtyped),1077
+Oct 1 2014,South Australia,B,131
+Oct 1 2014,South Australia,C,0
+Oct 1 2014,South Australia,A and B,0
+Oct 1 2014,South Australia,Untyped,0
+Oct 1 2014,Tasmania,A(H1N1)pdm09,6
+Oct 1 2014,Tasmania,A(H3N2),9
+Oct 1 2014,Tasmania,A(unsubtyped),17
+Oct 1 2014,Tasmania,B,12
+Oct 1 2014,Tasmania,C,0
+Oct 1 2014,Tasmania,A and B,0
+Oct 1 2014,Tasmania,Untyped,0
+Oct 1 2014,Victoria,A(H1N1)pdm09,19
+Oct 1 2014,Victoria,A(H3N2),8
+Oct 1 2014,Victoria,A(unsubtyped),818
+Oct 1 2014,Victoria,B,105
+Oct 1 2014,Victoria,C,2
+Oct 1 2014,Victoria,A and B,5
+Oct 1 2014,Victoria,Untyped,0
+Oct 1 2014,Western Australia,A(H1N1)pdm09,62
+Oct 1 2014,Western Australia,A(H3N2),78
+Oct 1 2014,Western Australia,A(unsubtyped),184
+Oct 1 2014,Western Australia,B,112
+Oct 1 2014,Western Australia,C,0
+Oct 1 2014,Western Australia,A and B,0
+Oct 1 2014,Western Australia,Untyped,0
+Nov 1 2014,New South Wales,A(H1N1)pdm09,3
+Nov 1 2014,New South Wales,A(H3N2),16
+Nov 1 2014,New South Wales,A(unsubtyped),109
+Nov 1 2014,New South Wales,B,68
+Nov 1 2014,New South Wales,C,0
+Nov 1 2014,New South Wales,A and B,4
+Nov 1 2014,New South Wales,Untyped,0
+Nov 1 2014,Northern Territory,A(H1N1)pdm09,2
+Nov 1 2014,Northern Territory,A(H3N2),3
+Nov 1 2014,Northern Territory,A(unsubtyped),7
+Nov 1 2014,Northern Territory,B,8
+Nov 1 2014,Northern Territory,C,0
+Nov 1 2014,Northern Territory,A and B,0
+Nov 1 2014,Northern Territory,Untyped,0
+Nov 1 2014,Queensland,A(H1N1)pdm09,17
+Nov 1 2014,Queensland,A(H3N2),46
+Nov 1 2014,Queensland,A(unsubtyped),151
+Nov 1 2014,Queensland,B,86
+Nov 1 2014,Queensland,C,0
+Nov 1 2014,Queensland,A and B,0
+Nov 1 2014,Queensland,Untyped,0
+Nov 1 2014,South Australia,A(H1N1)pdm09,0
+Nov 1 2014,South Australia,A(H3N2),0
+Nov 1 2014,South Australia,A(unsubtyped),293
+Nov 1 2014,South Australia,B,61
+Nov 1 2014,South Australia,C,0
+Nov 1 2014,South Australia,A and B,0
+Nov 1 2014,South Australia,Untyped,0
+Nov 1 2014,Tasmania,A(H1N1)pdm09,0
+Nov 1 2014,Tasmania,A(H3N2),2
+Nov 1 2014,Tasmania,A(unsubtyped),6
+Nov 1 2014,Tasmania,B,0
+Nov 1 2014,Tasmania,C,0
+Nov 1 2014,Tasmania,A and B,0
+Nov 1 2014,Tasmania,Untyped,0
+Nov 1 2014,Victoria,A(H1N1)pdm09,1
+Nov 1 2014,Victoria,A(H3N2),1
+Nov 1 2014,Victoria,A(unsubtyped),142
+Nov 1 2014,Victoria,B,77
+Nov 1 2014,Victoria,C,0
+Nov 1 2014,Victoria,A and B,2
+Nov 1 2014,Victoria,Untyped,0
+Nov 1 2014,Western Australia,A(H1N1)pdm09,4
+Nov 1 2014,Western Australia,A(H3N2),14
+Nov 1 2014,Western Australia,A(unsubtyped),70
+Nov 1 2014,Western Australia,B,60
+Nov 1 2014,Western Australia,C,0
+Nov 1 2014,Western Australia,A and B,0
+Nov 1 2014,Western Australia,Untyped,0
+Des 1 2014,New South Wales,A(H1N1)pdm09,2
+Des 1 2014,New South Wales,A(H3N2),42
+Des 1 2014,New South Wales,A(unsubtyped),111
+Des 1 2014,New South Wales,B,64
+Des 1 2014,New South Wales,C,0
+Des 1 2014,New South Wales,A and B,1
+Des 1 2014,New South Wales,Untyped,0
+Des 1 2014,Northern Territory,A(H1N1)pdm09,8
+Des 1 2014,Northern Territory,A(H3N2),0
+Des 1 2014,Northern Territory,A(unsubtyped),18
+Des 1 2014,Northern Territory,B,8
+Des 1 2014,Northern Territory,C,0
+Des 1 2014,Northern Territory,A and B,0
+Des 1 2014,Northern Territory,Untyped,0
+Des 1 2014,Queensland,A(H1N1)pdm09,7
+Des 1 2014,Queensland,A(H3N2),122
+Des 1 2014,Queensland,A(unsubtyped),132
+Des 1 2014,Queensland,B,78
+Des 1 2014,Queensland,C,0
+Des 1 2014,Queensland,A and B,0
+Des 1 2014,Queensland,Untyped,0
+Des 1 2014,South Australia,A(H1N1)pdm09,0
+Des 1 2014,South Australia,A(H3N2),0
+Des 1 2014,South Australia,A(unsubtyped),101
+Des 1 2014,South Australia,B,11
+Des 1 2014,South Australia,C,0
+Des 1 2014,South Australia,A and B,0
+Des 1 2014,South Australia,Untyped,0
+Des 1 2014,Tasmania,A(H1N1)pdm09,2
+Des 1 2014,Tasmania,A(H3N2),0
+Des 1 2014,Tasmania,A(unsubtyped),11
+Des 1 2014,Tasmania,B,3
+Des 1 2014,Tasmania,C,0
+Des 1 2014,Tasmania,A and B,0
+Des 1 2014,Tasmania,Untyped,0
+Des 1 2014,Victoria,A(H1N1)pdm09,0
+Des 1 2014,Victoria,A(H3N2),1
+Des 1 2014,Victoria,A(unsubtyped),126
+Des 1 2014,Victoria,B,65
+Des 1 2014,Victoria,C,0
+Des 1 2014,Victoria,A and B,1
+Des 1 2014,Victoria,Untyped,0
+Des 1 2014,Western Australia,A(H1N1)pdm09,6
+Des 1 2014,Western Australia,A(H3N2),23
+Des 1 2014,Western Australia,A(unsubtyped),56
+Des 1 2014,Western Australia,B,25
+Des 1 2014,Western Australia,C,0
+Des 1 2014,Western Australia,A and B,0
+Des 1 2014,Western Australia,Untyped,0
+Jan 1 2015,New South Wales,A(H1N1)pdm09,14
+Jan 1 2015,New South Wales,A(H3N2),86
+Jan 1 2015,New South Wales,A(unsubtyped),145
+Jan 1 2015,New South Wales,B,58
+Jan 1 2015,New South Wales,C,0
+Jan 1 2015,New South Wales,A and B,1
+Jan 1 2015,New South Wales,Untyped,0
+Jan 1 2015,Northern Territory,A(H1N1)pdm09,6
+Jan 1 2015,Northern Territory,A(H3N2),2
+Jan 1 2015,Northern Territory,A(unsubtyped),5
+Jan 1 2015,Northern Territory,B,5
+Jan 1 2015,Northern Territory,C,0
+Jan 1 2015,Northern Territory,A and B,0
+Jan 1 2015,Northern Territory,Untyped,0
+Jan 1 2015,Queensland,A(H1N1)pdm09,16
+Jan 1 2015,Queensland,A(H3N2),182
+Jan 1 2015,Queensland,A(unsubtyped),248
+Jan 1 2015,Queensland,B,74
+Jan 1 2015,Queensland,C,
+Jan 1 2015,Queensland,A and B,
+Jan 1 2015,Queensland,Untyped,
+Jan 1 2015,South Australia,A(H1N1)pdm09,1
+Jan 1 2015,South Australia,A(H3N2),
+Jan 1 2015,South Australia,A(unsubtyped),106
+Jan 1 2015,South Australia,B,22
+Jan 1 2015,South Australia,C,
+Jan 1 2015,South Australia,A and B,
+Jan 1 2015,South Australia,Untyped,
+Jan 1 2015,Tasmania,A(H1N1)pdm09,
+Jan 1 2015,Tasmania,A(H3N2),1
+Jan 1 2015,Tasmania,A(unsubtyped),5
+Jan 1 2015,Tasmania,B,
+Jan 1 2015,Tasmania,C,
+Jan 1 2015,Tasmania,A and B,
+Jan 1 2015,Tasmania,Untyped,
+Jan 1 2015,Victoria,A(H1N1)pdm09,8
+Jan 1 2015,Victoria,A(H3N2),
+Jan 1 2015,Victoria,A(unsubtyped),122
+Jan 1 2015,Victoria,B,48
+Jan 1 2015,Victoria,C,
+Jan 1 2015,Victoria,A and B,2
+Jan 1 2015,Victoria,Untyped,
+Jan 1 2015,Western Australia,A(H1N1)pdm09,9
+Jan 1 2015,Western Australia,A(H3N2),57
+Jan 1 2015,Western Australia,A(unsubtyped),76
+Jan 1 2015,Western Australia,B,28
+Jan 1 2015,Western Australia,C,
+Jan 1 2015,Western Australia,A and B,
+Jan 1 2015,Western Australia,Untyped,
+Feb 1 2015,New South Wales,A(H1N1)pdm09,28
+Feb 1 2015,New South Wales,A(H3N2),94
+Feb 1 2015,New South Wales,A(unsubtyped),150
+Feb 1 2015,New South Wales,B,77
+Feb 1 2015,New South Wales,C,
+Feb 1 2015,New South Wales,A and B,2
+Feb 1 2015,New South Wales,Untyped,
+Feb 1 2015,Northern Territory,A(H1N1)pdm09,3
+Feb 1 2015,Northern Territory,A(H3N2),3
+Feb 1 2015,Northern Territory,A(unsubtyped),1
+Feb 1 2015,Northern Territory,B,2
+Feb 1 2015,Northern Territory,C,
+Feb 1 2015,Northern Territory,A and B,
+Feb 1 2015,Northern Territory,Untyped,
+Feb 1 2015,Queensland,A(H1N1)pdm09,21
+Feb 1 2015,Queensland,A(H3N2),87
+Feb 1 2015,Queensland,A(unsubtyped),193
+Feb 1 2015,Queensland,B,78
+Feb 1 2015,Queensland,C,
+Feb 1 2015,Queensland,A and B,
+Feb 1 2015,Queensland,Untyped,
+Feb 1 2015,South Australia,A(H1N1)pdm09,3
+Feb 1 2015,South Australia,A(H3N2),
+Feb 1 2015,South Australia,A(unsubtyped),160
+Feb 1 2015,South Australia,B,48
+Feb 1 2015,South Australia,C,
+Feb 1 2015,South Australia,A and B,
+Feb 1 2015,South Australia,Untyped,
+Feb 1 2015,Tasmania,A(H1N1)pdm09,
+Feb 1 2015,Tasmania,A(H3N2),3
+Feb 1 2015,Tasmania,A(unsubtyped),3
+Feb 1 2015,Tasmania,B,1
+Feb 1 2015,Tasmania,C,
+Feb 1 2015,Tasmania,A and B,
+Feb 1 2015,Tasmania,Untyped,
+Feb 1 2015,Victoria,A(H1N1)pdm09,4
+Feb 1 2015,Victoria,A(H3N2),1
+Feb 1 2015,Victoria,A(unsubtyped),135
+Feb 1 2015,Victoria,B,44
+Feb 1 2015,Victoria,C,
+Feb 1 2015,Victoria,A and B,2
+Feb 1 2015,Victoria,Untyped,
+Feb 1 2015,Western Australia,A(H1N1)pdm09,17
+Feb 1 2015,Western Australia,A(H3N2),57
+Feb 1 2015,Western Australia,A(unsubtyped),64
+Feb 1 2015,Western Australia,B,30
+Feb 1 2015,Western Australia,C,
+Feb 1 2015,Western Australia,A and B,
+Feb 1 2015,Western Australia,Untyped,
+Mar 1 2015,New South Wales,A(H1N1)pdm09,43
+Mar 1 2015,New South Wales,A(H3N2),77
+Mar 1 2015,New South Wales,A(unsubtyped),172
+Mar 1 2015,New South Wales,B,114
+Mar 1 2015,New South Wales,C,
+Mar 1 2015,New South Wales,A and B,2
+Mar 1 2015,New South Wales,Untyped,
+Mar 1 2015,Northern Territory,A(H1N1)pdm09,
+Mar 1 2015,Northern Territory,A(H3N2),2
+Mar 1 2015,Northern Territory,A(unsubtyped),3
+Mar 1 2015,Northern Territory,B,6
+Mar 1 2015,Northern Territory,C,
+Mar 1 2015,Northern Territory,A and B,
+Mar 1 2015,Northern Territory,Untyped,
+Mar 1 2015,Queensland,A(H1N1)pdm09,17
+Mar 1 2015,Queensland,A(H3N2),100
+Mar 1 2015,Queensland,A(unsubtyped),242
+Mar 1 2015,Queensland,B,114
+Mar 1 2015,Queensland,C,
+Mar 1 2015,Queensland,A and B,
+Mar 1 2015,Queensland,Untyped,
+Mar 1 2015,South Australia,A(H1N1)pdm09,
+Mar 1 2015,South Australia,A(H3N2),
+Mar 1 2015,South Australia,A(unsubtyped),265
+Mar 1 2015,South Australia,B,85
+Mar 1 2015,South Australia,C,
+Mar 1 2015,South Australia,A and B,
+Mar 1 2015,South Australia,Untyped,
+Mar 1 2015,Tasmania,A(H1N1)pdm09,
+Mar 1 2015,Tasmania,A(H3N2),5
+Mar 1 2015,Tasmania,A(unsubtyped),10
+Mar 1 2015,Tasmania,B,2
+Mar 1 2015,Tasmania,C,
+Mar 1 2015,Tasmania,A and B,
+Mar 1 2015,Tasmania,Untyped,
+Mar 1 2015,Victoria,A(H1N1)pdm09,4
+Mar 1 2015,Victoria,A(H3N2),7
+Mar 1 2015,Victoria,A(unsubtyped),184
+Mar 1 2015,Victoria,B,54
+Mar 1 2015,Victoria,C,
+Mar 1 2015,Victoria,A and B,
+Mar 1 2015,Victoria,Untyped,
+Mar 1 2015,Western Australia,A(H1N1)pdm09,7
+Mar 1 2015,Western Australia,A(H3N2),40
+Mar 1 2015,Western Australia,A(unsubtyped),72
+Mar 1 2015,Western Australia,B,41
+Mar 1 2015,Western Australia,C,
+Mar 1 2015,Western Australia,A and B,
+Mar 1 2015,Western Australia,Untyped,
+Apr 1 2015,New South Wales,A(H1N1)pdm09,7
+Apr 1 2015,New South Wales,A(H3N2),79
+Apr 1 2015,New South Wales,A(unsubtyped),158
+Apr 1 2015,New South Wales,B,123
+Apr 1 2015,New South Wales,C,
+Apr 1 2015,New South Wales,A and B,3
+Apr 1 2015,New South Wales,Untyped,
+Apr 1 2015,Northern Territory,A(H1N1)pdm09,
+Apr 1 2015,Northern Territory,A(H3N2),1
+Apr 1 2015,Northern Territory,A(unsubtyped),2
+Apr 1 2015,Northern Territory,B,13
+Apr 1 2015,Northern Territory,C,
+Apr 1 2015,Northern Territory,A and B,
+Apr 1 2015,Northern Territory,Untyped,
+Apr 1 2015,Queensland,A(H1N1)pdm09,4
+Apr 1 2015,Queensland,A(H3N2),100
+Apr 1 2015,Queensland,A(unsubtyped),283
+Apr 1 2015,Queensland,B,182
+Apr 1 2015,Queensland,C,
+Apr 1 2015,Queensland,A and B,
+Apr 1 2015,Queensland,Untyped,
+Apr 1 2015,South Australia,A(H1N1)pdm09,
+Apr 1 2015,South Australia,A(H3N2),
+Apr 1 2015,South Australia,A(unsubtyped),357
+Apr 1 2015,South Australia,B,135
+Apr 1 2015,South Australia,C,
+Apr 1 2015,South Australia,A and B,
+Apr 1 2015,South Australia,Untyped,
+Apr 1 2015,Tasmania,A(H1N1)pdm09,1
+Apr 1 2015,Tasmania,A(H3N2),7
+Apr 1 2015,Tasmania,A(unsubtyped),16
+Apr 1 2015,Tasmania,B,9
+Apr 1 2015,Tasmania,C,
+Apr 1 2015,Tasmania,A and B,
+Apr 1 2015,Tasmania,Untyped,
+Apr 1 2015,Victoria,A(H1N1)pdm09,3
+Apr 1 2015,Victoria,A(H3N2),
+Apr 1 2015,Victoria,A(unsubtyped),230
+Apr 1 2015,Victoria,B,123
+Apr 1 2015,Victoria,C,1
+Apr 1 2015,Victoria,A and B,3
+Apr 1 2015,Victoria,Untyped,
+Apr 1 2015,Western Australia,A(H1N1)pdm09,14
+Apr 1 2015,Western Australia,A(H3N2),68
+Apr 1 2015,Western Australia,A(unsubtyped),71
+Apr 1 2015,Western Australia,B,56
+Apr 1 2015,Western Australia,C,
+Apr 1 2015,Western Australia,A and B,
+Apr 1 2015,Western Australia,Untyped,
+May 1 2015,New South Wales,A(H1N1)pdm09,17
+May 1 2015,New South Wales,A(H3N2),61
+May 1 2015,New South Wales,A(unsubtyped),166
+May 1 2015,New South Wales,B,219
+May 1 2015,New South Wales,C,
+May 1 2015,New South Wales,A and B,5
+May 1 2015,New South Wales,Untyped,
+May 1 2015,Northern Territory,A(H1N1)pdm09,
+May 1 2015,Northern Territory,A(H3N2),2
+May 1 2015,Northern Territory,A(unsubtyped),4
+May 1 2015,Northern Territory,B,11
+May 1 2015,Northern Territory,C,
+May 1 2015,Northern Territory,A and B,
+May 1 2015,Northern Territory,Untyped,
+May 1 2015,Queensland,A(H1N1)pdm09,4
+May 1 2015,Queensland,A(H3N2),69
+May 1 2015,Queensland,A(unsubtyped),362
+May 1 2015,Queensland,B,406
+May 1 2015,Queensland,C,
+May 1 2015,Queensland,A and B,
+May 1 2015,Queensland,Untyped,
+May 1 2015,South Australia,A(H1N1)pdm09,1
+May 1 2015,South Australia,A(H3N2),
+May 1 2015,South Australia,A(unsubtyped),213
+May 1 2015,South Australia,B,326
+May 1 2015,South Australia,C,
+May 1 2015,South Australia,A and B,
+May 1 2015,South Australia,Untyped,
+May 1 2015,Tasmania,A(H1N1)pdm09,2
+May 1 2015,Tasmania,A(H3N2),13
+May 1 2015,Tasmania,A(unsubtyped),20
+May 1 2015,Tasmania,B,3
+May 1 2015,Tasmania,C,
+May 1 2015,Tasmania,A and B,
+May 1 2015,Tasmania,Untyped,
+May 1 2015,Victoria,A(H1N1)pdm09,4
+May 1 2015,Victoria,A(H3N2),
+May 1 2015,Victoria,A(unsubtyped),258
+May 1 2015,Victoria,B,228
+May 1 2015,Victoria,C,
+May 1 2015,Victoria,A and B,7
+May 1 2015,Victoria,Untyped,
+May 1 2015,Western Australia,A(H1N1)pdm09,11
+May 1 2015,Western Australia,A(H3N2),70
+May 1 2015,Western Australia,A(unsubtyped),99
+May 1 2015,Western Australia,B,181
+May 1 2015,Western Australia,C,
+May 1 2015,Western Australia,A and B,
+May 1 2015,Western Australia,Untyped,
+Jun 1 2015,New South Wales,A(H1N1)pdm09,30
+Jun 1 2015,New South Wales,A(H3N2),60
+Jun 1 2015,New South Wales,A(unsubtyped),286
+Jun 1 2015,New South Wales,B,506
+Jun 1 2015,New South Wales,C,
+Jun 1 2015,New South Wales,A and B,2
+Jun 1 2015,New South Wales,Untyped,
+Jun 1 2015,Northern Territory,A(H1N1)pdm09,4
+Jun 1 2015,Northern Territory,A(H3N2),
+Jun 1 2015,Northern Territory,A(unsubtyped),3
+Jun 1 2015,Northern Territory,B,7
+Jun 1 2015,Northern Territory,C,
+Jun 1 2015,Northern Territory,A and B,
+Jun 1 2015,Northern Territory,Untyped,
+Jun 1 2015,Queensland,A(H1N1)pdm09,13
+Jun 1 2015,Queensland,A(H3N2),74
+Jun 1 2015,Queensland,A(unsubtyped),310
+Jun 1 2015,Queensland,B,599
+Jun 1 2015,Queensland,C,
+Jun 1 2015,Queensland,A and B,
+Jun 1 2015,Queensland,Untyped,
+Jun 1 2015,South Australia,A(H1N1)pdm09,
+Jun 1 2015,South Australia,A(H3N2),
+Jun 1 2015,South Australia,A(unsubtyped),205
+Jun 1 2015,South Australia,B,625
+Jun 1 2015,South Australia,C,
+Jun 1 2015,South Australia,A and B,
+Jun 1 2015,South Australia,Untyped,
+Jun 1 2015,Tasmania,A(H1N1)pdm09,7
+Jun 1 2015,Tasmania,A(H3N2),15
+Jun 1 2015,Tasmania,A(unsubtyped),23
+Jun 1 2015,Tasmania,B,13
+Jun 1 2015,Tasmania,C,
+Jun 1 2015,Tasmania,A and B,
+Jun 1 2015,Tasmania,Untyped,
+Jun 1 2015,Victoria,A(H1N1)pdm09,9
+Jun 1 2015,Victoria,A(H3N2),6
+Jun 1 2015,Victoria,A(unsubtyped),332
+Jun 1 2015,Victoria,B,478
+Jun 1 2015,Victoria,C,
+Jun 1 2015,Victoria,A and B,12
+Jun 1 2015,Victoria,Untyped,
+Jun 1 2015,Western Australia,A(H1N1)pdm09,11
+Jun 1 2015,Western Australia,A(H3N2),79
+Jun 1 2015,Western Australia,A(unsubtyped),95
+Jun 1 2015,Western Australia,B,298
+Jun 1 2015,Western Australia,C,
+Jun 1 2015,Western Australia,A and B,
+Jun 1 2015,Western Australia,Untyped,1
+Jul 1 2015,New South Wales,A(H1N1)pdm09,140
+Jul 1 2015,New South Wales,A(H3N2),272
+Jul 1 2015,New South Wales,A(unsubtyped),723
+Jul 1 2015,New South Wales,B,1962
+Jul 1 2015,New South Wales,C,
+Jul 1 2015,New South Wales,A and B,13
+Jul 1 2015,New South Wales,Untyped,
+Jul 1 2015,Northern Territory,A(H1N1)pdm09,
+Jul 1 2015,Northern Territory,A(H3N2),4
+Jul 1 2015,Northern Territory,A(unsubtyped),10
+Jul 1 2015,Northern Territory,B,25
+Jul 1 2015,Northern Territory,C,
+Jul 1 2015,Northern Territory,A and B,
+Jul 1 2015,Northern Territory,Untyped,
+Jul 1 2015,Queensland,A(H1N1)pdm09,26
+Jul 1 2015,Queensland,A(H3N2),129
+Jul 1 2015,Queensland,A(unsubtyped),810
+Jul 1 2015,Queensland,B,2571
+Jul 1 2015,Queensland,C,
+Jul 1 2015,Queensland,A and B,
+Jul 1 2015,Queensland,Untyped,
+Jul 1 2015,South Australia,A(H1N1)pdm09,18
+Jul 1 2015,South Australia,A(H3N2),
+Jul 1 2015,South Australia,A(unsubtyped),810
+Jul 1 2015,South Australia,B,1699
+Jul 1 2015,South Australia,C,
+Jul 1 2015,South Australia,A and B,
+Jul 1 2015,South Australia,Untyped,
+Jul 1 2015,Tasmania,A(H1N1)pdm09,5
+Jul 1 2015,Tasmania,A(H3N2),42
+Jul 1 2015,Tasmania,A(unsubtyped),54
+Jul 1 2015,Tasmania,B,51
+Jul 1 2015,Tasmania,C,
+Jul 1 2015,Tasmania,A and B,
+Jul 1 2015,Tasmania,Untyped,
+Jul 1 2015,Victoria,A(H1N1)pdm09,6
+Jul 1 2015,Victoria,A(H3N2),5
+Jul 1 2015,Victoria,A(unsubtyped),1166
+Jul 1 2015,Victoria,B,1646
+Jul 1 2015,Victoria,C,
+Jul 1 2015,Victoria,A and B,9
+Jul 1 2015,Victoria,Untyped,
+Jul 1 2015,Western Australia,A(H1N1)pdm09,29
+Jul 1 2015,Western Australia,A(H3N2),185
+Jul 1 2015,Western Australia,A(unsubtyped),141
+Jul 1 2015,Western Australia,B,744
+Jul 1 2015,Western Australia,C,
+Jul 1 2015,Western Australia,A and B,
+Jul 1 2015,Western Australia,Untyped,
+Aug 1 2015,New South Wales,A(H1N1)pdm09,628
+Aug 1 2015,New South Wales,A(H3N2),1189
+Aug 1 2015,New South Wales,A(unsubtyped),1842
+Aug 1 2015,New South Wales,B,7649
+Aug 1 2015,New South Wales,C,
+Aug 1 2015,New South Wales,A and B,41
+Aug 1 2015,New South Wales,Untyped,
+Aug 1 2015,Northern Territory,A(H1N1)pdm09,
+Aug 1 2015,Northern Territory,A(H3N2),11
+Aug 1 2015,Northern Territory,A(unsubtyped),21
+Aug 1 2015,Northern Territory,B,76
+Aug 1 2015,Northern Territory,C,
+Aug 1 2015,Northern Territory,A and B,1
+Aug 1 2015,Northern Territory,Untyped,
+Aug 1 2015,Queensland,A(H1N1)pdm09,25
+Aug 1 2015,Queensland,A(H3N2),248
+Aug 1 2015,Queensland,A(unsubtyped),2368
+Aug 1 2015,Queensland,B,8239
+Aug 1 2015,Queensland,C,
+Aug 1 2015,Queensland,A and B,
+Aug 1 2015,Queensland,Untyped,
+Aug 1 2015,South Australia,A(H1N1)pdm09,5
+Aug 1 2015,South Australia,A(H3N2),
+Aug 1 2015,South Australia,A(unsubtyped),1913
+Aug 1 2015,South Australia,B,3023
+Aug 1 2015,South Australia,C,
+Aug 1 2015,South Australia,A and B,
+Aug 1 2015,South Australia,Untyped,
+Aug 1 2015,Tasmania,A(H1N1)pdm09,3
+Aug 1 2015,Tasmania,A(H3N2),122
+Aug 1 2015,Tasmania,A(unsubtyped),145
+Aug 1 2015,Tasmania,B,184
+Aug 1 2015,Tasmania,C,
+Aug 1 2015,Tasmania,A and B,
+Aug 1 2015,Tasmania,Untyped,
+Aug 1 2015,Victoria,A(H1N1)pdm09,11
+Aug 1 2015,Victoria,A(H3N2),58
+Aug 1 2015,Victoria,A(unsubtyped),2214
+Aug 1 2015,Victoria,B,3655
+Aug 1 2015,Victoria,C,
+Aug 1 2015,Victoria,A and B,31
+Aug 1 2015,Victoria,Untyped,
+Aug 1 2015,Western Australia,A(H1N1)pdm09,37
+Aug 1 2015,Western Australia,A(H3N2),286
+Aug 1 2015,Western Australia,A(unsubtyped),202
+Aug 1 2015,Western Australia,B,731
+Aug 1 2015,Western Australia,C,
+Aug 1 2015,Western Australia,A and B,
+Aug 1 2015,Western Australia,Untyped,
+Sep 1 2015,New South Wales,A(H1N1)pdm09,613
+Sep 1 2015,New South Wales,A(H3N2),956
+Sep 1 2015,New South Wales,A(unsubtyped),1801
+Sep 1 2015,New South Wales,B,7124
+Sep 1 2015,New South Wales,C,
+Sep 1 2015,New South Wales,A and B,33
+Sep 1 2015,New South Wales,Untyped,
+Sep 1 2015,Northern Territory,A(H1N1)pdm09,2
+Sep 1 2015,Northern Territory,A(H3N2),28
+Sep 1 2015,Northern Territory,A(unsubtyped),33
+Sep 1 2015,Northern Territory,B,107
+Sep 1 2015,Northern Territory,C,
+Sep 1 2015,Northern Territory,A and B,1
+Sep 1 2015,Northern Territory,Untyped,
+Sep 1 2015,Queensland,A(H1N1)pdm09,27
+Sep 1 2015,Queensland,A(H3N2),171
+Sep 1 2015,Queensland,A(unsubtyped),2397
+Sep 1 2015,Queensland,B,5029
+Sep 1 2015,Queensland,C,
+Sep 1 2015,Queensland,A and B,
+Sep 1 2015,Queensland,Untyped,
+Sep 1 2015,South Australia,A(H1N1)pdm09,
+Sep 1 2015,South Australia,A(H3N2),
+Sep 1 2015,South Australia,A(unsubtyped),2029
+Sep 1 2015,South Australia,B,2084
+Sep 1 2015,South Australia,C,
+Sep 1 2015,South Australia,A and B,
+Sep 1 2015,South Australia,Untyped,
+Sep 1 2015,Tasmania,A(H1N1)pdm09,2
+Sep 1 2015,Tasmania,A(H3N2),77
+Sep 1 2015,Tasmania,A(unsubtyped),114
+Sep 1 2015,Tasmania,B,310
+Sep 1 2015,Tasmania,C,
+Sep 1 2015,Tasmania,A and B,
+Sep 1 2015,Tasmania,Untyped,
+Sep 1 2015,Victoria,A(H1N1)pdm09,7
+Sep 1 2015,Victoria,A(H3N2),8
+Sep 1 2015,Victoria,A(unsubtyped),1757
+Sep 1 2015,Victoria,B,3083
+Sep 1 2015,Victoria,C,
+Sep 1 2015,Victoria,A and B,20
+Sep 1 2015,Victoria,Untyped,1
+Sep 1 2015,Western Australia,A(H1N1)pdm09,31
+Sep 1 2015,Western Australia,A(H3N2),327
+Sep 1 2015,Western Australia,A(unsubtyped),272
+Sep 1 2015,Western Australia,B,600
+Sep 1 2015,Western Australia,C,
+Sep 1 2015,Western Australia,A and B,
+Sep 1 2015,Western Australia,Untyped,
+Oct 1 2015,New South Wales,A(H1N1)pdm09,110
+Oct 1 2015,New South Wales,A(H3N2),259
+Oct 1 2015,New South Wales,A(unsubtyped),503
+Oct 1 2015,New South Wales,B,1174
+Oct 1 2015,New South Wales,C,
+Oct 1 2015,New South Wales,A and B,5
+Oct 1 2015,New South Wales,Untyped,
+Oct 1 2015,Northern Territory,A(H1N1)pdm09,6
+Oct 1 2015,Northern Territory,A(H3N2),28
+Oct 1 2015,Northern Territory,A(unsubtyped),59
+Oct 1 2015,Northern Territory,B,42
+Oct 1 2015,Northern Territory,C,
+Oct 1 2015,Northern Territory,A and B,
+Oct 1 2015,Northern Territory,Untyped,
+Oct 1 2015,Queensland,A(H1N1)pdm09,12
+Oct 1 2015,Queensland,A(H3N2),134
+Oct 1 2015,Queensland,A(unsubtyped),649
+Oct 1 2015,Queensland,B,860
+Oct 1 2015,Queensland,C,
+Oct 1 2015,Queensland,A and B,
+Oct 1 2015,Queensland,Untyped,
+Oct 1 2015,South Australia,A(H1N1)pdm09,
+Oct 1 2015,South Australia,A(H3N2),
+Oct 1 2015,South Australia,A(unsubtyped),712
+Oct 1 2015,South Australia,B,615
+Oct 1 2015,South Australia,C,
+Oct 1 2015,South Australia,A and B,
+Oct 1 2015,South Australia,Untyped,
+Oct 1 2015,Tasmania,A(H1N1)pdm09,4
+Oct 1 2015,Tasmania,A(H3N2),23
+Oct 1 2015,Tasmania,A(unsubtyped),43
+Oct 1 2015,Tasmania,B,69
+Oct 1 2015,Tasmania,C,
+Oct 1 2015,Tasmania,A and B,
+Oct 1 2015,Tasmania,Untyped,
+Oct 1 2015,Victoria,A(H1N1)pdm09,3
+Oct 1 2015,Victoria,A(H3N2),2
+Oct 1 2015,Victoria,A(unsubtyped),465
+Oct 1 2015,Victoria,B,603
+Oct 1 2015,Victoria,C,
+Oct 1 2015,Victoria,A and B,10
+Oct 1 2015,Victoria,Untyped,
+Oct 1 2015,Western Australia,A(H1N1)pdm09,33
+Oct 1 2015,Western Australia,A(H3N2),172
+Oct 1 2015,Western Australia,A(unsubtyped),181
+Oct 1 2015,Western Australia,B,236
+Oct 1 2015,Western Australia,C,
+Oct 1 2015,Western Australia,A and B,
+Oct 1 2015,Western Australia,Untyped,
+Nov 1 2015,New South Wales,A(H1N1)pdm09,19
+Nov 1 2015,New South Wales,A(H3N2),44
+Nov 1 2015,New South Wales,A(unsubtyped),118
+Nov 1 2015,New South Wales,B,108
+Nov 1 2015,New South Wales,C,
+Nov 1 2015,New South Wales,A and B,
+Nov 1 2015,New South Wales,Untyped,
+Nov 1 2015,Northern Territory,A(H1N1)pdm09,2
+Nov 1 2015,Northern Territory,A(H3N2),36
+Nov 1 2015,Northern Territory,A(unsubtyped),28
+Nov 1 2015,Northern Territory,B,25
+Nov 1 2015,Northern Territory,C,
+Nov 1 2015,Northern Territory,A and B,
+Nov 1 2015,Northern Territory,Untyped,
+Nov 1 2015,Queensland,A(H1N1)pdm09,11
+Nov 1 2015,Queensland,A(H3N2),40
+Nov 1 2015,Queensland,A(unsubtyped),210
+Nov 1 2015,Queensland,B,108
+Nov 1 2015,Queensland,C,
+Nov 1 2015,Queensland,A and B,
+Nov 1 2015,Queensland,Untyped,
+Nov 1 2015,South Australia,A(H1N1)pdm09,
+Nov 1 2015,South Australia,A(H3N2),
+Nov 1 2015,South Australia,A(unsubtyped),69
+Nov 1 2015,South Australia,B,68
+Nov 1 2015,South Australia,C,
+Nov 1 2015,South Australia,A and B,
+Nov 1 2015,South Australia,Untyped,
+Nov 1 2015,Tasmania,A(H1N1)pdm09,
+Nov 1 2015,Tasmania,A(H3N2),2
+Nov 1 2015,Tasmania,A(unsubtyped),10
+Nov 1 2015,Tasmania,B,4
+Nov 1 2015,Tasmania,C,
+Nov 1 2015,Tasmania,A and B,
+Nov 1 2015,Tasmania,Untyped,
+Nov 1 2015,Victoria,A(H1N1)pdm09,1
+Nov 1 2015,Victoria,A(H3N2),
+Nov 1 2015,Victoria,A(unsubtyped),89
+Nov 1 2015,Victoria,B,55
+Nov 1 2015,Victoria,C,
+Nov 1 2015,Victoria,A and B,
+Nov 1 2015,Victoria,Untyped,
+Nov 1 2015,Western Australia,A(H1N1)pdm09,3
+Nov 1 2015,Western Australia,A(H3N2),32
+Nov 1 2015,Western Australia,A(unsubtyped),39
+Nov 1 2015,Western Australia,B,36
+Nov 1 2015,Western Australia,C,
+Nov 1 2015,Western Australia,A and B,
+Nov 1 2015,Western Australia,Untyped,
+Des 1 2015,New South Wales,A(H1N1)pdm09,32
+Des 1 2015,New South Wales,A(H3N2),17
+Des 1 2015,New South Wales,A(unsubtyped),83
+Des 1 2015,New South Wales,B,35
+Des 1 2015,New South Wales,C,
+Des 1 2015,New South Wales,A and B,2
+Des 1 2015,New South Wales,Untyped,
+Des 1 2015,Northern Territory,A(H1N1)pdm09,2
+Des 1 2015,Northern Territory,A(H3N2),19
+Des 1 2015,Northern Territory,A(unsubtyped),4
+Des 1 2015,Northern Territory,B,15
+Des 1 2015,Northern Territory,C,
+Des 1 2015,Northern Territory,A and B,
+Des 1 2015,Northern Territory,Untyped,
+Des 1 2015,Queensland,A(H1N1)pdm09,18
+Des 1 2015,Queensland,A(H3N2),27
+Des 1 2015,Queensland,A(unsubtyped),167
+Des 1 2015,Queensland,B,40
+Des 1 2015,Queensland,C,
+Des 1 2015,Queensland,A and B,
+Des 1 2015,Queensland,Untyped,
+Des 1 2015,South Australia,A(H1N1)pdm09,
+Des 1 2015,South Australia,A(H3N2),
+Des 1 2015,South Australia,A(unsubtyped),47
+Des 1 2015,South Australia,B,15
+Des 1 2015,South Australia,C,
+Des 1 2015,South Australia,A and B,
+Des 1 2015,South Australia,Untyped,
+Des 1 2015,Tasmania,A(H1N1)pdm09,2
+Des 1 2015,Tasmania,A(H3N2),1
+Des 1 2015,Tasmania,A(unsubtyped),9
+Des 1 2015,Tasmania,B,1
+Des 1 2015,Tasmania,C,
+Des 1 2015,Tasmania,A and B,
+Des 1 2015,Tasmania,Untyped,
+Des 1 2015,Victoria,A(H1N1)pdm09,3
+Des 1 2015,Victoria,A(H3N2),
+Des 1 2015,Victoria,A(unsubtyped),56
+Des 1 2015,Victoria,B,15
+Des 1 2015,Victoria,C,
+Des 1 2015,Victoria,A and B,1
+Des 1 2015,Victoria,Untyped,
+Des 1 2015,Western Australia,A(H1N1)pdm09,43
+Des 1 2015,Western Australia,A(H3N2),16
+Des 1 2015,Western Australia,A(unsubtyped),54
+Des 1 2015,Western Australia,B,13
+Des 1 2015,Western Australia,C,
+Des 1 2015,Western Australia,A and B,
+Des 1 2015,Western Australia,Untyped,
+Jan 1 2016,New South Wales,A(H1N1)pdm09,
+Jan 1 2016,New South Wales,A(H3N2),
+Jan 1 2016,New South Wales,A(unsubtyped),
+Jan 1 2016,New South Wales,B,
+Jan 1 2016,New South Wales,C,
+Jan 1 2016,New South Wales,A and B,
+Jan 1 2016,New South Wales,Untyped,
+Jan 1 2016,Northern Territory,A(H1N1)pdm09,
+Jan 1 2016,Northern Territory,A(H3N2),
+Jan 1 2016,Northern Territory,A(unsubtyped),
+Jan 1 2016,Northern Territory,B,
+Jan 1 2016,Northern Territory,C,
+Jan 1 2016,Northern Territory,A and B,
+Jan 1 2016,Northern Territory,Untyped,
+Jan 1 2016,Queensland,A(H1N1)pdm09,
+Jan 1 2016,Queensland,A(H3N2),
+Jan 1 2016,Queensland,A(unsubtyped),
+Jan 1 2016,Queensland,B,
+Jan 1 2016,Queensland,C,
+Jan 1 2016,Queensland,A and B,
+Jan 1 2016,Queensland,Untyped,
+Jan 1 2016,South Australia,A(H1N1)pdm09,
+Jan 1 2016,South Australia,A(H3N2),
+Jan 1 2016,South Australia,A(unsubtyped),
+Jan 1 2016,South Australia,B,
+Jan 1 2016,South Australia,C,
+Jan 1 2016,South Australia,A and B,
+Jan 1 2016,South Australia,Untyped,
+Jan 1 2016,Tasmania,A(H1N1)pdm09,
+Jan 1 2016,Tasmania,A(H3N2),
+Jan 1 2016,Tasmania,A(unsubtyped),
+Jan 1 2016,Tasmania,B,
+Jan 1 2016,Tasmania,C,
+Jan 1 2016,Tasmania,A and B,
+Jan 1 2016,Tasmania,Untyped,
+Jan 1 2016,Victoria,A(H1N1)pdm09,
+Jan 1 2016,Victoria,A(H3N2),
+Jan 1 2016,Victoria,A(unsubtyped),
+Jan 1 2016,Victoria,B,
+Jan 1 2016,Victoria,C,
+Jan 1 2016,Victoria,A and B,
+Jan 1 2016,Victoria,Untyped,
+Jan 1 2016,Western Australia,A(H1N1)pdm09,
+Jan 1 2016,Western Australia,A(H3N2),
+Jan 1 2016,Western Australia,A(unsubtyped),
+Jan 1 2016,Western Australia,B,
+Jan 1 2016,Western Australia,C,
+Jan 1 2016,Western Australia,A and B,
+Jan 1 2016,Western Australia,Untyped,
+Feb 1 2016,New South Wales,A(H1N1)pdm09,
+Feb 1 2016,New South Wales,A(H3N2),
+Feb 1 2016,New South Wales,A(unsubtyped),
+Feb 1 2016,New South Wales,B,
+Feb 1 2016,New South Wales,C,
+Feb 1 2016,New South Wales,A and B,
+Feb 1 2016,New South Wales,Untyped,
+Feb 1 2016,Northern Territory,A(H1N1)pdm09,
+Feb 1 2016,Northern Territory,A(H3N2),
+Feb 1 2016,Northern Territory,A(unsubtyped),
+Feb 1 2016,Northern Territory,B,
+Feb 1 2016,Northern Territory,C,
+Feb 1 2016,Northern Territory,A and B,
+Feb 1 2016,Northern Territory,Untyped,
+Feb 1 2016,Queensland,A(H1N1)pdm09,
+Feb 1 2016,Queensland,A(H3N2),
+Feb 1 2016,Queensland,A(unsubtyped),
+Feb 1 2016,Queensland,B,
+Feb 1 2016,Queensland,C,
+Feb 1 2016,Queensland,A and B,
+Feb 1 2016,Queensland,Untyped,
+Feb 1 2016,South Australia,A(H1N1)pdm09,
+Feb 1 2016,South Australia,A(H3N2),
+Feb 1 2016,South Australia,A(unsubtyped),
+Feb 1 2016,South Australia,B,
+Feb 1 2016,South Australia,C,
+Feb 1 2016,South Australia,A and B,
+Feb 1 2016,South Australia,Untyped,
+Feb 1 2016,Tasmania,A(H1N1)pdm09,
+Feb 1 2016,Tasmania,A(H3N2),
+Feb 1 2016,Tasmania,A(unsubtyped),
+Feb 1 2016,Tasmania,B,
+Feb 1 2016,Tasmania,C,
+Feb 1 2016,Tasmania,A and B,
+Feb 1 2016,Tasmania,Untyped,
+Feb 1 2016,Victoria,A(H1N1)pdm09,
+Feb 1 2016,Victoria,A(H3N2),
+Feb 1 2016,Victoria,A(unsubtyped),
+Feb 1 2016,Victoria,B,
+Feb 1 2016,Victoria,C,
+Feb 1 2016,Victoria,A and B,
+Feb 1 2016,Victoria,Untyped,
+Feb 1 2016,Western Australia,A(H1N1)pdm09,
+Feb 1 2016,Western Australia,A(H3N2),
+Feb 1 2016,Western Australia,A(unsubtyped),
+Feb 1 2016,Western Australia,B,
+Feb 1 2016,Western Australia,C,
+Feb 1 2016,Western Australia,A and B,
+Feb 1 2016,Western Australia,Untyped,
+Mar 1 2016,New South Wales,A(H1N1)pdm09,
+Mar 1 2016,New South Wales,A(H3N2),
+Mar 1 2016,New South Wales,A(unsubtyped),
+Mar 1 2016,New South Wales,B,
+Mar 1 2016,New South Wales,C,
+Mar 1 2016,New South Wales,A and B,
+Mar 1 2016,New South Wales,Untyped,
+Mar 1 2016,Northern Territory,A(H1N1)pdm09,
+Mar 1 2016,Northern Territory,A(H3N2),
+Mar 1 2016,Northern Territory,A(unsubtyped),
+Mar 1 2016,Northern Territory,B,
+Mar 1 2016,Northern Territory,C,
+Mar 1 2016,Northern Territory,A and B,
+Mar 1 2016,Northern Territory,Untyped,
+Mar 1 2016,Queensland,A(H1N1)pdm09,
+Mar 1 2016,Queensland,A(H3N2),
+Mar 1 2016,Queensland,A(unsubtyped),
+Mar 1 2016,Queensland,B,
+Mar 1 2016,Queensland,C,
+Mar 1 2016,Queensland,A and B,
+Mar 1 2016,Queensland,Untyped,
+Mar 1 2016,South Australia,A(H1N1)pdm09,
+Mar 1 2016,South Australia,A(H3N2),
+Mar 1 2016,South Australia,A(unsubtyped),
+Mar 1 2016,South Australia,B,
+Mar 1 2016,South Australia,C,
+Mar 1 2016,South Australia,A and B,
+Mar 1 2016,South Australia,Untyped,
+Mar 1 2016,Tasmania,A(H1N1)pdm09,
+Mar 1 2016,Tasmania,A(H3N2),
+Mar 1 2016,Tasmania,A(unsubtyped),
+Mar 1 2016,Tasmania,B,
+Mar 1 2016,Tasmania,C,
+Mar 1 2016,Tasmania,A and B,
+Mar 1 2016,Tasmania,Untyped,
+Mar 1 2016,Victoria,A(H1N1)pdm09,
+Mar 1 2016,Victoria,A(H3N2),
+Mar 1 2016,Victoria,A(unsubtyped),
+Mar 1 2016,Victoria,B,
+Mar 1 2016,Victoria,C,
+Mar 1 2016,Victoria,A and B,
+Mar 1 2016,Victoria,Untyped,
+Mar 1 2016,Western Australia,A(H1N1)pdm09,
+Mar 1 2016,Western Australia,A(H3N2),
+Mar 1 2016,Western Australia,A(unsubtyped),
+Mar 1 2016,Western Australia,B,
+Mar 1 2016,Western Australia,C,
+Mar 1 2016,Western Australia,A and B,
+Mar 1 2016,Western Australia,Untyped,
+Apr 1 2016,New South Wales,A(H1N1)pdm09,
+Apr 1 2016,New South Wales,A(H3N2),
+Apr 1 2016,New South Wales,A(unsubtyped),
+Apr 1 2016,New South Wales,B,
+Apr 1 2016,New South Wales,C,
+Apr 1 2016,New South Wales,A and B,
+Apr 1 2016,New South Wales,Untyped,
+Apr 1 2016,Northern Territory,A(H1N1)pdm09,
+Apr 1 2016,Northern Territory,A(H3N2),
+Apr 1 2016,Northern Territory,A(unsubtyped),
+Apr 1 2016,Northern Territory,B,
+Apr 1 2016,Northern Territory,C,
+Apr 1 2016,Northern Territory,A and B,
+Apr 1 2016,Northern Territory,Untyped,
+Apr 1 2016,Queensland,A(H1N1)pdm09,
+Apr 1 2016,Queensland,A(H3N2),
+Apr 1 2016,Queensland,A(unsubtyped),
+Apr 1 2016,Queensland,B,
+Apr 1 2016,Queensland,C,
+Apr 1 2016,Queensland,A and B,
+Apr 1 2016,Queensland,Untyped,
+Apr 1 2016,South Australia,A(H1N1)pdm09,
+Apr 1 2016,South Australia,A(H3N2),
+Apr 1 2016,South Australia,A(unsubtyped),
+Apr 1 2016,South Australia,B,
+Apr 1 2016,South Australia,C,
+Apr 1 2016,South Australia,A and B,
+Apr 1 2016,South Australia,Untyped,
+Apr 1 2016,Tasmania,A(H1N1)pdm09,
+Apr 1 2016,Tasmania,A(H3N2),
+Apr 1 2016,Tasmania,A(unsubtyped),
+Apr 1 2016,Tasmania,B,
+Apr 1 2016,Tasmania,C,
+Apr 1 2016,Tasmania,A and B,
+Apr 1 2016,Tasmania,Untyped,
+Apr 1 2016,Victoria,A(H1N1)pdm09,
+Apr 1 2016,Victoria,A(H3N2),
+Apr 1 2016,Victoria,A(unsubtyped),
+Apr 1 2016,Victoria,B,
+Apr 1 2016,Victoria,C,
+Apr 1 2016,Victoria,A and B,
+Apr 1 2016,Victoria,Untyped,
+Apr 1 2016,Western Australia,A(H1N1)pdm09,
+Apr 1 2016,Western Australia,A(H3N2),
+Apr 1 2016,Western Australia,A(unsubtyped),
+Apr 1 2016,Western Australia,B,
+Apr 1 2016,Western Australia,C,
+Apr 1 2016,Western Australia,A and B,
+Apr 1 2016,Western Australia,Untyped,
+May 1 2016,New South Wales,A(H1N1)pdm09,
+May 1 2016,New South Wales,A(H3N2),
+May 1 2016,New South Wales,A(unsubtyped),
+May 1 2016,New South Wales,B,
+May 1 2016,New South Wales,C,
+May 1 2016,New South Wales,A and B,
+May 1 2016,New South Wales,Untyped,
+May 1 2016,Northern Territory,A(H1N1)pdm09,
+May 1 2016,Northern Territory,A(H3N2),
+May 1 2016,Northern Territory,A(unsubtyped),
+May 1 2016,Northern Territory,B,
+May 1 2016,Northern Territory,C,
+May 1 2016,Northern Territory,A and B,
+May 1 2016,Northern Territory,Untyped,
+May 1 2016,Queensland,A(H1N1)pdm09,
+May 1 2016,Queensland,A(H3N2),
+May 1 2016,Queensland,A(unsubtyped),
+May 1 2016,Queensland,B,
+May 1 2016,Queensland,C,
+May 1 2016,Queensland,A and B,
+May 1 2016,Queensland,Untyped,
+May 1 2016,South Australia,A(H1N1)pdm09,
+May 1 2016,South Australia,A(H3N2),
+May 1 2016,South Australia,A(unsubtyped),
+May 1 2016,South Australia,B,
+May 1 2016,South Australia,C,
+May 1 2016,South Australia,A and B,
+May 1 2016,South Australia,Untyped,
+May 1 2016,Tasmania,A(H1N1)pdm09,
+May 1 2016,Tasmania,A(H3N2),
+May 1 2016,Tasmania,A(unsubtyped),
+May 1 2016,Tasmania,B,
+May 1 2016,Tasmania,C,
+May 1 2016,Tasmania,A and B,
+May 1 2016,Tasmania,Untyped,
+May 1 2016,Victoria,A(H1N1)pdm09,
+May 1 2016,Victoria,A(H3N2),
+May 1 2016,Victoria,A(unsubtyped),
+May 1 2016,Victoria,B,
+May 1 2016,Victoria,C,
+May 1 2016,Victoria,A and B,
+May 1 2016,Victoria,Untyped,
+May 1 2016,Western Australia,A(H1N1)pdm09,
+May 1 2016,Western Australia,A(H3N2),
+May 1 2016,Western Australia,A(unsubtyped),
+May 1 2016,Western Australia,B,
+May 1 2016,Western Australia,C,
+May 1 2016,Western Australia,A and B,
+May 1 2016,Western Australia,Untyped,
+Jun 1 2016,New South Wales,A(H1N1)pdm09,
+Jun 1 2016,New South Wales,A(H3N2),
+Jun 1 2016,New South Wales,A(unsubtyped),
+Jun 1 2016,New South Wales,B,
+Jun 1 2016,New South Wales,C,
+Jun 1 2016,New South Wales,A and B,
+Jun 1 2016,New South Wales,Untyped,
+Jun 1 2016,Northern Territory,A(H1N1)pdm09,
+Jun 1 2016,Northern Territory,A(H3N2),
+Jun 1 2016,Northern Territory,A(unsubtyped),
+Jun 1 2016,Northern Territory,B,
+Jun 1 2016,Northern Territory,C,
+Jun 1 2016,Northern Territory,A and B,
+Jun 1 2016,Northern Territory,Untyped,
+Jun 1 2016,Queensland,A(H1N1)pdm09,
+Jun 1 2016,Queensland,A(H3N2),
+Jun 1 2016,Queensland,A(unsubtyped),
+Jun 1 2016,Queensland,B,
+Jun 1 2016,Queensland,C,
+Jun 1 2016,Queensland,A and B,
+Jun 1 2016,Queensland,Untyped,
+Jun 1 2016,South Australia,A(H1N1)pdm09,
+Jun 1 2016,South Australia,A(H3N2),
+Jun 1 2016,South Australia,A(unsubtyped),
+Jun 1 2016,South Australia,B,
+Jun 1 2016,South Australia,C,
+Jun 1 2016,South Australia,A and B,
+Jun 1 2016,South Australia,Untyped,
+Jun 1 2016,Tasmania,A(H1N1)pdm09,
+Jun 1 2016,Tasmania,A(H3N2),
+Jun 1 2016,Tasmania,A(unsubtyped),
+Jun 1 2016,Tasmania,B,
+Jun 1 2016,Tasmania,C,
+Jun 1 2016,Tasmania,A and B,
+Jun 1 2016,Tasmania,Untyped,
+Jun 1 2016,Victoria,A(H1N1)pdm09,
+Jun 1 2016,Victoria,A(H3N2),
+Jun 1 2016,Victoria,A(unsubtyped),
+Jun 1 2016,Victoria,B,
+Jun 1 2016,Victoria,C,
+Jun 1 2016,Victoria,A and B,
+Jun 1 2016,Victoria,Untyped,
+Jun 1 2016,Western Australia,A(H1N1)pdm09,
+Jun 1 2016,Western Australia,A(H3N2),
+Jun 1 2016,Western Australia,A(unsubtyped),
+Jun 1 2016,Western Australia,B,
+Jun 1 2016,Western Australia,C,
+Jun 1 2016,Western Australia,A and B,
+Jun 1 2016,Western Australia,Untyped,
+Jul 1 2016,New South Wales,A(H1N1)pdm09,
+Jul 1 2016,New South Wales,A(H3N2),
+Jul 1 2016,New South Wales,A(unsubtyped),
+Jul 1 2016,New South Wales,B,
+Jul 1 2016,New South Wales,C,
+Jul 1 2016,New South Wales,A and B,
+Jul 1 2016,New South Wales,Untyped,
+Jul 1 2016,Northern Territory,A(H1N1)pdm09,
+Jul 1 2016,Northern Territory,A(H3N2),
+Jul 1 2016,Northern Territory,A(unsubtyped),
+Jul 1 2016,Northern Territory,B,
+Jul 1 2016,Northern Territory,C,
+Jul 1 2016,Northern Territory,A and B,
+Jul 1 2016,Northern Territory,Untyped,
+Jul 1 2016,Queensland,A(H1N1)pdm09,
+Jul 1 2016,Queensland,A(H3N2),
+Jul 1 2016,Queensland,A(unsubtyped),
+Jul 1 2016,Queensland,B,
+Jul 1 2016,Queensland,C,
+Jul 1 2016,Queensland,A and B,
+Jul 1 2016,Queensland,Untyped,
+Jul 1 2016,South Australia,A(H1N1)pdm09,
+Jul 1 2016,South Australia,A(H3N2),
+Jul 1 2016,South Australia,A(unsubtyped),
+Jul 1 2016,South Australia,B,
+Jul 1 2016,South Australia,C,
+Jul 1 2016,South Australia,A and B,
+Jul 1 2016,South Australia,Untyped,
+Jul 1 2016,Tasmania,A(H1N1)pdm09,
+Jul 1 2016,Tasmania,A(H3N2),
+Jul 1 2016,Tasmania,A(unsubtyped),
+Jul 1 2016,Tasmania,B,
+Jul 1 2016,Tasmania,C,
+Jul 1 2016,Tasmania,A and B,
+Jul 1 2016,Tasmania,Untyped,
+Jul 1 2016,Victoria,A(H1N1)pdm09,
+Jul 1 2016,Victoria,A(H3N2),
+Jul 1 2016,Victoria,A(unsubtyped),
+Jul 1 2016,Victoria,B,
+Jul 1 2016,Victoria,C,
+Jul 1 2016,Victoria,A and B,
+Jul 1 2016,Victoria,Untyped,
+Jul 1 2016,Western Australia,A(H1N1)pdm09,
+Jul 1 2016,Western Australia,A(H3N2),
+Jul 1 2016,Western Australia,A(unsubtyped),
+Jul 1 2016,Western Australia,B,
+Jul 1 2016,Western Australia,C,
+Jul 1 2016,Western Australia,A and B,
+Jul 1 2016,Western Australia,Untyped,
+Aug 1 2016,New South Wales,A(H1N1)pdm09,
+Aug 1 2016,New South Wales,A(H3N2),
+Aug 1 2016,New South Wales,A(unsubtyped),
+Aug 1 2016,New South Wales,B,
+Aug 1 2016,New South Wales,C,
+Aug 1 2016,New South Wales,A and B,
+Aug 1 2016,New South Wales,Untyped,
+Aug 1 2016,Northern Territory,A(H1N1)pdm09,
+Aug 1 2016,Northern Territory,A(H3N2),
+Aug 1 2016,Northern Territory,A(unsubtyped),
+Aug 1 2016,Northern Territory,B,
+Aug 1 2016,Northern Territory,C,
+Aug 1 2016,Northern Territory,A and B,
+Aug 1 2016,Northern Territory,Untyped,
+Aug 1 2016,Queensland,A(H1N1)pdm09,
+Aug 1 2016,Queensland,A(H3N2),
+Aug 1 2016,Queensland,A(unsubtyped),
+Aug 1 2016,Queensland,B,
+Aug 1 2016,Queensland,C,
+Aug 1 2016,Queensland,A and B,
+Aug 1 2016,Queensland,Untyped,
+Aug 1 2016,South Australia,A(H1N1)pdm09,
+Aug 1 2016,South Australia,A(H3N2),
+Aug 1 2016,South Australia,A(unsubtyped),
+Aug 1 2016,South Australia,B,
+Aug 1 2016,South Australia,C,
+Aug 1 2016,South Australia,A and B,
+Aug 1 2016,South Australia,Untyped,
+Aug 1 2016,Tasmania,A(H1N1)pdm09,
+Aug 1 2016,Tasmania,A(H3N2),
+Aug 1 2016,Tasmania,A(unsubtyped),
+Aug 1 2016,Tasmania,B,
+Aug 1 2016,Tasmania,C,
+Aug 1 2016,Tasmania,A and B,
+Aug 1 2016,Tasmania,Untyped,
+Aug 1 2016,Victoria,A(H1N1)pdm09,
+Aug 1 2016,Victoria,A(H3N2),
+Aug 1 2016,Victoria,A(unsubtyped),
+Aug 1 2016,Victoria,B,
+Aug 1 2016,Victoria,C,
+Aug 1 2016,Victoria,A and B,
+Aug 1 2016,Victoria,Untyped,
+Aug 1 2016,Western Australia,A(H1N1)pdm09,
+Aug 1 2016,Western Australia,A(H3N2),
+Aug 1 2016,Western Australia,A(unsubtyped),
+Aug 1 2016,Western Australia,B,
+Aug 1 2016,Western Australia,C,
+Aug 1 2016,Western Australia,A and B,
+Aug 1 2016,Western Australia,Untyped,
+Sep 1 2016,New South Wales,A(H1N1)pdm09,
+Sep 1 2016,New South Wales,A(H3N2),
+Sep 1 2016,New South Wales,A(unsubtyped),
+Sep 1 2016,New South Wales,B,
+Sep 1 2016,New South Wales,C,
+Sep 1 2016,New South Wales,A and B,
+Sep 1 2016,New South Wales,Untyped,
+Sep 1 2016,Northern Territory,A(H1N1)pdm09,
+Sep 1 2016,Northern Territory,A(H3N2),
+Sep 1 2016,Northern Territory,A(unsubtyped),
+Sep 1 2016,Northern Territory,B,
+Sep 1 2016,Northern Territory,C,
+Sep 1 2016,Northern Territory,A and B,
+Sep 1 2016,Northern Territory,Untyped,
+Sep 1 2016,Queensland,A(H1N1)pdm09,
+Sep 1 2016,Queensland,A(H3N2),
+Sep 1 2016,Queensland,A(unsubtyped),
+Sep 1 2016,Queensland,B,
+Sep 1 2016,Queensland,C,
+Sep 1 2016,Queensland,A and B,
+Sep 1 2016,Queensland,Untyped,
+Sep 1 2016,South Australia,A(H1N1)pdm09,
+Sep 1 2016,South Australia,A(H3N2),
+Sep 1 2016,South Australia,A(unsubtyped),
+Sep 1 2016,South Australia,B,
+Sep 1 2016,South Australia,C,
+Sep 1 2016,South Australia,A and B,
+Sep 1 2016,South Australia,Untyped,
+Sep 1 2016,Tasmania,A(H1N1)pdm09,
+Sep 1 2016,Tasmania,A(H3N2),
+Sep 1 2016,Tasmania,A(unsubtyped),
+Sep 1 2016,Tasmania,B,
+Sep 1 2016,Tasmania,C,
+Sep 1 2016,Tasmania,A and B,
+Sep 1 2016,Tasmania,Untyped,
+Sep 1 2016,Victoria,A(H1N1)pdm09,
+Sep 1 2016,Victoria,A(H3N2),
+Sep 1 2016,Victoria,A(unsubtyped),
+Sep 1 2016,Victoria,B,
+Sep 1 2016,Victoria,C,
+Sep 1 2016,Victoria,A and B,
+Sep 1 2016,Victoria,Untyped,
+Sep 1 2016,Western Australia,A(H1N1)pdm09,
+Sep 1 2016,Western Australia,A(H3N2),
+Sep 1 2016,Western Australia,A(unsubtyped),
+Sep 1 2016,Western Australia,B,
+Sep 1 2016,Western Australia,C,
+Sep 1 2016,Western Australia,A and B,
+Sep 1 2016,Western Australia,Untyped,
+Oct 1 2016,New South Wales,A(H1N1)pdm09,
+Oct 1 2016,New South Wales,A(H3N2),
+Oct 1 2016,New South Wales,A(unsubtyped),
+Oct 1 2016,New South Wales,B,
+Oct 1 2016,New South Wales,C,
+Oct 1 2016,New South Wales,A and B,
+Oct 1 2016,New South Wales,Untyped,
+Oct 1 2016,Northern Territory,A(H1N1)pdm09,
+Oct 1 2016,Northern Territory,A(H3N2),
+Oct 1 2016,Northern Territory,A(unsubtyped),
+Oct 1 2016,Northern Territory,B,
+Oct 1 2016,Northern Territory,C,
+Oct 1 2016,Northern Territory,A and B,
+Oct 1 2016,Northern Territory,Untyped,
+Oct 1 2016,Queensland,A(H1N1)pdm09,
+Oct 1 2016,Queensland,A(H3N2),
+Oct 1 2016,Queensland,A(unsubtyped),
+Oct 1 2016,Queensland,B,
+Oct 1 2016,Queensland,C,
+Oct 1 2016,Queensland,A and B,
+Oct 1 2016,Queensland,Untyped,
+Oct 1 2016,South Australia,A(H1N1)pdm09,
+Oct 1 2016,South Australia,A(H3N2),
+Oct 1 2016,South Australia,A(unsubtyped),
+Oct 1 2016,South Australia,B,
+Oct 1 2016,South Australia,C,
+Oct 1 2016,South Australia,A and B,
+Oct 1 2016,South Australia,Untyped,
+Oct 1 2016,Tasmania,A(H1N1)pdm09,
+Oct 1 2016,Tasmania,A(H3N2),
+Oct 1 2016,Tasmania,A(unsubtyped),
+Oct 1 2016,Tasmania,B,
+Oct 1 2016,Tasmania,C,
+Oct 1 2016,Tasmania,A and B,
+Oct 1 2016,Tasmania,Untyped,
+Oct 1 2016,Victoria,A(H1N1)pdm09,
+Oct 1 2016,Victoria,A(H3N2),
+Oct 1 2016,Victoria,A(unsubtyped),
+Oct 1 2016,Victoria,B,
+Oct 1 2016,Victoria,C,
+Oct 1 2016,Victoria,A and B,
+Oct 1 2016,Victoria,Untyped,
+Oct 1 2016,Western Australia,A(H1N1)pdm09,
+Oct 1 2016,Western Australia,A(H3N2),
+Oct 1 2016,Western Australia,A(unsubtyped),
+Oct 1 2016,Western Australia,B,
+Oct 1 2016,Western Australia,C,
+Oct 1 2016,Western Australia,A and B,
+Oct 1 2016,Western Australia,Untyped,
+Nov 1 2016,New South Wales,A(H1N1)pdm09,
+Nov 1 2016,New South Wales,A(H3N2),
+Nov 1 2016,New South Wales,A(unsubtyped),
+Nov 1 2016,New South Wales,B,
+Nov 1 2016,New South Wales,C,
+Nov 1 2016,New South Wales,A and B,
+Nov 1 2016,New South Wales,Untyped,
+Nov 1 2016,Northern Territory,A(H1N1)pdm09,
+Nov 1 2016,Northern Territory,A(H3N2),
+Nov 1 2016,Northern Territory,A(unsubtyped),
+Nov 1 2016,Northern Territory,B,
+Nov 1 2016,Northern Territory,C,
+Nov 1 2016,Northern Territory,A and B,
+Nov 1 2016,Northern Territory,Untyped,
+Nov 1 2016,Queensland,A(H1N1)pdm09,
+Nov 1 2016,Queensland,A(H3N2),
+Nov 1 2016,Queensland,A(unsubtyped),
+Nov 1 2016,Queensland,B,
+Nov 1 2016,Queensland,C,
+Nov 1 2016,Queensland,A and B,
+Nov 1 2016,Queensland,Untyped,
+Nov 1 2016,South Australia,A(H1N1)pdm09,
+Nov 1 2016,South Australia,A(H3N2),
+Nov 1 2016,South Australia,A(unsubtyped),
+Nov 1 2016,South Australia,B,
+Nov 1 2016,South Australia,C,
+Nov 1 2016,South Australia,A and B,
+Nov 1 2016,South Australia,Untyped,
+Nov 1 2016,Tasmania,A(H1N1)pdm09,
+Nov 1 2016,Tasmania,A(H3N2),
+Nov 1 2016,Tasmania,A(unsubtyped),
+Nov 1 2016,Tasmania,B,
+Nov 1 2016,Tasmania,C,
+Nov 1 2016,Tasmania,A and B,
+Nov 1 2016,Tasmania,Untyped,
+Nov 1 2016,Victoria,A(H1N1)pdm09,
+Nov 1 2016,Victoria,A(H3N2),
+Nov 1 2016,Victoria,A(unsubtyped),
+Nov 1 2016,Victoria,B,
+Nov 1 2016,Victoria,C,
+Nov 1 2016,Victoria,A and B,
+Nov 1 2016,Victoria,Untyped,
+Nov 1 2016,Western Australia,A(H1N1)pdm09,
+Nov 1 2016,Western Australia,A(H3N2),
+Nov 1 2016,Western Australia,A(unsubtyped),
+Nov 1 2016,Western Australia,B,
+Nov 1 2016,Western Australia,C,
+Nov 1 2016,Western Australia,A and B,
+Nov 1 2016,Western Australia,Untyped,
+Des 1 2016,New South Wales,A(H1N1)pdm09,
+Des 1 2016,New South Wales,A(H3N2),
+Des 1 2016,New South Wales,A(unsubtyped),
+Des 1 2016,New South Wales,B,
+Des 1 2016,New South Wales,C,
+Des 1 2016,New South Wales,A and B,
+Des 1 2016,New South Wales,Untyped,
+Des 1 2016,Northern Territory,A(H1N1)pdm09,
+Des 1 2016,Northern Territory,A(H3N2),
+Des 1 2016,Northern Territory,A(unsubtyped),
+Des 1 2016,Northern Territory,B,
+Des 1 2016,Northern Territory,C,
+Des 1 2016,Northern Territory,A and B,
+Des 1 2016,Northern Territory,Untyped,
+Des 1 2016,Queensland,A(H1N1)pdm09,
+Des 1 2016,Queensland,A(H3N2),
+Des 1 2016,Queensland,A(unsubtyped),
+Des 1 2016,Queensland,B,
+Des 1 2016,Queensland,C,
+Des 1 2016,Queensland,A and B,
+Des 1 2016,Queensland,Untyped,
+Des 1 2016,South Australia,A(H1N1)pdm09,
+Des 1 2016,South Australia,A(H3N2),
+Des 1 2016,South Australia,A(unsubtyped),
+Des 1 2016,South Australia,B,
+Des 1 2016,South Australia,C,
+Des 1 2016,South Australia,A and B,
+Des 1 2016,South Australia,Untyped,
+Des 1 2016,Tasmania,A(H1N1)pdm09,
+Des 1 2016,Tasmania,A(H3N2),
+Des 1 2016,Tasmania,A(unsubtyped),
+Des 1 2016,Tasmania,B,
+Des 1 2016,Tasmania,C,
+Des 1 2016,Tasmania,A and B,
+Des 1 2016,Tasmania,Untyped,
+Des 1 2016,Victoria,A(H1N1)pdm09,
+Des 1 2016,Victoria,A(H3N2),
+Des 1 2016,Victoria,A(unsubtyped),
+Des 1 2016,Victoria,B,
+Des 1 2016,Victoria,C,
+Des 1 2016,Victoria,A and B,
+Des 1 2016,Victoria,Untyped,
+Des 1 2016,Western Australia,A(H1N1)pdm09,
+Des 1 2016,Western Australia,A(H3N2),
+Des 1 2016,Western Australia,A(unsubtyped),
+Des 1 2016,Western Australia,B,
+Des 1 2016,Western Australia,C,
+Des 1 2016,Western Australia,A and B,
+Des 1 2016,Western Australia,Untyped,
+Jan 1 2017,New South Wales,A(H1N1)pdm09,
+Jan 1 2017,New South Wales,A(H3N2),
+Jan 1 2017,New South Wales,A(unsubtyped),
+Jan 1 2017,New South Wales,B,
+Jan 1 2017,New South Wales,C,
+Jan 1 2017,New South Wales,A and B,
+Jan 1 2017,New South Wales,Untyped,
+Jan 1 2017,Northern Territory,A(H1N1)pdm09,
+Jan 1 2017,Northern Territory,A(H3N2),
+Jan 1 2017,Northern Territory,A(unsubtyped),
+Jan 1 2017,Northern Territory,B,
+Jan 1 2017,Northern Territory,C,
+Jan 1 2017,Northern Territory,A and B,
+Jan 1 2017,Northern Territory,Untyped,
+Jan 1 2017,Queensland,A(H1N1)pdm09,
+Jan 1 2017,Queensland,A(H3N2),
+Jan 1 2017,Queensland,A(unsubtyped),
+Jan 1 2017,Queensland,B,
+Jan 1 2017,Queensland,C,
+Jan 1 2017,Queensland,A and B,
+Jan 1 2017,Queensland,Untyped,
+Jan 1 2017,South Australia,A(H1N1)pdm09,
+Jan 1 2017,South Australia,A(H3N2),
+Jan 1 2017,South Australia,A(unsubtyped),
+Jan 1 2017,South Australia,B,
+Jan 1 2017,South Australia,C,
+Jan 1 2017,South Australia,A and B,
+Jan 1 2017,South Australia,Untyped,
+Jan 1 2017,Tasmania,A(H1N1)pdm09,
+Jan 1 2017,Tasmania,A(H3N2),
+Jan 1 2017,Tasmania,A(unsubtyped),
+Jan 1 2017,Tasmania,B,
+Jan 1 2017,Tasmania,C,
+Jan 1 2017,Tasmania,A and B,
+Jan 1 2017,Tasmania,Untyped,
+Jan 1 2017,Victoria,A(H1N1)pdm09,
+Jan 1 2017,Victoria,A(H3N2),
+Jan 1 2017,Victoria,A(unsubtyped),
+Jan 1 2017,Victoria,B,
+Jan 1 2017,Victoria,C,
+Jan 1 2017,Victoria,A and B,
+Jan 1 2017,Victoria,Untyped,
+Jan 1 2017,Western Australia,A(H1N1)pdm09,
+Jan 1 2017,Western Australia,A(H3N2),
+Jan 1 2017,Western Australia,A(unsubtyped),
+Jan 1 2017,Western Australia,B,
+Jan 1 2017,Western Australia,C,
+Jan 1 2017,Western Australia,A and B,
+Jan 1 2017,Western Australia,Untyped,
+Feb 1 2017,New South Wales,A(H1N1)pdm09,
+Feb 1 2017,New South Wales,A(H3N2),
+Feb 1 2017,New South Wales,A(unsubtyped),
+Feb 1 2017,New South Wales,B,
+Feb 1 2017,New South Wales,C,
+Feb 1 2017,New South Wales,A and B,
+Feb 1 2017,New South Wales,Untyped,
+Feb 1 2017,Northern Territory,A(H1N1)pdm09,
+Feb 1 2017,Northern Territory,A(H3N2),
+Feb 1 2017,Northern Territory,A(unsubtyped),
+Feb 1 2017,Northern Territory,B,
+Feb 1 2017,Northern Territory,C,
+Feb 1 2017,Northern Territory,A and B,
+Feb 1 2017,Northern Territory,Untyped,
+Feb 1 2017,Queensland,A(H1N1)pdm09,
+Feb 1 2017,Queensland,A(H3N2),
+Feb 1 2017,Queensland,A(unsubtyped),
+Feb 1 2017,Queensland,B,
+Feb 1 2017,Queensland,C,
+Feb 1 2017,Queensland,A and B,
+Feb 1 2017,Queensland,Untyped,
+Feb 1 2017,South Australia,A(H1N1)pdm09,
+Feb 1 2017,South Australia,A(H3N2),
+Feb 1 2017,South Australia,A(unsubtyped),
+Feb 1 2017,South Australia,B,
+Feb 1 2017,South Australia,C,
+Feb 1 2017,South Australia,A and B,
+Feb 1 2017,South Australia,Untyped,
+Feb 1 2017,Tasmania,A(H1N1)pdm09,
+Feb 1 2017,Tasmania,A(H3N2),
+Feb 1 2017,Tasmania,A(unsubtyped),
+Feb 1 2017,Tasmania,B,
+Feb 1 2017,Tasmania,C,
+Feb 1 2017,Tasmania,A and B,
+Feb 1 2017,Tasmania,Untyped,
+Feb 1 2017,Victoria,A(H1N1)pdm09,
+Feb 1 2017,Victoria,A(H3N2),
+Feb 1 2017,Victoria,A(unsubtyped),
+Feb 1 2017,Victoria,B,
+Feb 1 2017,Victoria,C,
+Feb 1 2017,Victoria,A and B,
+Feb 1 2017,Victoria,Untyped,
+Feb 1 2017,Western Australia,A(H1N1)pdm09,
+Feb 1 2017,Western Australia,A(H3N2),
+Feb 1 2017,Western Australia,A(unsubtyped),
+Feb 1 2017,Western Australia,B,
+Feb 1 2017,Western Australia,C,
+Feb 1 2017,Western Australia,A and B,
+Feb 1 2017,Western Australia,Untyped,
+Mar 1 2017,New South Wales,A(H1N1)pdm09,
+Mar 1 2017,New South Wales,A(H3N2),
+Mar 1 2017,New South Wales,A(unsubtyped),
+Mar 1 2017,New South Wales,B,
+Mar 1 2017,New South Wales,C,
+Mar 1 2017,New South Wales,A and B,
+Mar 1 2017,New South Wales,Untyped,
+Mar 1 2017,Northern Territory,A(H1N1)pdm09,
+Mar 1 2017,Northern Territory,A(H3N2),
+Mar 1 2017,Northern Territory,A(unsubtyped),
+Mar 1 2017,Northern Territory,B,
+Mar 1 2017,Northern Territory,C,
+Mar 1 2017,Northern Territory,A and B,
+Mar 1 2017,Northern Territory,Untyped,
+Mar 1 2017,Queensland,A(H1N1)pdm09,
+Mar 1 2017,Queensland,A(H3N2),
+Mar 1 2017,Queensland,A(unsubtyped),
+Mar 1 2017,Queensland,B,
+Mar 1 2017,Queensland,C,
+Mar 1 2017,Queensland,A and B,
+Mar 1 2017,Queensland,Untyped,
+Mar 1 2017,South Australia,A(H1N1)pdm09,
+Mar 1 2017,South Australia,A(H3N2),
+Mar 1 2017,South Australia,A(unsubtyped),
+Mar 1 2017,South Australia,B,
+Mar 1 2017,South Australia,C,
+Mar 1 2017,South Australia,A and B,
+Mar 1 2017,South Australia,Untyped,
+Mar 1 2017,Tasmania,A(H1N1)pdm09,
+Mar 1 2017,Tasmania,A(H3N2),
+Mar 1 2017,Tasmania,A(unsubtyped),
+Mar 1 2017,Tasmania,B,
+Mar 1 2017,Tasmania,C,
+Mar 1 2017,Tasmania,A and B,
+Mar 1 2017,Tasmania,Untyped,
+Mar 1 2017,Victoria,A(H1N1)pdm09,
+Mar 1 2017,Victoria,A(H3N2),
+Mar 1 2017,Victoria,A(unsubtyped),
+Mar 1 2017,Victoria,B,
+Mar 1 2017,Victoria,C,
+Mar 1 2017,Victoria,A and B,
+Mar 1 2017,Victoria,Untyped,
+Mar 1 2017,Western Australia,A(H1N1)pdm09,
+Mar 1 2017,Western Australia,A(H3N2),
+Mar 1 2017,Western Australia,A(unsubtyped),
+Mar 1 2017,Western Australia,B,
+Mar 1 2017,Western Australia,C,
+Mar 1 2017,Western Australia,A and B,
+Mar 1 2017,Western Australia,Untyped,
+Apr 1 2017,New South Wales,A(H1N1)pdm09,
+Apr 1 2017,New South Wales,A(H3N2),
+Apr 1 2017,New South Wales,A(unsubtyped),
+Apr 1 2017,New South Wales,B,
+Apr 1 2017,New South Wales,C,
+Apr 1 2017,New South Wales,A and B,
+Apr 1 2017,New South Wales,Untyped,
+Apr 1 2017,Northern Territory,A(H1N1)pdm09,
+Apr 1 2017,Northern Territory,A(H3N2),
+Apr 1 2017,Northern Territory,A(unsubtyped),
+Apr 1 2017,Northern Territory,B,
+Apr 1 2017,Northern Territory,C,
+Apr 1 2017,Northern Territory,A and B,
+Apr 1 2017,Northern Territory,Untyped,
+Apr 1 2017,Queensland,A(H1N1)pdm09,
+Apr 1 2017,Queensland,A(H3N2),
+Apr 1 2017,Queensland,A(unsubtyped),
+Apr 1 2017,Queensland,B,
+Apr 1 2017,Queensland,C,
+Apr 1 2017,Queensland,A and B,
+Apr 1 2017,Queensland,Untyped,
+Apr 1 2017,South Australia,A(H1N1)pdm09,
+Apr 1 2017,South Australia,A(H3N2),
+Apr 1 2017,South Australia,A(unsubtyped),
+Apr 1 2017,South Australia,B,
+Apr 1 2017,South Australia,C,
+Apr 1 2017,South Australia,A and B,
+Apr 1 2017,South Australia,Untyped,
+Apr 1 2017,Tasmania,A(H1N1)pdm09,
+Apr 1 2017,Tasmania,A(H3N2),
+Apr 1 2017,Tasmania,A(unsubtyped),
+Apr 1 2017,Tasmania,B,
+Apr 1 2017,Tasmania,C,
+Apr 1 2017,Tasmania,A and B,
+Apr 1 2017,Tasmania,Untyped,
+Apr 1 2017,Victoria,A(H1N1)pdm09,
+Apr 1 2017,Victoria,A(H3N2),
+Apr 1 2017,Victoria,A(unsubtyped),
+Apr 1 2017,Victoria,B,
+Apr 1 2017,Victoria,C,
+Apr 1 2017,Victoria,A and B,
+Apr 1 2017,Victoria,Untyped,
+Apr 1 2017,Western Australia,A(H1N1)pdm09,
+Apr 1 2017,Western Australia,A(H3N2),
+Apr 1 2017,Western Australia,A(unsubtyped),
+Apr 1 2017,Western Australia,B,
+Apr 1 2017,Western Australia,C,
+Apr 1 2017,Western Australia,A and B,
+Apr 1 2017,Western Australia,Untyped,
+May 1 2017,New South Wales,A(H1N1)pdm09,
+May 1 2017,New South Wales,A(H3N2),
+May 1 2017,New South Wales,A(unsubtyped),
+May 1 2017,New South Wales,B,
+May 1 2017,New South Wales,C,
+May 1 2017,New South Wales,A and B,
+May 1 2017,New South Wales,Untyped,
+May 1 2017,Northern Territory,A(H1N1)pdm09,
+May 1 2017,Northern Territory,A(H3N2),
+May 1 2017,Northern Territory,A(unsubtyped),
+May 1 2017,Northern Territory,B,
+May 1 2017,Northern Territory,C,
+May 1 2017,Northern Territory,A and B,
+May 1 2017,Northern Territory,Untyped,
+May 1 2017,Queensland,A(H1N1)pdm09,
+May 1 2017,Queensland,A(H3N2),
+May 1 2017,Queensland,A(unsubtyped),
+May 1 2017,Queensland,B,
+May 1 2017,Queensland,C,
+May 1 2017,Queensland,A and B,
+May 1 2017,Queensland,Untyped,
+May 1 2017,South Australia,A(H1N1)pdm09,
+May 1 2017,South Australia,A(H3N2),
+May 1 2017,South Australia,A(unsubtyped),
+May 1 2017,South Australia,B,
+May 1 2017,South Australia,C,
+May 1 2017,South Australia,A and B,
+May 1 2017,South Australia,Untyped,
+May 1 2017,Tasmania,A(H1N1)pdm09,
+May 1 2017,Tasmania,A(H3N2),
+May 1 2017,Tasmania,A(unsubtyped),
+May 1 2017,Tasmania,B,
+May 1 2017,Tasmania,C,
+May 1 2017,Tasmania,A and B,
+May 1 2017,Tasmania,Untyped,
+May 1 2017,Victoria,A(H1N1)pdm09,
+May 1 2017,Victoria,A(H3N2),
+May 1 2017,Victoria,A(unsubtyped),
+May 1 2017,Victoria,B,
+May 1 2017,Victoria,C,
+May 1 2017,Victoria,A and B,
+May 1 2017,Victoria,Untyped,
+May 1 2017,Western Australia,A(H1N1)pdm09,
+May 1 2017,Western Australia,A(H3N2),
+May 1 2017,Western Australia,A(unsubtyped),
+May 1 2017,Western Australia,B,
+May 1 2017,Western Australia,C,
+May 1 2017,Western Australia,A and B,
+May 1 2017,Western Australia,Untyped,
+Jun 1 2017,New South Wales,A(H1N1)pdm09,
+Jun 1 2017,New South Wales,A(H3N2),
+Jun 1 2017,New South Wales,A(unsubtyped),
+Jun 1 2017,New South Wales,B,
+Jun 1 2017,New South Wales,C,
+Jun 1 2017,New South Wales,A and B,
+Jun 1 2017,New South Wales,Untyped,
+Jun 1 2017,Northern Territory,A(H1N1)pdm09,
+Jun 1 2017,Northern Territory,A(H3N2),
+Jun 1 2017,Northern Territory,A(unsubtyped),
+Jun 1 2017,Northern Territory,B,
+Jun 1 2017,Northern Territory,C,
+Jun 1 2017,Northern Territory,A and B,
+Jun 1 2017,Northern Territory,Untyped,
+Jun 1 2017,Queensland,A(H1N1)pdm09,
+Jun 1 2017,Queensland,A(H3N2),
+Jun 1 2017,Queensland,A(unsubtyped),
+Jun 1 2017,Queensland,B,
+Jun 1 2017,Queensland,C,
+Jun 1 2017,Queensland,A and B,
+Jun 1 2017,Queensland,Untyped,
+Jun 1 2017,South Australia,A(H1N1)pdm09,
+Jun 1 2017,South Australia,A(H3N2),
+Jun 1 2017,South Australia,A(unsubtyped),
+Jun 1 2017,South Australia,B,
+Jun 1 2017,South Australia,C,
+Jun 1 2017,South Australia,A and B,
+Jun 1 2017,South Australia,Untyped,
+Jun 1 2017,Tasmania,A(H1N1)pdm09,
+Jun 1 2017,Tasmania,A(H3N2),
+Jun 1 2017,Tasmania,A(unsubtyped),
+Jun 1 2017,Tasmania,B,
+Jun 1 2017,Tasmania,C,
+Jun 1 2017,Tasmania,A and B,
+Jun 1 2017,Tasmania,Untyped,
+Jun 1 2017,Victoria,A(H1N1)pdm09,
+Jun 1 2017,Victoria,A(H3N2),
+Jun 1 2017,Victoria,A(unsubtyped),
+Jun 1 2017,Victoria,B,
+Jun 1 2017,Victoria,C,
+Jun 1 2017,Victoria,A and B,
+Jun 1 2017,Victoria,Untyped,
+Jun 1 2017,Western Australia,A(H1N1)pdm09,
+Jun 1 2017,Western Australia,A(H3N2),
+Jun 1 2017,Western Australia,A(unsubtyped),
+Jun 1 2017,Western Australia,B,
+Jun 1 2017,Western Australia,C,
+Jun 1 2017,Western Australia,A and B,
+Jun 1 2017,Western Australia,Untyped,
+Jul 1 2017,New South Wales,A(H1N1)pdm09,
+Jul 1 2017,New South Wales,A(H3N2),
+Jul 1 2017,New South Wales,A(unsubtyped),
+Jul 1 2017,New South Wales,B,
+Jul 1 2017,New South Wales,C,
+Jul 1 2017,New South Wales,A and B,
+Jul 1 2017,New South Wales,Untyped,
+Jul 1 2017,Northern Territory,A(H1N1)pdm09,
+Jul 1 2017,Northern Territory,A(H3N2),
+Jul 1 2017,Northern Territory,A(unsubtyped),
+Jul 1 2017,Northern Territory,B,
+Jul 1 2017,Northern Territory,C,
+Jul 1 2017,Northern Territory,A and B,
+Jul 1 2017,Northern Territory,Untyped,
+Jul 1 2017,Queensland,A(H1N1)pdm09,
+Jul 1 2017,Queensland,A(H3N2),
+Jul 1 2017,Queensland,A(unsubtyped),
+Jul 1 2017,Queensland,B,
+Jul 1 2017,Queensland,C,
+Jul 1 2017,Queensland,A and B,
+Jul 1 2017,Queensland,Untyped,
+Jul 1 2017,South Australia,A(H1N1)pdm09,
+Jul 1 2017,South Australia,A(H3N2),
+Jul 1 2017,South Australia,A(unsubtyped),
+Jul 1 2017,South Australia,B,
+Jul 1 2017,South Australia,C,
+Jul 1 2017,South Australia,A and B,
+Jul 1 2017,South Australia,Untyped,
+Jul 1 2017,Tasmania,A(H1N1)pdm09,
+Jul 1 2017,Tasmania,A(H3N2),
+Jul 1 2017,Tasmania,A(unsubtyped),
+Jul 1 2017,Tasmania,B,
+Jul 1 2017,Tasmania,C,
+Jul 1 2017,Tasmania,A and B,
+Jul 1 2017,Tasmania,Untyped,
+Jul 1 2017,Victoria,A(H1N1)pdm09,
+Jul 1 2017,Victoria,A(H3N2),
+Jul 1 2017,Victoria,A(unsubtyped),
+Jul 1 2017,Victoria,B,
+Jul 1 2017,Victoria,C,
+Jul 1 2017,Victoria,A and B,
+Jul 1 2017,Victoria,Untyped,
+Jul 1 2017,Western Australia,A(H1N1)pdm09,
+Jul 1 2017,Western Australia,A(H3N2),
+Jul 1 2017,Western Australia,A(unsubtyped),
+Jul 1 2017,Western Australia,B,
+Jul 1 2017,Western Australia,C,
+Jul 1 2017,Western Australia,A and B,
+Jul 1 2017,Western Australia,Untyped,
+Aug 1 2017,New South Wales,A(H1N1)pdm09,
+Aug 1 2017,New South Wales,A(H3N2),
+Aug 1 2017,New South Wales,A(unsubtyped),
+Aug 1 2017,New South Wales,B,
+Aug 1 2017,New South Wales,C,
+Aug 1 2017,New South Wales,A and B,
+Aug 1 2017,New South Wales,Untyped,
+Aug 1 2017,Northern Territory,A(H1N1)pdm09,
+Aug 1 2017,Northern Territory,A(H3N2),
+Aug 1 2017,Northern Territory,A(unsubtyped),
+Aug 1 2017,Northern Territory,B,
+Aug 1 2017,Northern Territory,C,
+Aug 1 2017,Northern Territory,A and B,
+Aug 1 2017,Northern Territory,Untyped,
+Aug 1 2017,Queensland,A(H1N1)pdm09,
+Aug 1 2017,Queensland,A(H3N2),
+Aug 1 2017,Queensland,A(unsubtyped),
+Aug 1 2017,Queensland,B,
+Aug 1 2017,Queensland,C,
+Aug 1 2017,Queensland,A and B,
+Aug 1 2017,Queensland,Untyped,
+Aug 1 2017,South Australia,A(H1N1)pdm09,
+Aug 1 2017,South Australia,A(H3N2),
+Aug 1 2017,South Australia,A(unsubtyped),
+Aug 1 2017,South Australia,B,
+Aug 1 2017,South Australia,C,
+Aug 1 2017,South Australia,A and B,
+Aug 1 2017,South Australia,Untyped,
+Aug 1 2017,Tasmania,A(H1N1)pdm09,
+Aug 1 2017,Tasmania,A(H3N2),
+Aug 1 2017,Tasmania,A(unsubtyped),
+Aug 1 2017,Tasmania,B,
+Aug 1 2017,Tasmania,C,
+Aug 1 2017,Tasmania,A and B,
+Aug 1 2017,Tasmania,Untyped,
+Aug 1 2017,Victoria,A(H1N1)pdm09,
+Aug 1 2017,Victoria,A(H3N2),
+Aug 1 2017,Victoria,A(unsubtyped),
+Aug 1 2017,Victoria,B,
+Aug 1 2017,Victoria,C,
+Aug 1 2017,Victoria,A and B,
+Aug 1 2017,Victoria,Untyped,
+Aug 1 2017,Western Australia,A(H1N1)pdm09,
+Aug 1 2017,Western Australia,A(H3N2),
+Aug 1 2017,Western Australia,A(unsubtyped),
+Aug 1 2017,Western Australia,B,
+Aug 1 2017,Western Australia,C,
+Aug 1 2017,Western Australia,A and B,
+Aug 1 2017,Western Australia,Untyped,
+Sep 1 2017,New South Wales,A(H1N1)pdm09,
+Sep 1 2017,New South Wales,A(H3N2),
+Sep 1 2017,New South Wales,A(unsubtyped),
+Sep 1 2017,New South Wales,B,
+Sep 1 2017,New South Wales,C,
+Sep 1 2017,New South Wales,A and B,
+Sep 1 2017,New South Wales,Untyped,
+Sep 1 2017,Northern Territory,A(H1N1)pdm09,
+Sep 1 2017,Northern Territory,A(H3N2),
+Sep 1 2017,Northern Territory,A(unsubtyped),
+Sep 1 2017,Northern Territory,B,
+Sep 1 2017,Northern Territory,C,
+Sep 1 2017,Northern Territory,A and B,
+Sep 1 2017,Northern Territory,Untyped,
+Sep 1 2017,Queensland,A(H1N1)pdm09,
+Sep 1 2017,Queensland,A(H3N2),
+Sep 1 2017,Queensland,A(unsubtyped),
+Sep 1 2017,Queensland,B,
+Sep 1 2017,Queensland,C,
+Sep 1 2017,Queensland,A and B,
+Sep 1 2017,Queensland,Untyped,
+Sep 1 2017,South Australia,A(H1N1)pdm09,
+Sep 1 2017,South Australia,A(H3N2),
+Sep 1 2017,South Australia,A(unsubtyped),
+Sep 1 2017,South Australia,B,
+Sep 1 2017,South Australia,C,
+Sep 1 2017,South Australia,A and B,
+Sep 1 2017,South Australia,Untyped,
+Sep 1 2017,Tasmania,A(H1N1)pdm09,
+Sep 1 2017,Tasmania,A(H3N2),
+Sep 1 2017,Tasmania,A(unsubtyped),
+Sep 1 2017,Tasmania,B,
+Sep 1 2017,Tasmania,C,
+Sep 1 2017,Tasmania,A and B,
+Sep 1 2017,Tasmania,Untyped,
+Sep 1 2017,Victoria,A(H1N1)pdm09,
+Sep 1 2017,Victoria,A(H3N2),
+Sep 1 2017,Victoria,A(unsubtyped),
+Sep 1 2017,Victoria,B,
+Sep 1 2017,Victoria,C,
+Sep 1 2017,Victoria,A and B,
+Sep 1 2017,Victoria,Untyped,
+Sep 1 2017,Western Australia,A(H1N1)pdm09,
+Sep 1 2017,Western Australia,A(H3N2),
+Sep 1 2017,Western Australia,A(unsubtyped),
+Sep 1 2017,Western Australia,B,
+Sep 1 2017,Western Australia,C,
+Sep 1 2017,Western Australia,A and B,
+Sep 1 2017,Western Australia,Untyped,
+Oct 1 2017,New South Wales,A(H1N1)pdm09,
+Oct 1 2017,New South Wales,A(H3N2),
+Oct 1 2017,New South Wales,A(unsubtyped),
+Oct 1 2017,New South Wales,B,
+Oct 1 2017,New South Wales,C,
+Oct 1 2017,New South Wales,A and B,
+Oct 1 2017,New South Wales,Untyped,
+Oct 1 2017,Northern Territory,A(H1N1)pdm09,
+Oct 1 2017,Northern Territory,A(H3N2),
+Oct 1 2017,Northern Territory,A(unsubtyped),
+Oct 1 2017,Northern Territory,B,
+Oct 1 2017,Northern Territory,C,
+Oct 1 2017,Northern Territory,A and B,
+Oct 1 2017,Northern Territory,Untyped,
+Oct 1 2017,Queensland,A(H1N1)pdm09,
+Oct 1 2017,Queensland,A(H3N2),
+Oct 1 2017,Queensland,A(unsubtyped),
+Oct 1 2017,Queensland,B,
+Oct 1 2017,Queensland,C,
+Oct 1 2017,Queensland,A and B,
+Oct 1 2017,Queensland,Untyped,
+Oct 1 2017,South Australia,A(H1N1)pdm09,
+Oct 1 2017,South Australia,A(H3N2),
+Oct 1 2017,South Australia,A(unsubtyped),
+Oct 1 2017,South Australia,B,
+Oct 1 2017,South Australia,C,
+Oct 1 2017,South Australia,A and B,
+Oct 1 2017,South Australia,Untyped,
+Oct 1 2017,Tasmania,A(H1N1)pdm09,
+Oct 1 2017,Tasmania,A(H3N2),
+Oct 1 2017,Tasmania,A(unsubtyped),
+Oct 1 2017,Tasmania,B,
+Oct 1 2017,Tasmania,C,
+Oct 1 2017,Tasmania,A and B,
+Oct 1 2017,Tasmania,Untyped,
+Oct 1 2017,Victoria,A(H1N1)pdm09,
+Oct 1 2017,Victoria,A(H3N2),
+Oct 1 2017,Victoria,A(unsubtyped),
+Oct 1 2017,Victoria,B,
+Oct 1 2017,Victoria,C,
+Oct 1 2017,Victoria,A and B,
+Oct 1 2017,Victoria,Untyped,
+Oct 1 2017,Western Australia,A(H1N1)pdm09,
+Oct 1 2017,Western Australia,A(H3N2),
+Oct 1 2017,Western Australia,A(unsubtyped),
+Oct 1 2017,Western Australia,B,
+Oct 1 2017,Western Australia,C,
+Oct 1 2017,Western Australia,A and B,
+Oct 1 2017,Western Australia,Untyped,
+Nov 1 2017,New South Wales,A(H1N1)pdm09,
+Nov 1 2017,New South Wales,A(H3N2),
+Nov 1 2017,New South Wales,A(unsubtyped),
+Nov 1 2017,New South Wales,B,
+Nov 1 2017,New South Wales,C,
+Nov 1 2017,New South Wales,A and B,
+Nov 1 2017,New South Wales,Untyped,
+Nov 1 2017,Northern Territory,A(H1N1)pdm09,
+Nov 1 2017,Northern Territory,A(H3N2),
+Nov 1 2017,Northern Territory,A(unsubtyped),
+Nov 1 2017,Northern Territory,B,
+Nov 1 2017,Northern Territory,C,
+Nov 1 2017,Northern Territory,A and B,
+Nov 1 2017,Northern Territory,Untyped,
+Nov 1 2017,Queensland,A(H1N1)pdm09,
+Nov 1 2017,Queensland,A(H3N2),
+Nov 1 2017,Queensland,A(unsubtyped),
+Nov 1 2017,Queensland,B,
+Nov 1 2017,Queensland,C,
+Nov 1 2017,Queensland,A and B,
+Nov 1 2017,Queensland,Untyped,
+Nov 1 2017,South Australia,A(H1N1)pdm09,
+Nov 1 2017,South Australia,A(H3N2),
+Nov 1 2017,South Australia,A(unsubtyped),
+Nov 1 2017,South Australia,B,
+Nov 1 2017,South Australia,C,
+Nov 1 2017,South Australia,A and B,
+Nov 1 2017,South Australia,Untyped,
+Nov 1 2017,Tasmania,A(H1N1)pdm09,
+Nov 1 2017,Tasmania,A(H3N2),
+Nov 1 2017,Tasmania,A(unsubtyped),
+Nov 1 2017,Tasmania,B,
+Nov 1 2017,Tasmania,C,
+Nov 1 2017,Tasmania,A and B,
+Nov 1 2017,Tasmania,Untyped,
+Nov 1 2017,Victoria,A(H1N1)pdm09,
+Nov 1 2017,Victoria,A(H3N2),
+Nov 1 2017,Victoria,A(unsubtyped),
+Nov 1 2017,Victoria,B,
+Nov 1 2017,Victoria,C,
+Nov 1 2017,Victoria,A and B,
+Nov 1 2017,Victoria,Untyped,
+Nov 1 2017,Western Australia,A(H1N1)pdm09,
+Nov 1 2017,Western Australia,A(H3N2),
+Nov 1 2017,Western Australia,A(unsubtyped),
+Nov 1 2017,Western Australia,B,
+Nov 1 2017,Western Australia,C,
+Nov 1 2017,Western Australia,A and B,
+Nov 1 2017,Western Australia,Untyped,
+Des 1 2017,New South Wales,A(H1N1)pdm09,
+Des 1 2017,New South Wales,A(H3N2),
+Des 1 2017,New South Wales,A(unsubtyped),
+Des 1 2017,New South Wales,B,
+Des 1 2017,New South Wales,C,
+Des 1 2017,New South Wales,A and B,
+Des 1 2017,New South Wales,Untyped,
+Des 1 2017,Northern Territory,A(H1N1)pdm09,
+Des 1 2017,Northern Territory,A(H3N2),
+Des 1 2017,Northern Territory,A(unsubtyped),
+Des 1 2017,Northern Territory,B,
+Des 1 2017,Northern Territory,C,
+Des 1 2017,Northern Territory,A and B,
+Des 1 2017,Northern Territory,Untyped,
+Des 1 2017,Queensland,A(H1N1)pdm09,
+Des 1 2017,Queensland,A(H3N2),
+Des 1 2017,Queensland,A(unsubtyped),
+Des 1 2017,Queensland,B,
+Des 1 2017,Queensland,C,
+Des 1 2017,Queensland,A and B,
+Des 1 2017,Queensland,Untyped,
+Des 1 2017,South Australia,A(H1N1)pdm09,
+Des 1 2017,South Australia,A(H3N2),
+Des 1 2017,South Australia,A(unsubtyped),
+Des 1 2017,South Australia,B,
+Des 1 2017,South Australia,C,
+Des 1 2017,South Australia,A and B,
+Des 1 2017,South Australia,Untyped,
+Des 1 2017,Tasmania,A(H1N1)pdm09,
+Des 1 2017,Tasmania,A(H3N2),
+Des 1 2017,Tasmania,A(unsubtyped),
+Des 1 2017,Tasmania,B,
+Des 1 2017,Tasmania,C,
+Des 1 2017,Tasmania,A and B,
+Des 1 2017,Tasmania,Untyped,
+Des 1 2017,Victoria,A(H1N1)pdm09,
+Des 1 2017,Victoria,A(H3N2),
+Des 1 2017,Victoria,A(unsubtyped),
+Des 1 2017,Victoria,B,
+Des 1 2017,Victoria,C,
+Des 1 2017,Victoria,A and B,
+Des 1 2017,Victoria,Untyped,
+Des 1 2017,Western Australia,A(H1N1)pdm09,
+Des 1 2017,Western Australia,A(H3N2),
+Des 1 2017,Western Australia,A(unsubtyped),
+Des 1 2017,Western Australia,B,
+Des 1 2017,Western Australia,C,
+Des 1 2017,Western Australia,A and B,
+Des 1 2017,Western Australia,Untyped,
+Jan 1 2018,New South Wales,A(H1N1)pdm09,
+Jan 1 2018,New South Wales,A(H3N2),
+Jan 1 2018,New South Wales,A(unsubtyped),
+Jan 1 2018,New South Wales,B,
+Jan 1 2018,New South Wales,C,
+Jan 1 2018,New South Wales,A and B,
+Jan 1 2018,New South Wales,Untyped,
+Jan 1 2018,Northern Territory,A(H1N1)pdm09,
+Jan 1 2018,Northern Territory,A(H3N2),
+Jan 1 2018,Northern Territory,A(unsubtyped),
+Jan 1 2018,Northern Territory,B,
+Jan 1 2018,Northern Territory,C,
+Jan 1 2018,Northern Territory,A and B,
+Jan 1 2018,Northern Territory,Untyped,
+Jan 1 2018,Queensland,A(H1N1)pdm09,
+Jan 1 2018,Queensland,A(H3N2),
+Jan 1 2018,Queensland,A(unsubtyped),
+Jan 1 2018,Queensland,B,
+Jan 1 2018,Queensland,C,
+Jan 1 2018,Queensland,A and B,
+Jan 1 2018,Queensland,Untyped,
+Jan 1 2018,South Australia,A(H1N1)pdm09,
+Jan 1 2018,South Australia,A(H3N2),
+Jan 1 2018,South Australia,A(unsubtyped),
+Jan 1 2018,South Australia,B,
+Jan 1 2018,South Australia,C,
+Jan 1 2018,South Australia,A and B,
+Jan 1 2018,South Australia,Untyped,
+Jan 1 2018,Tasmania,A(H1N1)pdm09,
+Jan 1 2018,Tasmania,A(H3N2),
+Jan 1 2018,Tasmania,A(unsubtyped),
+Jan 1 2018,Tasmania,B,
+Jan 1 2018,Tasmania,C,
+Jan 1 2018,Tasmania,A and B,
+Jan 1 2018,Tasmania,Untyped,
+Jan 1 2018,Victoria,A(H1N1)pdm09,
+Jan 1 2018,Victoria,A(H3N2),
+Jan 1 2018,Victoria,A(unsubtyped),
+Jan 1 2018,Victoria,B,
+Jan 1 2018,Victoria,C,
+Jan 1 2018,Victoria,A and B,
+Jan 1 2018,Victoria,Untyped,
+Jan 1 2018,Western Australia,A(H1N1)pdm09,
+Jan 1 2018,Western Australia,A(H3N2),
+Jan 1 2018,Western Australia,A(unsubtyped),
+Jan 1 2018,Western Australia,B,
+Jan 1 2018,Western Australia,C,
+Jan 1 2018,Western Australia,A and B,
+Jan 1 2018,Western Australia,Untyped,
+Feb 1 2018,New South Wales,A(H1N1)pdm09,
+Feb 1 2018,New South Wales,A(H3N2),
+Feb 1 2018,New South Wales,A(unsubtyped),
+Feb 1 2018,New South Wales,B,
+Feb 1 2018,New South Wales,C,
+Feb 1 2018,New South Wales,A and B,
+Feb 1 2018,New South Wales,Untyped,
+Feb 1 2018,Northern Territory,A(H1N1)pdm09,
+Feb 1 2018,Northern Territory,A(H3N2),
+Feb 1 2018,Northern Territory,A(unsubtyped),
+Feb 1 2018,Northern Territory,B,
+Feb 1 2018,Northern Territory,C,
+Feb 1 2018,Northern Territory,A and B,
+Feb 1 2018,Northern Territory,Untyped,
+Feb 1 2018,Queensland,A(H1N1)pdm09,
+Feb 1 2018,Queensland,A(H3N2),
+Feb 1 2018,Queensland,A(unsubtyped),
+Feb 1 2018,Queensland,B,
+Feb 1 2018,Queensland,C,
+Feb 1 2018,Queensland,A and B,
+Feb 1 2018,Queensland,Untyped,
+Feb 1 2018,South Australia,A(H1N1)pdm09,
+Feb 1 2018,South Australia,A(H3N2),
+Feb 1 2018,South Australia,A(unsubtyped),
+Feb 1 2018,South Australia,B,
+Feb 1 2018,South Australia,C,
+Feb 1 2018,South Australia,A and B,
+Feb 1 2018,South Australia,Untyped,
+Feb 1 2018,Tasmania,A(H1N1)pdm09,
+Feb 1 2018,Tasmania,A(H3N2),
+Feb 1 2018,Tasmania,A(unsubtyped),
+Feb 1 2018,Tasmania,B,
+Feb 1 2018,Tasmania,C,
+Feb 1 2018,Tasmania,A and B,
+Feb 1 2018,Tasmania,Untyped,
+Feb 1 2018,Victoria,A(H1N1)pdm09,
+Feb 1 2018,Victoria,A(H3N2),
+Feb 1 2018,Victoria,A(unsubtyped),
+Feb 1 2018,Victoria,B,
+Feb 1 2018,Victoria,C,
+Feb 1 2018,Victoria,A and B,
+Feb 1 2018,Victoria,Untyped,
+Feb 1 2018,Western Australia,A(H1N1)pdm09,
+Feb 1 2018,Western Australia,A(H3N2),
+Feb 1 2018,Western Australia,A(unsubtyped),
+Feb 1 2018,Western Australia,B,
+Feb 1 2018,Western Australia,C,
+Feb 1 2018,Western Australia,A and B,
+Feb 1 2018,Western Australia,Untyped,
+Mar 1 2018,New South Wales,A(H1N1)pdm09,
+Mar 1 2018,New South Wales,A(H3N2),
+Mar 1 2018,New South Wales,A(unsubtyped),
+Mar 1 2018,New South Wales,B,
+Mar 1 2018,New South Wales,C,
+Mar 1 2018,New South Wales,A and B,
+Mar 1 2018,New South Wales,Untyped,
+Mar 1 2018,Northern Territory,A(H1N1)pdm09,
+Mar 1 2018,Northern Territory,A(H3N2),
+Mar 1 2018,Northern Territory,A(unsubtyped),
+Mar 1 2018,Northern Territory,B,
+Mar 1 2018,Northern Territory,C,
+Mar 1 2018,Northern Territory,A and B,
+Mar 1 2018,Northern Territory,Untyped,
+Mar 1 2018,Queensland,A(H1N1)pdm09,
+Mar 1 2018,Queensland,A(H3N2),
+Mar 1 2018,Queensland,A(unsubtyped),
+Mar 1 2018,Queensland,B,
+Mar 1 2018,Queensland,C,
+Mar 1 2018,Queensland,A and B,
+Mar 1 2018,Queensland,Untyped,
+Mar 1 2018,South Australia,A(H1N1)pdm09,
+Mar 1 2018,South Australia,A(H3N2),
+Mar 1 2018,South Australia,A(unsubtyped),
+Mar 1 2018,South Australia,B,
+Mar 1 2018,South Australia,C,
+Mar 1 2018,South Australia,A and B,
+Mar 1 2018,South Australia,Untyped,
+Mar 1 2018,Tasmania,A(H1N1)pdm09,
+Mar 1 2018,Tasmania,A(H3N2),
+Mar 1 2018,Tasmania,A(unsubtyped),
+Mar 1 2018,Tasmania,B,
+Mar 1 2018,Tasmania,C,
+Mar 1 2018,Tasmania,A and B,
+Mar 1 2018,Tasmania,Untyped,
+Mar 1 2018,Victoria,A(H1N1)pdm09,
+Mar 1 2018,Victoria,A(H3N2),
+Mar 1 2018,Victoria,A(unsubtyped),
+Mar 1 2018,Victoria,B,
+Mar 1 2018,Victoria,C,
+Mar 1 2018,Victoria,A and B,
+Mar 1 2018,Victoria,Untyped,
+Mar 1 2018,Western Australia,A(H1N1)pdm09,
+Mar 1 2018,Western Australia,A(H3N2),
+Mar 1 2018,Western Australia,A(unsubtyped),
+Mar 1 2018,Western Australia,B,
+Mar 1 2018,Western Australia,C,
+Mar 1 2018,Western Australia,A and B,
+Mar 1 2018,Western Australia,Untyped,
+Apr 1 2018,New South Wales,A(H1N1)pdm09,
+Apr 1 2018,New South Wales,A(H3N2),
+Apr 1 2018,New South Wales,A(unsubtyped),
+Apr 1 2018,New South Wales,B,
+Apr 1 2018,New South Wales,C,
+Apr 1 2018,New South Wales,A and B,
+Apr 1 2018,New South Wales,Untyped,
+Apr 1 2018,Northern Territory,A(H1N1)pdm09,
+Apr 1 2018,Northern Territory,A(H3N2),
+Apr 1 2018,Northern Territory,A(unsubtyped),
+Apr 1 2018,Northern Territory,B,
+Apr 1 2018,Northern Territory,C,
+Apr 1 2018,Northern Territory,A and B,
+Apr 1 2018,Northern Territory,Untyped,
+Apr 1 2018,Queensland,A(H1N1)pdm09,
+Apr 1 2018,Queensland,A(H3N2),
+Apr 1 2018,Queensland,A(unsubtyped),
+Apr 1 2018,Queensland,B,
+Apr 1 2018,Queensland,C,
+Apr 1 2018,Queensland,A and B,
+Apr 1 2018,Queensland,Untyped,
+Apr 1 2018,South Australia,A(H1N1)pdm09,
+Apr 1 2018,South Australia,A(H3N2),
+Apr 1 2018,South Australia,A(unsubtyped),
+Apr 1 2018,South Australia,B,
+Apr 1 2018,South Australia,C,
+Apr 1 2018,South Australia,A and B,
+Apr 1 2018,South Australia,Untyped,
+Apr 1 2018,Tasmania,A(H1N1)pdm09,
+Apr 1 2018,Tasmania,A(H3N2),
+Apr 1 2018,Tasmania,A(unsubtyped),
+Apr 1 2018,Tasmania,B,
+Apr 1 2018,Tasmania,C,
+Apr 1 2018,Tasmania,A and B,
+Apr 1 2018,Tasmania,Untyped,
+Apr 1 2018,Victoria,A(H1N1)pdm09,
+Apr 1 2018,Victoria,A(H3N2),
+Apr 1 2018,Victoria,A(unsubtyped),
+Apr 1 2018,Victoria,B,
+Apr 1 2018,Victoria,C,
+Apr 1 2018,Victoria,A and B,
+Apr 1 2018,Victoria,Untyped,
+Apr 1 2018,Western Australia,A(H1N1)pdm09,
+Apr 1 2018,Western Australia,A(H3N2),
+Apr 1 2018,Western Australia,A(unsubtyped),
+Apr 1 2018,Western Australia,B,
+Apr 1 2018,Western Australia,C,
+Apr 1 2018,Western Australia,A and B,
+Apr 1 2018,Western Australia,Untyped,
+May 1 2018,New South Wales,A(H1N1)pdm09,
+May 1 2018,New South Wales,A(H3N2),
+May 1 2018,New South Wales,A(unsubtyped),
+May 1 2018,New South Wales,B,
+May 1 2018,New South Wales,C,
+May 1 2018,New South Wales,A and B,
+May 1 2018,New South Wales,Untyped,
+May 1 2018,Northern Territory,A(H1N1)pdm09,
+May 1 2018,Northern Territory,A(H3N2),
+May 1 2018,Northern Territory,A(unsubtyped),
+May 1 2018,Northern Territory,B,
+May 1 2018,Northern Territory,C,
+May 1 2018,Northern Territory,A and B,
+May 1 2018,Northern Territory,Untyped,
+May 1 2018,Queensland,A(H1N1)pdm09,
+May 1 2018,Queensland,A(H3N2),
+May 1 2018,Queensland,A(unsubtyped),
+May 1 2018,Queensland,B,
+May 1 2018,Queensland,C,
+May 1 2018,Queensland,A and B,
+May 1 2018,Queensland,Untyped,
+May 1 2018,South Australia,A(H1N1)pdm09,
+May 1 2018,South Australia,A(H3N2),
+May 1 2018,South Australia,A(unsubtyped),
+May 1 2018,South Australia,B,
+May 1 2018,South Australia,C,
+May 1 2018,South Australia,A and B,
+May 1 2018,South Australia,Untyped,
+May 1 2018,Tasmania,A(H1N1)pdm09,
+May 1 2018,Tasmania,A(H3N2),
+May 1 2018,Tasmania,A(unsubtyped),
+May 1 2018,Tasmania,B,
+May 1 2018,Tasmania,C,
+May 1 2018,Tasmania,A and B,
+May 1 2018,Tasmania,Untyped,
+May 1 2018,Victoria,A(H1N1)pdm09,
+May 1 2018,Victoria,A(H3N2),
+May 1 2018,Victoria,A(unsubtyped),
+May 1 2018,Victoria,B,
+May 1 2018,Victoria,C,
+May 1 2018,Victoria,A and B,
+May 1 2018,Victoria,Untyped,
+May 1 2018,Western Australia,A(H1N1)pdm09,
+May 1 2018,Western Australia,A(H3N2),
+May 1 2018,Western Australia,A(unsubtyped),
+May 1 2018,Western Australia,B,
+May 1 2018,Western Australia,C,
+May 1 2018,Western Australia,A and B,
+May 1 2018,Western Australia,Untyped,
+Jun 1 2018,New South Wales,A(H1N1)pdm09,
+Jun 1 2018,New South Wales,A(H3N2),
+Jun 1 2018,New South Wales,A(unsubtyped),
+Jun 1 2018,New South Wales,B,
+Jun 1 2018,New South Wales,C,
+Jun 1 2018,New South Wales,A and B,
+Jun 1 2018,New South Wales,Untyped,
+Jun 1 2018,Northern Territory,A(H1N1)pdm09,
+Jun 1 2018,Northern Territory,A(H3N2),
+Jun 1 2018,Northern Territory,A(unsubtyped),
+Jun 1 2018,Northern Territory,B,
+Jun 1 2018,Northern Territory,C,
+Jun 1 2018,Northern Territory,A and B,
+Jun 1 2018,Northern Territory,Untyped,
+Jun 1 2018,Queensland,A(H1N1)pdm09,
+Jun 1 2018,Queensland,A(H3N2),
+Jun 1 2018,Queensland,A(unsubtyped),
+Jun 1 2018,Queensland,B,
+Jun 1 2018,Queensland,C,
+Jun 1 2018,Queensland,A and B,
+Jun 1 2018,Queensland,Untyped,
+Jun 1 2018,South Australia,A(H1N1)pdm09,
+Jun 1 2018,South Australia,A(H3N2),
+Jun 1 2018,South Australia,A(unsubtyped),
+Jun 1 2018,South Australia,B,
+Jun 1 2018,South Australia,C,
+Jun 1 2018,South Australia,A and B,
+Jun 1 2018,South Australia,Untyped,
+Jun 1 2018,Tasmania,A(H1N1)pdm09,
+Jun 1 2018,Tasmania,A(H3N2),
+Jun 1 2018,Tasmania,A(unsubtyped),
+Jun 1 2018,Tasmania,B,
+Jun 1 2018,Tasmania,C,
+Jun 1 2018,Tasmania,A and B,
+Jun 1 2018,Tasmania,Untyped,
+Jun 1 2018,Victoria,A(H1N1)pdm09,
+Jun 1 2018,Victoria,A(H3N2),
+Jun 1 2018,Victoria,A(unsubtyped),
+Jun 1 2018,Victoria,B,
+Jun 1 2018,Victoria,C,
+Jun 1 2018,Victoria,A and B,
+Jun 1 2018,Victoria,Untyped,
+Jun 1 2018,Western Australia,A(H1N1)pdm09,
+Jun 1 2018,Western Australia,A(H3N2),
+Jun 1 2018,Western Australia,A(unsubtyped),
+Jun 1 2018,Western Australia,B,
+Jun 1 2018,Western Australia,C,
+Jun 1 2018,Western Australia,A and B,
+Jun 1 2018,Western Australia,Untyped,
+Jul 1 2018,New South Wales,A(H1N1)pdm09,
+Jul 1 2018,New South Wales,A(H3N2),
+Jul 1 2018,New South Wales,A(unsubtyped),
+Jul 1 2018,New South Wales,B,
+Jul 1 2018,New South Wales,C,
+Jul 1 2018,New South Wales,A and B,
+Jul 1 2018,New South Wales,Untyped,
+Jul 1 2018,Northern Territory,A(H1N1)pdm09,
+Jul 1 2018,Northern Territory,A(H3N2),
+Jul 1 2018,Northern Territory,A(unsubtyped),
+Jul 1 2018,Northern Territory,B,
+Jul 1 2018,Northern Territory,C,
+Jul 1 2018,Northern Territory,A and B,
+Jul 1 2018,Northern Territory,Untyped,
+Jul 1 2018,Queensland,A(H1N1)pdm09,
+Jul 1 2018,Queensland,A(H3N2),
+Jul 1 2018,Queensland,A(unsubtyped),
+Jul 1 2018,Queensland,B,
+Jul 1 2018,Queensland,C,
+Jul 1 2018,Queensland,A and B,
+Jul 1 2018,Queensland,Untyped,
+Jul 1 2018,South Australia,A(H1N1)pdm09,
+Jul 1 2018,South Australia,A(H3N2),
+Jul 1 2018,South Australia,A(unsubtyped),
+Jul 1 2018,South Australia,B,
+Jul 1 2018,South Australia,C,
+Jul 1 2018,South Australia,A and B,
+Jul 1 2018,South Australia,Untyped,
+Jul 1 2018,Tasmania,A(H1N1)pdm09,
+Jul 1 2018,Tasmania,A(H3N2),
+Jul 1 2018,Tasmania,A(unsubtyped),
+Jul 1 2018,Tasmania,B,
+Jul 1 2018,Tasmania,C,
+Jul 1 2018,Tasmania,A and B,
+Jul 1 2018,Tasmania,Untyped,
+Jul 1 2018,Victoria,A(H1N1)pdm09,
+Jul 1 2018,Victoria,A(H3N2),
+Jul 1 2018,Victoria,A(unsubtyped),
+Jul 1 2018,Victoria,B,
+Jul 1 2018,Victoria,C,
+Jul 1 2018,Victoria,A and B,
+Jul 1 2018,Victoria,Untyped,
+Jul 1 2018,Western Australia,A(H1N1)pdm09,
+Jul 1 2018,Western Australia,A(H3N2),
+Jul 1 2018,Western Australia,A(unsubtyped),
+Jul 1 2018,Western Australia,B,
+Jul 1 2018,Western Australia,C,
+Jul 1 2018,Western Australia,A and B,
+Jul 1 2018,Western Australia,Untyped,
+Aug 1 2018,New South Wales,A(H1N1)pdm09,
+Aug 1 2018,New South Wales,A(H3N2),
+Aug 1 2018,New South Wales,A(unsubtyped),
+Aug 1 2018,New South Wales,B,
+Aug 1 2018,New South Wales,C,
+Aug 1 2018,New South Wales,A and B,
+Aug 1 2018,New South Wales,Untyped,
+Aug 1 2018,Northern Territory,A(H1N1)pdm09,
+Aug 1 2018,Northern Territory,A(H3N2),
+Aug 1 2018,Northern Territory,A(unsubtyped),
+Aug 1 2018,Northern Territory,B,
+Aug 1 2018,Northern Territory,C,
+Aug 1 2018,Northern Territory,A and B,
+Aug 1 2018,Northern Territory,Untyped,
+Aug 1 2018,Queensland,A(H1N1)pdm09,
+Aug 1 2018,Queensland,A(H3N2),
+Aug 1 2018,Queensland,A(unsubtyped),
+Aug 1 2018,Queensland,B,
+Aug 1 2018,Queensland,C,
+Aug 1 2018,Queensland,A and B,
+Aug 1 2018,Queensland,Untyped,
+Aug 1 2018,South Australia,A(H1N1)pdm09,
+Aug 1 2018,South Australia,A(H3N2),
+Aug 1 2018,South Australia,A(unsubtyped),
+Aug 1 2018,South Australia,B,
+Aug 1 2018,South Australia,C,
+Aug 1 2018,South Australia,A and B,
+Aug 1 2018,South Australia,Untyped,
+Aug 1 2018,Tasmania,A(H1N1)pdm09,
+Aug 1 2018,Tasmania,A(H3N2),
+Aug 1 2018,Tasmania,A(unsubtyped),
+Aug 1 2018,Tasmania,B,
+Aug 1 2018,Tasmania,C,
+Aug 1 2018,Tasmania,A and B,
+Aug 1 2018,Tasmania,Untyped,
+Aug 1 2018,Victoria,A(H1N1)pdm09,
+Aug 1 2018,Victoria,A(H3N2),
+Aug 1 2018,Victoria,A(unsubtyped),
+Aug 1 2018,Victoria,B,
+Aug 1 2018,Victoria,C,
+Aug 1 2018,Victoria,A and B,
+Aug 1 2018,Victoria,Untyped,
+Aug 1 2018,Western Australia,A(H1N1)pdm09,
+Aug 1 2018,Western Australia,A(H3N2),
+Aug 1 2018,Western Australia,A(unsubtyped),
+Aug 1 2018,Western Australia,B,
+Aug 1 2018,Western Australia,C,
+Aug 1 2018,Western Australia,A and B,
+Aug 1 2018,Western Australia,Untyped,
+Sep 1 2018,New South Wales,A(H1N1)pdm09,
+Sep 1 2018,New South Wales,A(H3N2),
+Sep 1 2018,New South Wales,A(unsubtyped),
+Sep 1 2018,New South Wales,B,
+Sep 1 2018,New South Wales,C,
+Sep 1 2018,New South Wales,A and B,
+Sep 1 2018,New South Wales,Untyped,
+Sep 1 2018,Northern Territory,A(H1N1)pdm09,
+Sep 1 2018,Northern Territory,A(H3N2),
+Sep 1 2018,Northern Territory,A(unsubtyped),
+Sep 1 2018,Northern Territory,B,
+Sep 1 2018,Northern Territory,C,
+Sep 1 2018,Northern Territory,A and B,
+Sep 1 2018,Northern Territory,Untyped,
+Sep 1 2018,Queensland,A(H1N1)pdm09,
+Sep 1 2018,Queensland,A(H3N2),
+Sep 1 2018,Queensland,A(unsubtyped),
+Sep 1 2018,Queensland,B,
+Sep 1 2018,Queensland,C,
+Sep 1 2018,Queensland,A and B,
+Sep 1 2018,Queensland,Untyped,
+Sep 1 2018,South Australia,A(H1N1)pdm09,
+Sep 1 2018,South Australia,A(H3N2),
+Sep 1 2018,South Australia,A(unsubtyped),
+Sep 1 2018,South Australia,B,
+Sep 1 2018,South Australia,C,
+Sep 1 2018,South Australia,A and B,
+Sep 1 2018,South Australia,Untyped,
+Sep 1 2018,Tasmania,A(H1N1)pdm09,
+Sep 1 2018,Tasmania,A(H3N2),
+Sep 1 2018,Tasmania,A(unsubtyped),
+Sep 1 2018,Tasmania,B,
+Sep 1 2018,Tasmania,C,
+Sep 1 2018,Tasmania,A and B,
+Sep 1 2018,Tasmania,Untyped,
+Sep 1 2018,Victoria,A(H1N1)pdm09,
+Sep 1 2018,Victoria,A(H3N2),
+Sep 1 2018,Victoria,A(unsubtyped),
+Sep 1 2018,Victoria,B,
+Sep 1 2018,Victoria,C,
+Sep 1 2018,Victoria,A and B,
+Sep 1 2018,Victoria,Untyped,
+Sep 1 2018,Western Australia,A(H1N1)pdm09,
+Sep 1 2018,Western Australia,A(H3N2),
+Sep 1 2018,Western Australia,A(unsubtyped),
+Sep 1 2018,Western Australia,B,
+Sep 1 2018,Western Australia,C,
+Sep 1 2018,Western Australia,A and B,
+Sep 1 2018,Western Australia,Untyped,
+Oct 1 2018,New South Wales,A(H1N1)pdm09,
+Oct 1 2018,New South Wales,A(H3N2),
+Oct 1 2018,New South Wales,A(unsubtyped),
+Oct 1 2018,New South Wales,B,
+Oct 1 2018,New South Wales,C,
+Oct 1 2018,New South Wales,A and B,
+Oct 1 2018,New South Wales,Untyped,
+Oct 1 2018,Northern Territory,A(H1N1)pdm09,
+Oct 1 2018,Northern Territory,A(H3N2),
+Oct 1 2018,Northern Territory,A(unsubtyped),
+Oct 1 2018,Northern Territory,B,
+Oct 1 2018,Northern Territory,C,
+Oct 1 2018,Northern Territory,A and B,
+Oct 1 2018,Northern Territory,Untyped,
+Oct 1 2018,Queensland,A(H1N1)pdm09,
+Oct 1 2018,Queensland,A(H3N2),
+Oct 1 2018,Queensland,A(unsubtyped),
+Oct 1 2018,Queensland,B,
+Oct 1 2018,Queensland,C,
+Oct 1 2018,Queensland,A and B,
+Oct 1 2018,Queensland,Untyped,
+Oct 1 2018,South Australia,A(H1N1)pdm09,
+Oct 1 2018,South Australia,A(H3N2),
+Oct 1 2018,South Australia,A(unsubtyped),
+Oct 1 2018,South Australia,B,
+Oct 1 2018,South Australia,C,
+Oct 1 2018,South Australia,A and B,
+Oct 1 2018,South Australia,Untyped,
+Oct 1 2018,Tasmania,A(H1N1)pdm09,
+Oct 1 2018,Tasmania,A(H3N2),
+Oct 1 2018,Tasmania,A(unsubtyped),
+Oct 1 2018,Tasmania,B,
+Oct 1 2018,Tasmania,C,
+Oct 1 2018,Tasmania,A and B,
+Oct 1 2018,Tasmania,Untyped,
+Oct 1 2018,Victoria,A(H1N1)pdm09,
+Oct 1 2018,Victoria,A(H3N2),
+Oct 1 2018,Victoria,A(unsubtyped),
+Oct 1 2018,Victoria,B,
+Oct 1 2018,Victoria,C,
+Oct 1 2018,Victoria,A and B,
+Oct 1 2018,Victoria,Untyped,
+Oct 1 2018,Western Australia,A(H1N1)pdm09,
+Oct 1 2018,Western Australia,A(H3N2),
+Oct 1 2018,Western Australia,A(unsubtyped),
+Oct 1 2018,Western Australia,B,
+Oct 1 2018,Western Australia,C,
+Oct 1 2018,Western Australia,A and B,
+Oct 1 2018,Western Australia,Untyped,
+Nov 1 2018,New South Wales,A(H1N1)pdm09,
+Nov 1 2018,New South Wales,A(H3N2),
+Nov 1 2018,New South Wales,A(unsubtyped),
+Nov 1 2018,New South Wales,B,
+Nov 1 2018,New South Wales,C,
+Nov 1 2018,New South Wales,A and B,
+Nov 1 2018,New South Wales,Untyped,
+Nov 1 2018,Northern Territory,A(H1N1)pdm09,
+Nov 1 2018,Northern Territory,A(H3N2),
+Nov 1 2018,Northern Territory,A(unsubtyped),
+Nov 1 2018,Northern Territory,B,
+Nov 1 2018,Northern Territory,C,
+Nov 1 2018,Northern Territory,A and B,
+Nov 1 2018,Northern Territory,Untyped,
+Nov 1 2018,Queensland,A(H1N1)pdm09,
+Nov 1 2018,Queensland,A(H3N2),
+Nov 1 2018,Queensland,A(unsubtyped),
+Nov 1 2018,Queensland,B,
+Nov 1 2018,Queensland,C,
+Nov 1 2018,Queensland,A and B,
+Nov 1 2018,Queensland,Untyped,
+Nov 1 2018,South Australia,A(H1N1)pdm09,
+Nov 1 2018,South Australia,A(H3N2),
+Nov 1 2018,South Australia,A(unsubtyped),
+Nov 1 2018,South Australia,B,
+Nov 1 2018,South Australia,C,
+Nov 1 2018,South Australia,A and B,
+Nov 1 2018,South Australia,Untyped,
+Nov 1 2018,Tasmania,A(H1N1)pdm09,
+Nov 1 2018,Tasmania,A(H3N2),
+Nov 1 2018,Tasmania,A(unsubtyped),
+Nov 1 2018,Tasmania,B,
+Nov 1 2018,Tasmania,C,
+Nov 1 2018,Tasmania,A and B,
+Nov 1 2018,Tasmania,Untyped,
+Nov 1 2018,Victoria,A(H1N1)pdm09,
+Nov 1 2018,Victoria,A(H3N2),
+Nov 1 2018,Victoria,A(unsubtyped),
+Nov 1 2018,Victoria,B,
+Nov 1 2018,Victoria,C,
+Nov 1 2018,Victoria,A and B,
+Nov 1 2018,Victoria,Untyped,
+Nov 1 2018,Western Australia,A(H1N1)pdm09,
+Nov 1 2018,Western Australia,A(H3N2),
+Nov 1 2018,Western Australia,A(unsubtyped),
+Nov 1 2018,Western Australia,B,
+Nov 1 2018,Western Australia,C,
+Nov 1 2018,Western Australia,A and B,
+Nov 1 2018,Western Australia,Untyped,
+Des 1 2018,New South Wales,A(H1N1)pdm09,
+Des 1 2018,New South Wales,A(H3N2),
+Des 1 2018,New South Wales,A(unsubtyped),
+Des 1 2018,New South Wales,B,
+Des 1 2018,New South Wales,C,
+Des 1 2018,New South Wales,A and B,
+Des 1 2018,New South Wales,Untyped,
+Des 1 2018,Northern Territory,A(H1N1)pdm09,
+Des 1 2018,Northern Territory,A(H3N2),
+Des 1 2018,Northern Territory,A(unsubtyped),
+Des 1 2018,Northern Territory,B,
+Des 1 2018,Northern Territory,C,
+Des 1 2018,Northern Territory,A and B,
+Des 1 2018,Northern Territory,Untyped,
+Des 1 2018,Queensland,A(H1N1)pdm09,
+Des 1 2018,Queensland,A(H3N2),
+Des 1 2018,Queensland,A(unsubtyped),
+Des 1 2018,Queensland,B,
+Des 1 2018,Queensland,C,
+Des 1 2018,Queensland,A and B,
+Des 1 2018,Queensland,Untyped,
+Des 1 2018,South Australia,A(H1N1)pdm09,
+Des 1 2018,South Australia,A(H3N2),
+Des 1 2018,South Australia,A(unsubtyped),
+Des 1 2018,South Australia,B,
+Des 1 2018,South Australia,C,
+Des 1 2018,South Australia,A and B,
+Des 1 2018,South Australia,Untyped,
+Des 1 2018,Tasmania,A(H1N1)pdm09,
+Des 1 2018,Tasmania,A(H3N2),
+Des 1 2018,Tasmania,A(unsubtyped),
+Des 1 2018,Tasmania,B,
+Des 1 2018,Tasmania,C,
+Des 1 2018,Tasmania,A and B,
+Des 1 2018,Tasmania,Untyped,
+Des 1 2018,Victoria,A(H1N1)pdm09,
+Des 1 2018,Victoria,A(H3N2),
+Des 1 2018,Victoria,A(unsubtyped),
+Des 1 2018,Victoria,B,
+Des 1 2018,Victoria,C,
+Des 1 2018,Victoria,A and B,
+Des 1 2018,Victoria,Untyped,
+Des 1 2018,Western Australia,A(H1N1)pdm09,
+Des 1 2018,Western Australia,A(H3N2),
+Des 1 2018,Western Australia,A(unsubtyped),
+Des 1 2018,Western Australia,B,
+Des 1 2018,Western Australia,C,
+Des 1 2018,Western Australia,A and B,
+Des 1 2018,Western Australia,Untyped,
+Jan 1 2019,New South Wales,A(H1N1)pdm09,
+Jan 1 2019,New South Wales,A(H3N2),
+Jan 1 2019,New South Wales,A(unsubtyped),
+Jan 1 2019,New South Wales,B,
+Jan 1 2019,New South Wales,C,
+Jan 1 2019,New South Wales,A and B,
+Jan 1 2019,New South Wales,Untyped,
+Jan 1 2019,Northern Territory,A(H1N1)pdm09,
+Jan 1 2019,Northern Territory,A(H3N2),
+Jan 1 2019,Northern Territory,A(unsubtyped),
+Jan 1 2019,Northern Territory,B,
+Jan 1 2019,Northern Territory,C,
+Jan 1 2019,Northern Territory,A and B,
+Jan 1 2019,Northern Territory,Untyped,
+Jan 1 2019,Queensland,A(H1N1)pdm09,
+Jan 1 2019,Queensland,A(H3N2),
+Jan 1 2019,Queensland,A(unsubtyped),
+Jan 1 2019,Queensland,B,
+Jan 1 2019,Queensland,C,
+Jan 1 2019,Queensland,A and B,
+Jan 1 2019,Queensland,Untyped,
+Jan 1 2019,South Australia,A(H1N1)pdm09,
+Jan 1 2019,South Australia,A(H3N2),
+Jan 1 2019,South Australia,A(unsubtyped),
+Jan 1 2019,South Australia,B,
+Jan 1 2019,South Australia,C,
+Jan 1 2019,South Australia,A and B,
+Jan 1 2019,South Australia,Untyped,
+Jan 1 2019,Tasmania,A(H1N1)pdm09,
+Jan 1 2019,Tasmania,A(H3N2),
+Jan 1 2019,Tasmania,A(unsubtyped),
+Jan 1 2019,Tasmania,B,
+Jan 1 2019,Tasmania,C,
+Jan 1 2019,Tasmania,A and B,
+Jan 1 2019,Tasmania,Untyped,
+Jan 1 2019,Victoria,A(H1N1)pdm09,
+Jan 1 2019,Victoria,A(H3N2),
+Jan 1 2019,Victoria,A(unsubtyped),
+Jan 1 2019,Victoria,B,
+Jan 1 2019,Victoria,C,
+Jan 1 2019,Victoria,A and B,
+Jan 1 2019,Victoria,Untyped,
+Jan 1 2019,Western Australia,A(H1N1)pdm09,
+Jan 1 2019,Western Australia,A(H3N2),
+Jan 1 2019,Western Australia,A(unsubtyped),
+Jan 1 2019,Western Australia,B,
+Jan 1 2019,Western Australia,C,
+Jan 1 2019,Western Australia,A and B,
+Jan 1 2019,Western Australia,Untyped,
+Feb 1 2019,New South Wales,A(H1N1)pdm09,
+Feb 1 2019,New South Wales,A(H3N2),
+Feb 1 2019,New South Wales,A(unsubtyped),
+Feb 1 2019,New South Wales,B,
+Feb 1 2019,New South Wales,C,
+Feb 1 2019,New South Wales,A and B,
+Feb 1 2019,New South Wales,Untyped,
+Feb 1 2019,Northern Territory,A(H1N1)pdm09,
+Feb 1 2019,Northern Territory,A(H3N2),
+Feb 1 2019,Northern Territory,A(unsubtyped),
+Feb 1 2019,Northern Territory,B,
+Feb 1 2019,Northern Territory,C,
+Feb 1 2019,Northern Territory,A and B,
+Feb 1 2019,Northern Territory,Untyped,
+Feb 1 2019,Queensland,A(H1N1)pdm09,
+Feb 1 2019,Queensland,A(H3N2),
+Feb 1 2019,Queensland,A(unsubtyped),
+Feb 1 2019,Queensland,B,
+Feb 1 2019,Queensland,C,
+Feb 1 2019,Queensland,A and B,
+Feb 1 2019,Queensland,Untyped,
+Feb 1 2019,South Australia,A(H1N1)pdm09,
+Feb 1 2019,South Australia,A(H3N2),
+Feb 1 2019,South Australia,A(unsubtyped),
+Feb 1 2019,South Australia,B,
+Feb 1 2019,South Australia,C,
+Feb 1 2019,South Australia,A and B,
+Feb 1 2019,South Australia,Untyped,
+Feb 1 2019,Tasmania,A(H1N1)pdm09,
+Feb 1 2019,Tasmania,A(H3N2),
+Feb 1 2019,Tasmania,A(unsubtyped),
+Feb 1 2019,Tasmania,B,
+Feb 1 2019,Tasmania,C,
+Feb 1 2019,Tasmania,A and B,
+Feb 1 2019,Tasmania,Untyped,
+Feb 1 2019,Victoria,A(H1N1)pdm09,
+Feb 1 2019,Victoria,A(H3N2),
+Feb 1 2019,Victoria,A(unsubtyped),
+Feb 1 2019,Victoria,B,
+Feb 1 2019,Victoria,C,
+Feb 1 2019,Victoria,A and B,
+Feb 1 2019,Victoria,Untyped,
+Feb 1 2019,Western Australia,A(H1N1)pdm09,
+Feb 1 2019,Western Australia,A(H3N2),
+Feb 1 2019,Western Australia,A(unsubtyped),
+Feb 1 2019,Western Australia,B,
+Feb 1 2019,Western Australia,C,
+Feb 1 2019,Western Australia,A and B,
+Feb 1 2019,Western Australia,Untyped,
+Mar 1 2019,New South Wales,A(H1N1)pdm09,
+Mar 1 2019,New South Wales,A(H3N2),
+Mar 1 2019,New South Wales,A(unsubtyped),
+Mar 1 2019,New South Wales,B,
+Mar 1 2019,New South Wales,C,
+Mar 1 2019,New South Wales,A and B,
+Mar 1 2019,New South Wales,Untyped,
+Mar 1 2019,Northern Territory,A(H1N1)pdm09,
+Mar 1 2019,Northern Territory,A(H3N2),
+Mar 1 2019,Northern Territory,A(unsubtyped),
+Mar 1 2019,Northern Territory,B,
+Mar 1 2019,Northern Territory,C,
+Mar 1 2019,Northern Territory,A and B,
+Mar 1 2019,Northern Territory,Untyped,
+Mar 1 2019,Queensland,A(H1N1)pdm09,
+Mar 1 2019,Queensland,A(H3N2),
+Mar 1 2019,Queensland,A(unsubtyped),
+Mar 1 2019,Queensland,B,
+Mar 1 2019,Queensland,C,
+Mar 1 2019,Queensland,A and B,
+Mar 1 2019,Queensland,Untyped,
+Mar 1 2019,South Australia,A(H1N1)pdm09,
+Mar 1 2019,South Australia,A(H3N2),
+Mar 1 2019,South Australia,A(unsubtyped),
+Mar 1 2019,South Australia,B,
+Mar 1 2019,South Australia,C,
+Mar 1 2019,South Australia,A and B,
+Mar 1 2019,South Australia,Untyped,
+Mar 1 2019,Tasmania,A(H1N1)pdm09,
+Mar 1 2019,Tasmania,A(H3N2),
+Mar 1 2019,Tasmania,A(unsubtyped),
+Mar 1 2019,Tasmania,B,
+Mar 1 2019,Tasmania,C,
+Mar 1 2019,Tasmania,A and B,
+Mar 1 2019,Tasmania,Untyped,
+Mar 1 2019,Victoria,A(H1N1)pdm09,
+Mar 1 2019,Victoria,A(H3N2),
+Mar 1 2019,Victoria,A(unsubtyped),
+Mar 1 2019,Victoria,B,
+Mar 1 2019,Victoria,C,
+Mar 1 2019,Victoria,A and B,
+Mar 1 2019,Victoria,Untyped,
+Mar 1 2019,Western Australia,A(H1N1)pdm09,
+Mar 1 2019,Western Australia,A(H3N2),
+Mar 1 2019,Western Australia,A(unsubtyped),
+Mar 1 2019,Western Australia,B,
+Mar 1 2019,Western Australia,C,
+Mar 1 2019,Western Australia,A and B,
+Mar 1 2019,Western Australia,Untyped,
+Apr 1 2019,New South Wales,A(H1N1)pdm09,
+Apr 1 2019,New South Wales,A(H3N2),
+Apr 1 2019,New South Wales,A(unsubtyped),
+Apr 1 2019,New South Wales,B,
+Apr 1 2019,New South Wales,C,
+Apr 1 2019,New South Wales,A and B,
+Apr 1 2019,New South Wales,Untyped,
+Apr 1 2019,Northern Territory,A(H1N1)pdm09,
+Apr 1 2019,Northern Territory,A(H3N2),
+Apr 1 2019,Northern Territory,A(unsubtyped),
+Apr 1 2019,Northern Territory,B,
+Apr 1 2019,Northern Territory,C,
+Apr 1 2019,Northern Territory,A and B,
+Apr 1 2019,Northern Territory,Untyped,
+Apr 1 2019,Queensland,A(H1N1)pdm09,
+Apr 1 2019,Queensland,A(H3N2),
+Apr 1 2019,Queensland,A(unsubtyped),
+Apr 1 2019,Queensland,B,
+Apr 1 2019,Queensland,C,
+Apr 1 2019,Queensland,A and B,
+Apr 1 2019,Queensland,Untyped,
+Apr 1 2019,South Australia,A(H1N1)pdm09,
+Apr 1 2019,South Australia,A(H3N2),
+Apr 1 2019,South Australia,A(unsubtyped),
+Apr 1 2019,South Australia,B,
+Apr 1 2019,South Australia,C,
+Apr 1 2019,South Australia,A and B,
+Apr 1 2019,South Australia,Untyped,
+Apr 1 2019,Tasmania,A(H1N1)pdm09,
+Apr 1 2019,Tasmania,A(H3N2),
+Apr 1 2019,Tasmania,A(unsubtyped),
+Apr 1 2019,Tasmania,B,
+Apr 1 2019,Tasmania,C,
+Apr 1 2019,Tasmania,A and B,
+Apr 1 2019,Tasmania,Untyped,
+Apr 1 2019,Victoria,A(H1N1)pdm09,
+Apr 1 2019,Victoria,A(H3N2),
+Apr 1 2019,Victoria,A(unsubtyped),
+Apr 1 2019,Victoria,B,
+Apr 1 2019,Victoria,C,
+Apr 1 2019,Victoria,A and B,
+Apr 1 2019,Victoria,Untyped,
+Apr 1 2019,Western Australia,A(H1N1)pdm09,
+Apr 1 2019,Western Australia,A(H3N2),
+Apr 1 2019,Western Australia,A(unsubtyped),
+Apr 1 2019,Western Australia,B,
+Apr 1 2019,Western Australia,C,
+Apr 1 2019,Western Australia,A and B,
+Apr 1 2019,Western Australia,Untyped,
+May 1 2019,New South Wales,A(H1N1)pdm09,
+May 1 2019,New South Wales,A(H3N2),
+May 1 2019,New South Wales,A(unsubtyped),
+May 1 2019,New South Wales,B,
+May 1 2019,New South Wales,C,
+May 1 2019,New South Wales,A and B,
+May 1 2019,New South Wales,Untyped,
+May 1 2019,Northern Territory,A(H1N1)pdm09,
+May 1 2019,Northern Territory,A(H3N2),
+May 1 2019,Northern Territory,A(unsubtyped),
+May 1 2019,Northern Territory,B,
+May 1 2019,Northern Territory,C,
+May 1 2019,Northern Territory,A and B,
+May 1 2019,Northern Territory,Untyped,
+May 1 2019,Queensland,A(H1N1)pdm09,
+May 1 2019,Queensland,A(H3N2),
+May 1 2019,Queensland,A(unsubtyped),
+May 1 2019,Queensland,B,
+May 1 2019,Queensland,C,
+May 1 2019,Queensland,A and B,
+May 1 2019,Queensland,Untyped,
+May 1 2019,South Australia,A(H1N1)pdm09,
+May 1 2019,South Australia,A(H3N2),
+May 1 2019,South Australia,A(unsubtyped),
+May 1 2019,South Australia,B,
+May 1 2019,South Australia,C,
+May 1 2019,South Australia,A and B,
+May 1 2019,South Australia,Untyped,
+May 1 2019,Tasmania,A(H1N1)pdm09,
+May 1 2019,Tasmania,A(H3N2),
+May 1 2019,Tasmania,A(unsubtyped),
+May 1 2019,Tasmania,B,
+May 1 2019,Tasmania,C,
+May 1 2019,Tasmania,A and B,
+May 1 2019,Tasmania,Untyped,
+May 1 2019,Victoria,A(H1N1)pdm09,
+May 1 2019,Victoria,A(H3N2),
+May 1 2019,Victoria,A(unsubtyped),
+May 1 2019,Victoria,B,
+May 1 2019,Victoria,C,
+May 1 2019,Victoria,A and B,
+May 1 2019,Victoria,Untyped,
+May 1 2019,Western Australia,A(H1N1)pdm09,
+May 1 2019,Western Australia,A(H3N2),
+May 1 2019,Western Australia,A(unsubtyped),
+May 1 2019,Western Australia,B,
+May 1 2019,Western Australia,C,
+May 1 2019,Western Australia,A and B,
+May 1 2019,Western Australia,Untyped,
+Jun 1 2019,New South Wales,A(H1N1)pdm09,
+Jun 1 2019,New South Wales,A(H3N2),
+Jun 1 2019,New South Wales,A(unsubtyped),
+Jun 1 2019,New South Wales,B,
+Jun 1 2019,New South Wales,C,
+Jun 1 2019,New South Wales,A and B,
+Jun 1 2019,New South Wales,Untyped,
+Jun 1 2019,Northern Territory,A(H1N1)pdm09,
+Jun 1 2019,Northern Territory,A(H3N2),
+Jun 1 2019,Northern Territory,A(unsubtyped),
+Jun 1 2019,Northern Territory,B,
+Jun 1 2019,Northern Territory,C,
+Jun 1 2019,Northern Territory,A and B,
+Jun 1 2019,Northern Territory,Untyped,
+Jun 1 2019,Queensland,A(H1N1)pdm09,
+Jun 1 2019,Queensland,A(H3N2),
+Jun 1 2019,Queensland,A(unsubtyped),
+Jun 1 2019,Queensland,B,
+Jun 1 2019,Queensland,C,
+Jun 1 2019,Queensland,A and B,
+Jun 1 2019,Queensland,Untyped,
+Jun 1 2019,South Australia,A(H1N1)pdm09,
+Jun 1 2019,South Australia,A(H3N2),
+Jun 1 2019,South Australia,A(unsubtyped),
+Jun 1 2019,South Australia,B,
+Jun 1 2019,South Australia,C,
+Jun 1 2019,South Australia,A and B,
+Jun 1 2019,South Australia,Untyped,
+Jun 1 2019,Tasmania,A(H1N1)pdm09,
+Jun 1 2019,Tasmania,A(H3N2),
+Jun 1 2019,Tasmania,A(unsubtyped),
+Jun 1 2019,Tasmania,B,
+Jun 1 2019,Tasmania,C,
+Jun 1 2019,Tasmania,A and B,
+Jun 1 2019,Tasmania,Untyped,
+Jun 1 2019,Victoria,A(H1N1)pdm09,
+Jun 1 2019,Victoria,A(H3N2),
+Jun 1 2019,Victoria,A(unsubtyped),
+Jun 1 2019,Victoria,B,
+Jun 1 2019,Victoria,C,
+Jun 1 2019,Victoria,A and B,
+Jun 1 2019,Victoria,Untyped,
+Jun 1 2019,Western Australia,A(H1N1)pdm09,
+Jun 1 2019,Western Australia,A(H3N2),
+Jun 1 2019,Western Australia,A(unsubtyped),
+Jun 1 2019,Western Australia,B,
+Jun 1 2019,Western Australia,C,
+Jun 1 2019,Western Australia,A and B,
+Jun 1 2019,Western Australia,Untyped,
+Jul 1 2019,New South Wales,A(H1N1)pdm09,
+Jul 1 2019,New South Wales,A(H3N2),
+Jul 1 2019,New South Wales,A(unsubtyped),
+Jul 1 2019,New South Wales,B,
+Jul 1 2019,New South Wales,C,
+Jul 1 2019,New South Wales,A and B,
+Jul 1 2019,New South Wales,Untyped,
+Jul 1 2019,Northern Territory,A(H1N1)pdm09,
+Jul 1 2019,Northern Territory,A(H3N2),
+Jul 1 2019,Northern Territory,A(unsubtyped),
+Jul 1 2019,Northern Territory,B,
+Jul 1 2019,Northern Territory,C,
+Jul 1 2019,Northern Territory,A and B,
+Jul 1 2019,Northern Territory,Untyped,
+Jul 1 2019,Queensland,A(H1N1)pdm09,
+Jul 1 2019,Queensland,A(H3N2),
+Jul 1 2019,Queensland,A(unsubtyped),
+Jul 1 2019,Queensland,B,
+Jul 1 2019,Queensland,C,
+Jul 1 2019,Queensland,A and B,
+Jul 1 2019,Queensland,Untyped,
+Jul 1 2019,South Australia,A(H1N1)pdm09,
+Jul 1 2019,South Australia,A(H3N2),
+Jul 1 2019,South Australia,A(unsubtyped),
+Jul 1 2019,South Australia,B,
+Jul 1 2019,South Australia,C,
+Jul 1 2019,South Australia,A and B,
+Jul 1 2019,South Australia,Untyped,
+Jul 1 2019,Tasmania,A(H1N1)pdm09,
+Jul 1 2019,Tasmania,A(H3N2),
+Jul 1 2019,Tasmania,A(unsubtyped),
+Jul 1 2019,Tasmania,B,
+Jul 1 2019,Tasmania,C,
+Jul 1 2019,Tasmania,A and B,
+Jul 1 2019,Tasmania,Untyped,
+Jul 1 2019,Victoria,A(H1N1)pdm09,
+Jul 1 2019,Victoria,A(H3N2),
+Jul 1 2019,Victoria,A(unsubtyped),
+Jul 1 2019,Victoria,B,
+Jul 1 2019,Victoria,C,
+Jul 1 2019,Victoria,A and B,
+Jul 1 2019,Victoria,Untyped,
+Jul 1 2019,Western Australia,A(H1N1)pdm09,
+Jul 1 2019,Western Australia,A(H3N2),
+Jul 1 2019,Western Australia,A(unsubtyped),
+Jul 1 2019,Western Australia,B,
+Jul 1 2019,Western Australia,C,
+Jul 1 2019,Western Australia,A and B,
+Jul 1 2019,Western Australia,Untyped,
+Aug 1 2019,New South Wales,A(H1N1)pdm09,
+Aug 1 2019,New South Wales,A(H3N2),
+Aug 1 2019,New South Wales,A(unsubtyped),
+Aug 1 2019,New South Wales,B,
+Aug 1 2019,New South Wales,C,
+Aug 1 2019,New South Wales,A and B,
+Aug 1 2019,New South Wales,Untyped,
+Aug 1 2019,Northern Territory,A(H1N1)pdm09,
+Aug 1 2019,Northern Territory,A(H3N2),
+Aug 1 2019,Northern Territory,A(unsubtyped),
+Aug 1 2019,Northern Territory,B,
+Aug 1 2019,Northern Territory,C,
+Aug 1 2019,Northern Territory,A and B,
+Aug 1 2019,Northern Territory,Untyped,
+Aug 1 2019,Queensland,A(H1N1)pdm09,
+Aug 1 2019,Queensland,A(H3N2),
+Aug 1 2019,Queensland,A(unsubtyped),
+Aug 1 2019,Queensland,B,
+Aug 1 2019,Queensland,C,
+Aug 1 2019,Queensland,A and B,
+Aug 1 2019,Queensland,Untyped,
+Aug 1 2019,South Australia,A(H1N1)pdm09,
+Aug 1 2019,South Australia,A(H3N2),
+Aug 1 2019,South Australia,A(unsubtyped),
+Aug 1 2019,South Australia,B,
+Aug 1 2019,South Australia,C,
+Aug 1 2019,South Australia,A and B,
+Aug 1 2019,South Australia,Untyped,
+Aug 1 2019,Tasmania,A(H1N1)pdm09,
+Aug 1 2019,Tasmania,A(H3N2),
+Aug 1 2019,Tasmania,A(unsubtyped),
+Aug 1 2019,Tasmania,B,
+Aug 1 2019,Tasmania,C,
+Aug 1 2019,Tasmania,A and B,
+Aug 1 2019,Tasmania,Untyped,
+Aug 1 2019,Victoria,A(H1N1)pdm09,
+Aug 1 2019,Victoria,A(H3N2),
+Aug 1 2019,Victoria,A(unsubtyped),
+Aug 1 2019,Victoria,B,
+Aug 1 2019,Victoria,C,
+Aug 1 2019,Victoria,A and B,
+Aug 1 2019,Victoria,Untyped,
+Aug 1 2019,Western Australia,A(H1N1)pdm09,
+Aug 1 2019,Western Australia,A(H3N2),
+Aug 1 2019,Western Australia,A(unsubtyped),
+Aug 1 2019,Western Australia,B,
+Aug 1 2019,Western Australia,C,
+Aug 1 2019,Western Australia,A and B,
+Aug 1 2019,Western Australia,Untyped,
+Sep 1 2019,New South Wales,A(H1N1)pdm09,
+Sep 1 2019,New South Wales,A(H3N2),
+Sep 1 2019,New South Wales,A(unsubtyped),
+Sep 1 2019,New South Wales,B,
+Sep 1 2019,New South Wales,C,
+Sep 1 2019,New South Wales,A and B,
+Sep 1 2019,New South Wales,Untyped,
+Sep 1 2019,Northern Territory,A(H1N1)pdm09,
+Sep 1 2019,Northern Territory,A(H3N2),
+Sep 1 2019,Northern Territory,A(unsubtyped),
+Sep 1 2019,Northern Territory,B,
+Sep 1 2019,Northern Territory,C,
+Sep 1 2019,Northern Territory,A and B,
+Sep 1 2019,Northern Territory,Untyped,
+Sep 1 2019,Queensland,A(H1N1)pdm09,
+Sep 1 2019,Queensland,A(H3N2),
+Sep 1 2019,Queensland,A(unsubtyped),
+Sep 1 2019,Queensland,B,
+Sep 1 2019,Queensland,C,
+Sep 1 2019,Queensland,A and B,
+Sep 1 2019,Queensland,Untyped,
+Sep 1 2019,South Australia,A(H1N1)pdm09,
+Sep 1 2019,South Australia,A(H3N2),
+Sep 1 2019,South Australia,A(unsubtyped),
+Sep 1 2019,South Australia,B,
+Sep 1 2019,South Australia,C,
+Sep 1 2019,South Australia,A and B,
+Sep 1 2019,South Australia,Untyped,
+Sep 1 2019,Tasmania,A(H1N1)pdm09,
+Sep 1 2019,Tasmania,A(H3N2),
+Sep 1 2019,Tasmania,A(unsubtyped),
+Sep 1 2019,Tasmania,B,
+Sep 1 2019,Tasmania,C,
+Sep 1 2019,Tasmania,A and B,
+Sep 1 2019,Tasmania,Untyped,
+Sep 1 2019,Victoria,A(H1N1)pdm09,
+Sep 1 2019,Victoria,A(H3N2),
+Sep 1 2019,Victoria,A(unsubtyped),
+Sep 1 2019,Victoria,B,
+Sep 1 2019,Victoria,C,
+Sep 1 2019,Victoria,A and B,
+Sep 1 2019,Victoria,Untyped,
+Sep 1 2019,Western Australia,A(H1N1)pdm09,
+Sep 1 2019,Western Australia,A(H3N2),
+Sep 1 2019,Western Australia,A(unsubtyped),
+Sep 1 2019,Western Australia,B,
+Sep 1 2019,Western Australia,C,
+Sep 1 2019,Western Australia,A and B,
+Sep 1 2019,Western Australia,Untyped,
+Oct 1 2019,New South Wales,A(H1N1)pdm09,
+Oct 1 2019,New South Wales,A(H3N2),
+Oct 1 2019,New South Wales,A(unsubtyped),
+Oct 1 2019,New South Wales,B,
+Oct 1 2019,New South Wales,C,
+Oct 1 2019,New South Wales,A and B,
+Oct 1 2019,New South Wales,Untyped,
+Oct 1 2019,Northern Territory,A(H1N1)pdm09,
+Oct 1 2019,Northern Territory,A(H3N2),
+Oct 1 2019,Northern Territory,A(unsubtyped),
+Oct 1 2019,Northern Territory,B,
+Oct 1 2019,Northern Territory,C,
+Oct 1 2019,Northern Territory,A and B,
+Oct 1 2019,Northern Territory,Untyped,
+Oct 1 2019,Queensland,A(H1N1)pdm09,
+Oct 1 2019,Queensland,A(H3N2),
+Oct 1 2019,Queensland,A(unsubtyped),
+Oct 1 2019,Queensland,B,
+Oct 1 2019,Queensland,C,
+Oct 1 2019,Queensland,A and B,
+Oct 1 2019,Queensland,Untyped,
+Oct 1 2019,South Australia,A(H1N1)pdm09,
+Oct 1 2019,South Australia,A(H3N2),
+Oct 1 2019,South Australia,A(unsubtyped),
+Oct 1 2019,South Australia,B,
+Oct 1 2019,South Australia,C,
+Oct 1 2019,South Australia,A and B,
+Oct 1 2019,South Australia,Untyped,
+Oct 1 2019,Tasmania,A(H1N1)pdm09,
+Oct 1 2019,Tasmania,A(H3N2),
+Oct 1 2019,Tasmania,A(unsubtyped),
+Oct 1 2019,Tasmania,B,
+Oct 1 2019,Tasmania,C,
+Oct 1 2019,Tasmania,A and B,
+Oct 1 2019,Tasmania,Untyped,
+Oct 1 2019,Victoria,A(H1N1)pdm09,
+Oct 1 2019,Victoria,A(H3N2),
+Oct 1 2019,Victoria,A(unsubtyped),
+Oct 1 2019,Victoria,B,
+Oct 1 2019,Victoria,C,
+Oct 1 2019,Victoria,A and B,
+Oct 1 2019,Victoria,Untyped,
+Oct 1 2019,Western Australia,A(H1N1)pdm09,
+Oct 1 2019,Western Australia,A(H3N2),
+Oct 1 2019,Western Australia,A(unsubtyped),
+Oct 1 2019,Western Australia,B,
+Oct 1 2019,Western Australia,C,
+Oct 1 2019,Western Australia,A and B,
+Oct 1 2019,Western Australia,Untyped,
+Nov 1 2019,New South Wales,A(H1N1)pdm09,
+Nov 1 2019,New South Wales,A(H3N2),
+Nov 1 2019,New South Wales,A(unsubtyped),
+Nov 1 2019,New South Wales,B,
+Nov 1 2019,New South Wales,C,
+Nov 1 2019,New South Wales,A and B,
+Nov 1 2019,New South Wales,Untyped,
+Nov 1 2019,Northern Territory,A(H1N1)pdm09,
+Nov 1 2019,Northern Territory,A(H3N2),
+Nov 1 2019,Northern Territory,A(unsubtyped),
+Nov 1 2019,Northern Territory,B,
+Nov 1 2019,Northern Territory,C,
+Nov 1 2019,Northern Territory,A and B,
+Nov 1 2019,Northern Territory,Untyped,
+Nov 1 2019,Queensland,A(H1N1)pdm09,
+Nov 1 2019,Queensland,A(H3N2),
+Nov 1 2019,Queensland,A(unsubtyped),
+Nov 1 2019,Queensland,B,
+Nov 1 2019,Queensland,C,
+Nov 1 2019,Queensland,A and B,
+Nov 1 2019,Queensland,Untyped,
+Nov 1 2019,South Australia,A(H1N1)pdm09,
+Nov 1 2019,South Australia,A(H3N2),
+Nov 1 2019,South Australia,A(unsubtyped),
+Nov 1 2019,South Australia,B,
+Nov 1 2019,South Australia,C,
+Nov 1 2019,South Australia,A and B,
+Nov 1 2019,South Australia,Untyped,
+Nov 1 2019,Tasmania,A(H1N1)pdm09,
+Nov 1 2019,Tasmania,A(H3N2),
+Nov 1 2019,Tasmania,A(unsubtyped),
+Nov 1 2019,Tasmania,B,
+Nov 1 2019,Tasmania,C,
+Nov 1 2019,Tasmania,A and B,
+Nov 1 2019,Tasmania,Untyped,
+Nov 1 2019,Victoria,A(H1N1)pdm09,
+Nov 1 2019,Victoria,A(H3N2),
+Nov 1 2019,Victoria,A(unsubtyped),
+Nov 1 2019,Victoria,B,
+Nov 1 2019,Victoria,C,
+Nov 1 2019,Victoria,A and B,
+Nov 1 2019,Victoria,Untyped,
+Nov 1 2019,Western Australia,A(H1N1)pdm09,
+Nov 1 2019,Western Australia,A(H3N2),
+Nov 1 2019,Western Australia,A(unsubtyped),
+Nov 1 2019,Western Australia,B,
+Nov 1 2019,Western Australia,C,
+Nov 1 2019,Western Australia,A and B,
+Nov 1 2019,Western Australia,Untyped,
+Des 1 2019,New South Wales,A(H1N1)pdm09,
+Des 1 2019,New South Wales,A(H3N2),
+Des 1 2019,New South Wales,A(unsubtyped),
+Des 1 2019,New South Wales,B,
+Des 1 2019,New South Wales,C,
+Des 1 2019,New South Wales,A and B,
+Des 1 2019,New South Wales,Untyped,
+Des 1 2019,Northern Territory,A(H1N1)pdm09,
+Des 1 2019,Northern Territory,A(H3N2),
+Des 1 2019,Northern Territory,A(unsubtyped),
+Des 1 2019,Northern Territory,B,
+Des 1 2019,Northern Territory,C,
+Des 1 2019,Northern Territory,A and B,
+Des 1 2019,Northern Territory,Untyped,
+Des 1 2019,Queensland,A(H1N1)pdm09,
+Des 1 2019,Queensland,A(H3N2),
+Des 1 2019,Queensland,A(unsubtyped),
+Des 1 2019,Queensland,B,
+Des 1 2019,Queensland,C,
+Des 1 2019,Queensland,A and B,
+Des 1 2019,Queensland,Untyped,
+Des 1 2019,South Australia,A(H1N1)pdm09,
+Des 1 2019,South Australia,A(H3N2),
+Des 1 2019,South Australia,A(unsubtyped),
+Des 1 2019,South Australia,B,
+Des 1 2019,South Australia,C,
+Des 1 2019,South Australia,A and B,
+Des 1 2019,South Australia,Untyped,
+Des 1 2019,Tasmania,A(H1N1)pdm09,
+Des 1 2019,Tasmania,A(H3N2),
+Des 1 2019,Tasmania,A(unsubtyped),
+Des 1 2019,Tasmania,B,
+Des 1 2019,Tasmania,C,
+Des 1 2019,Tasmania,A and B,
+Des 1 2019,Tasmania,Untyped,
+Des 1 2019,Victoria,A(H1N1)pdm09,
+Des 1 2019,Victoria,A(H3N2),
+Des 1 2019,Victoria,A(unsubtyped),
+Des 1 2019,Victoria,B,
+Des 1 2019,Victoria,C,
+Des 1 2019,Victoria,A and B,
+Des 1 2019,Victoria,Untyped,
+Des 1 2019,Western Australia,A(H1N1)pdm09,
+Des 1 2019,Western Australia,A(H3N2),
+Des 1 2019,Western Australia,A(unsubtyped),
+Des 1 2019,Western Australia,B,
+Des 1 2019,Western Australia,C,
+Des 1 2019,Western Australia,A and B,
+Des 1 2019,Western Australia,Untyped,
+Jan 1 2020,New South Wales,A(H1N1)pdm09,
+Jan 1 2020,New South Wales,A(H3N2),
+Jan 1 2020,New South Wales,A(unsubtyped),
+Jan 1 2020,New South Wales,B,
+Jan 1 2020,New South Wales,C,
+Jan 1 2020,New South Wales,A and B,
+Jan 1 2020,New South Wales,Untyped,
+Jan 1 2020,Northern Territory,A(H1N1)pdm09,
+Jan 1 2020,Northern Territory,A(H3N2),
+Jan 1 2020,Northern Territory,A(unsubtyped),
+Jan 1 2020,Northern Territory,B,
+Jan 1 2020,Northern Territory,C,
+Jan 1 2020,Northern Territory,A and B,
+Jan 1 2020,Northern Territory,Untyped,
+Jan 1 2020,Queensland,A(H1N1)pdm09,
+Jan 1 2020,Queensland,A(H3N2),
+Jan 1 2020,Queensland,A(unsubtyped),
+Jan 1 2020,Queensland,B,
+Jan 1 2020,Queensland,C,
+Jan 1 2020,Queensland,A and B,
+Jan 1 2020,Queensland,Untyped,
+Jan 1 2020,South Australia,A(H1N1)pdm09,
+Jan 1 2020,South Australia,A(H3N2),
+Jan 1 2020,South Australia,A(unsubtyped),
+Jan 1 2020,South Australia,B,
+Jan 1 2020,South Australia,C,
+Jan 1 2020,South Australia,A and B,
+Jan 1 2020,South Australia,Untyped,
+Jan 1 2020,Tasmania,A(H1N1)pdm09,
+Jan 1 2020,Tasmania,A(H3N2),
+Jan 1 2020,Tasmania,A(unsubtyped),
+Jan 1 2020,Tasmania,B,
+Jan 1 2020,Tasmania,C,
+Jan 1 2020,Tasmania,A and B,
+Jan 1 2020,Tasmania,Untyped,
+Jan 1 2020,Victoria,A(H1N1)pdm09,
+Jan 1 2020,Victoria,A(H3N2),
+Jan 1 2020,Victoria,A(unsubtyped),
+Jan 1 2020,Victoria,B,
+Jan 1 2020,Victoria,C,
+Jan 1 2020,Victoria,A and B,
+Jan 1 2020,Victoria,Untyped,
+Jan 1 2020,Western Australia,A(H1N1)pdm09,
+Jan 1 2020,Western Australia,A(H3N2),
+Jan 1 2020,Western Australia,A(unsubtyped),
+Jan 1 2020,Western Australia,B,
+Jan 1 2020,Western Australia,C,
+Jan 1 2020,Western Australia,A and B,
+Jan 1 2020,Western Australia,Untyped,
