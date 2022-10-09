@@ -1,0 +1,512 @@
+Dates,States,Cases
+Jan 1 2014,New South Wales,281
+Jan 1 2014,Northern Territory,102
+Jan 1 2014,Queensland,468
+Jan 1 2014,South Australia,231
+Jan 1 2014,Tasmania,23
+Jan 1 2014,Victoria,274
+Jan 1 2014,Western Australia,143
+Feb 1 2014,New South Wales,224
+Feb 1 2014,Northern Territory,131
+Feb 1 2014,Queensland,411
+Feb 1 2014,South Australia,112
+Feb 1 2014,Tasmania,17
+Feb 1 2014,Victoria,150
+Feb 1 2014,Western Australia,116
+Mar 1 2014,New South Wales,215
+Mar 1 2014,Northern Territory,32
+Mar 1 2014,Queensland,431
+Mar 1 2014,South Australia,154
+Mar 1 2014,Tasmania,12
+Mar 1 2014,Victoria,164
+Mar 1 2014,Western Australia,127
+Apr 1 2014,New South Wales,204
+Apr 1 2014,Northern Territory,29
+Apr 1 2014,Queensland,384
+Apr 1 2014,South Australia,137
+Apr 1 2014,Tasmania,17
+Apr 1 2014,Victoria,127
+Apr 1 2014,Western Australia,130
+May 1 2014,New South Wales,272
+May 1 2014,Northern Territory,12
+May 1 2014,Queensland,520
+May 1 2014,South Australia,137
+May 1 2014,Tasmania,21
+May 1 2014,Victoria,294
+May 1 2014,Western Australia,140
+Jun 1 2014,New South Wales,456
+Jun 1 2014,Northern Territory,11
+Jun 1 2014,Queensland,523
+Jun 1 2014,South Australia,223
+Jun 1 2014,Tasmania,37
+Jun 1 2014,Victoria,401
+Jun 1 2014,Western Australia,172
+Jul 1 2014,New South Wales,2548
+Jul 1 2014,Northern Territory,28
+Jul 1 2014,Queensland,1681
+Jul 1 2014,South Australia,621
+Jul 1 2014,Tasmania,66
+Jul 1 2014,Victoria,890
+Jul 1 2014,Western Australia,713
+Aug 1 2014,New South Wales,11136
+Aug 1 2014,Northern Territory,172
+Aug 1 2014,Queensland,7535
+Aug 1 2014,South Australia,3796
+Aug 1 2014,Tasmania,245
+Aug 1 2014,Victoria,3486
+Aug 1 2014,Western Australia,1905
+Sep 1 2014,New South Wales,4191
+Sep 1 2014,Northern Territory,193
+Sep 1 2014,Queensland,3953
+Sep 1 2014,South Australia,3972
+Sep 1 2014,Tasmania,173
+Sep 1 2014,Victoria,2728
+Sep 1 2014,Western Australia,1110
+Oct 1 2014,New South Wales,927
+Oct 1 2014,Northern Territory,69
+Oct 1 2014,Queensland,1313
+Oct 1 2014,South Australia,1215
+Oct 1 2014,Tasmania,44
+Oct 1 2014,Victoria,957
+Oct 1 2014,Western Australia,436
+Nov 1 2014,New South Wales,200
+Nov 1 2014,Northern Territory,20
+Nov 1 2014,Queensland,300
+Nov 1 2014,South Australia,354
+Nov 1 2014,Tasmania,8
+Nov 1 2014,Victoria,223
+Nov 1 2014,Western Australia,148
+Des 1 2014,New South Wales,220
+Des 1 2014,Northern Territory,34
+Des 1 2014,Queensland,339
+Des 1 2014,South Australia,112
+Des 1 2014,Tasmania,16
+Des 1 2014,Victoria,193
+Des 1 2014,Western Australia,110
+Jan 1 2015,New South Wales,304
+Jan 1 2015,Northern Territory,18
+Jan 1 2015,Queensland,520
+Jan 1 2015,South Australia,129
+Jan 1 2015,Tasmania,6
+Jan 1 2015,Victoria,180
+Jan 1 2015,Western Australia,170
+Feb 1 2015,New South Wales,351
+Feb 1 2015,Northern Territory,9
+Feb 1 2015,Queensland,379
+Feb 1 2015,South Australia,211
+Feb 1 2015,Tasmania,7
+Feb 1 2015,Victoria,186
+Feb 1 2015,Western Australia,168
+Mar 1 2015,New South Wales,408
+Mar 1 2015,Northern Territory,11
+Mar 1 2015,Queensland,473
+Mar 1 2015,South Australia,350
+Mar 1 2015,Tasmania,17
+Mar 1 2015,Victoria,249
+Mar 1 2015,Western Australia,160
+Apr 1 2015,New South Wales,370
+Apr 1 2015,Northern Territory,16
+Apr 1 2015,Queensland,569
+Apr 1 2015,South Australia,492
+Apr 1 2015,Tasmania,33
+Apr 1 2015,Victoria,360
+Apr 1 2015,Western Australia,209
+May 1 2015,New South Wales,468
+May 1 2015,Northern Territory,17
+May 1 2015,Queensland,841
+May 1 2015,South Australia,540
+May 1 2015,Tasmania,38
+May 1 2015,Victoria,497
+May 1 2015,Western Australia,361
+Jun 1 2015,New South Wales,884
+Jun 1 2015,Northern Territory,14
+Jun 1 2015,Queensland,996
+Jun 1 2015,South Australia,830
+Jun 1 2015,Tasmania,58
+Jun 1 2015,Victoria,837
+Jun 1 2015,Western Australia,484
+Jul 1 2015,New South Wales,3110
+Jul 1 2015,Northern Territory,39
+Jul 1 2015,Queensland,3536
+Jul 1 2015,South Australia,2527
+Jul 1 2015,Tasmania,152
+Jul 1 2015,Victoria,2832
+Jul 1 2015,Western Australia,1099
+Aug 1 2015,New South Wales,11349
+Aug 1 2015,Northern Territory,109
+Aug 1 2015,Queensland,10880
+Aug 1 2015,South Australia,4941
+Aug 1 2015,Tasmania,454
+Aug 1 2015,Victoria,5969
+Aug 1 2015,Western Australia,1256
+Sep 1 2015,New South Wales,10527
+Sep 1 2015,Northern Territory,171
+Sep 1 2015,Queensland,7624
+Sep 1 2015,South Australia,4113
+Sep 1 2015,Tasmania,503
+Sep 1 2015,Victoria,4876
+Sep 1 2015,Western Australia,1230
+Oct 1 2015,New South Wales,2051
+Oct 1 2015,Northern Territory,135
+Oct 1 2015,Queensland,1655
+Oct 1 2015,South Australia,1327
+Oct 1 2015,Tasmania,139
+Oct 1 2015,Victoria,1083
+Oct 1 2015,Western Australia,622
+Nov 1 2015,New South Wales,289
+Nov 1 2015,Northern Territory,91
+Nov 1 2015,Queensland,369
+Nov 1 2015,South Australia,137
+Nov 1 2015,Tasmania,16
+Nov 1 2015,Victoria,145
+Nov 1 2015,Western Australia,110
+Des 1 2015,New South Wales,169
+Des 1 2015,Northern Territory,40
+Des 1 2015,Queensland,252
+Des 1 2015,South Australia,62
+Des 1 2015,Tasmania,13
+Des 1 2015,Victoria,75
+Des 1 2015,Western Australia,126
+Jan 1 2016,New South Wales,355
+Jan 1 2016,Northern Territory,38
+Jan 1 2016,Queensland,402
+Jan 1 2016,South Australia,107
+Jan 1 2016,Tasmania,10
+Jan 1 2016,Victoria,153
+Jan 1 2016,Western Australia,131
+Feb 1 2016,New South Wales,544
+Feb 1 2016,Northern Territory,24
+Feb 1 2016,Queensland,646
+Feb 1 2016,South Australia,130
+Feb 1 2016,Tasmania,16
+Feb 1 2016,Victoria,188
+Feb 1 2016,Western Australia,175
+Mar 1 2016,New South Wales,678
+Mar 1 2016,Northern Territory,15
+Mar 1 2016,Queensland,1091
+Mar 1 2016,South Australia,177
+Mar 1 2016,Tasmania,21
+Mar 1 2016,Victoria,294
+Mar 1 2016,Western Australia,198
+Apr 1 2016,New South Wales,881
+Apr 1 2016,Northern Territory,28
+Apr 1 2016,Queensland,942
+Apr 1 2016,South Australia,299
+Apr 1 2016,Tasmania,27
+Apr 1 2016,Victoria,440
+Apr 1 2016,Western Australia,189
+May 1 2016,New South Wales,585
+May 1 2016,Northern Territory,16
+May 1 2016,Queensland,611
+May 1 2016,South Australia,124
+May 1 2016,Tasmania,17
+May 1 2016,Victoria,252
+May 1 2016,Western Australia,234
+Jun 1 2016,New South Wales,972
+Jun 1 2016,Northern Territory,11
+Jun 1 2016,Queensland,594
+Jun 1 2016,South Australia,95
+Jun 1 2016,Tasmania,30
+Jun 1 2016,Victoria,316
+Jun 1 2016,Western Australia,262
+Jul 1 2016,New South Wales,4359
+Jul 1 2016,Northern Territory,28
+Jul 1 2016,Queensland,2009
+Jul 1 2016,South Australia,377
+Jul 1 2016,Tasmania,36
+Jul 1 2016,Victoria,1055
+Jul 1 2016,Western Australia,903
+Aug 1 2016,New South Wales,10861
+Aug 1 2016,Northern Territory,84
+Aug 1 2016,Queensland,5961
+Aug 1 2016,South Australia,1048
+Aug 1 2016,Tasmania,239
+Aug 1 2016,Victoria,2931
+Aug 1 2016,Western Australia,1992
+Sep 1 2016,New South Wales,12522
+Sep 1 2016,Northern Territory,241
+Sep 1 2016,Queensland,6904
+Sep 1 2016,South Australia,2384
+Sep 1 2016,Tasmania,462
+Sep 1 2016,Victoria,4618
+Sep 1 2016,Western Australia,2710
+Oct 1 2016,New South Wales,2187
+Oct 1 2016,Northern Territory,119
+Oct 1 2016,Queensland,2185
+Oct 1 2016,South Australia,1433
+Oct 1 2016,Tasmania,108
+Oct 1 2016,Victoria,1389
+Oct 1 2016,Western Australia,682
+Nov 1 2016,New South Wales,992
+Nov 1 2016,Northern Territory,32
+Nov 1 2016,Queensland,1000
+Nov 1 2016,South Australia,1107
+Nov 1 2016,Tasmania,60
+Nov 1 2016,Victoria,718
+Nov 1 2016,Western Australia,216
+Des 1 2016,New South Wales,646
+Des 1 2016,Northern Territory,70
+Des 1 2016,Queensland,959
+Des 1 2016,South Australia,590
+Des 1 2016,Tasmania,30
+Des 1 2016,Victoria,572
+Des 1 2016,Western Australia,157
+Jan 1 2017,New South Wales,653
+Jan 1 2017,Northern Territory,65
+Jan 1 2017,Queensland,868
+Jan 1 2017,South Australia,271
+Jan 1 2017,Tasmania,35
+Jan 1 2017,Victoria,388
+Jan 1 2017,Western Australia,130
+Feb 1 2017,New South Wales,719
+Feb 1 2017,Northern Territory,237
+Feb 1 2017,Queensland,937
+Feb 1 2017,South Australia,336
+Feb 1 2017,Tasmania,27
+Feb 1 2017,Victoria,320
+Feb 1 2017,Western Australia,130
+Mar 1 2017,New South Wales,957
+Mar 1 2017,Northern Territory,169
+Mar 1 2017,Queensland,1166
+Mar 1 2017,South Australia,329
+Mar 1 2017,Tasmania,44
+Mar 1 2017,Victoria,371
+Mar 1 2017,Western Australia,152
+Apr 1 2017,New South Wales,545
+Apr 1 2017,Northern Territory,36
+Apr 1 2017,Queensland,638
+Apr 1 2017,South Australia,251
+Apr 1 2017,Tasmania,32
+Apr 1 2017,Victoria,287
+Apr 1 2017,Western Australia,98
+May 1 2017,New South Wales,835
+May 1 2017,Northern Territory,23
+May 1 2017,Queensland,702
+May 1 2017,South Australia,410
+May 1 2017,Tasmania,32
+May 1 2017,Victoria,474
+May 1 2017,Western Australia,142
+Jun 1 2017,New South Wales,3249
+Jun 1 2017,Northern Territory,26
+Jun 1 2017,Queensland,1892
+Jun 1 2017,South Australia,1213
+Jun 1 2017,Tasmania,68
+Jun 1 2017,Victoria,1349
+Jun 1 2017,Western Australia,280
+Jul 1 2017,New South Wales,13117
+Jul 1 2017,Northern Territory,55
+Jul 1 2017,Queensland,4482
+Jul 1 2017,South Australia,2832
+Jul 1 2017,Tasmania,281
+Jul 1 2017,Victoria,5007
+Jul 1 2017,Western Australia,513
+Aug 1 2017,New South Wales,43087
+Aug 1 2017,Northern Territory,240
+Aug 1 2017,Queensland,19254
+Aug 1 2017,South Australia,5582
+Aug 1 2017,Tasmania,955
+Aug 1 2017,Victoria,13739
+Aug 1 2017,Western Australia,1006
+Sep 1 2017,New South Wales,35039
+Sep 1 2017,Northern Territory,377
+Sep 1 2017,Queensland,21111
+Sep 1 2017,South Australia,12681
+Sep 1 2017,Tasmania,1688
+Sep 1 2017,Victoria,21394
+Sep 1 2017,Western Australia,2035
+Oct 1 2017,New South Wales,4485
+Oct 1 2017,Northern Territory,165
+Oct 1 2017,Queensland,3472
+Oct 1 2017,South Australia,3382
+Oct 1 2017,Tasmania,253
+Oct 1 2017,Victoria,4046
+Oct 1 2017,Western Australia,861
+Nov 1 2017,New South Wales,632
+Nov 1 2017,Northern Territory,52
+Nov 1 2017,Queensland,1139
+Nov 1 2017,South Australia,820
+Nov 1 2017,Tasmania,62
+Nov 1 2017,Victoria,610
+Nov 1 2017,Western Australia,385
+Des 1 2017,New South Wales,509
+Des 1 2017,Northern Territory,30
+Des 1 2017,Queensland,925
+Des 1 2017,South Australia,384
+Des 1 2017,Tasmania,32
+Des 1 2017,Victoria,232
+Des 1 2017,Western Australia,275
+Jan 1 2018,New South Wales,1078
+Jan 1 2018,Northern Territory,35
+Jan 1 2018,Queensland,947
+Jan 1 2018,South Australia,318
+Jan 1 2018,Tasmania,15
+Jan 1 2018,Victoria,552
+Jan 1 2018,Western Australia,224
+Feb 1 2018,New South Wales,1164
+Feb 1 2018,Northern Territory,20
+Feb 1 2018,Queensland,1037
+Feb 1 2018,South Australia,341
+Feb 1 2018,Tasmania,23
+Feb 1 2018,Victoria,533
+Feb 1 2018,Western Australia,344
+Mar 1 2018,New South Wales,1083
+Mar 1 2018,Northern Territory,37
+Mar 1 2018,Queensland,1368
+Mar 1 2018,South Australia,394
+Mar 1 2018,Tasmania,31
+Mar 1 2018,Victoria,542
+Mar 1 2018,Western Australia,297
+Apr 1 2018,New South Wales,433
+Apr 1 2018,Northern Territory,8
+Apr 1 2018,Queensland,697
+Apr 1 2018,South Australia,189
+Apr 1 2018,Tasmania,18
+Apr 1 2018,Victoria,358
+Apr 1 2018,Western Australia,156
+May 1 2018,New South Wales,390
+May 1 2018,Northern Territory,15
+May 1 2018,Queensland,519
+May 1 2018,South Australia,111
+May 1 2018,Tasmania,12
+May 1 2018,Victoria,300
+May 1 2018,Western Australia,180
+Jun 1 2018,New South Wales,642
+Jun 1 2018,Northern Territory,9
+Jun 1 2018,Queensland,612
+Jun 1 2018,South Australia,122
+Jun 1 2018,Tasmania,27
+Jun 1 2018,Victoria,305
+Jun 1 2018,Western Australia,467
+Jul 1 2018,New South Wales,1250
+Jul 1 2018,Northern Territory,3
+Jul 1 2018,Queensland,866
+Jul 1 2018,South Australia,158
+Jul 1 2018,Tasmania,21
+Jul 1 2018,Victoria,401
+Jul 1 2018,Western Australia,689
+Aug 1 2018,New South Wales,3829
+Aug 1 2018,Northern Territory,17
+Aug 1 2018,Queensland,2142
+Aug 1 2018,South Australia,338
+Aug 1 2018,Tasmania,33
+Aug 1 2018,Victoria,1096
+Aug 1 2018,Western Australia,970
+Sep 1 2018,New South Wales,4091
+Sep 1 2018,Northern Territory,29
+Sep 1 2018,Queensland,2429
+Sep 1 2018,South Australia,1026
+Sep 1 2018,Tasmania,76
+Sep 1 2018,Victoria,2267
+Sep 1 2018,Western Australia,1112
+Oct 1 2018,New South Wales,1520
+Oct 1 2018,Northern Territory,36
+Oct 1 2018,Queensland,1502
+Oct 1 2018,South Australia,1072
+Oct 1 2018,Tasmania,86
+Oct 1 2018,Victoria,2166
+Oct 1 2018,Western Australia,630
+Nov 1 2018,New South Wales,1007
+Nov 1 2018,Northern Territory,282
+Nov 1 2018,Queensland,1545
+Nov 1 2018,South Australia,1209
+Nov 1 2018,Tasmania,71
+Nov 1 2018,Victoria,1774
+Nov 1 2018,Western Australia,401
+Des 1 2018,New South Wales,903
+Des 1 2018,Northern Territory,666
+Des 1 2018,Queensland,1798
+Des 1 2018,South Australia,592
+Des 1 2018,Tasmania,36
+Des 1 2018,Victoria,1368
+Des 1 2018,Western Australia,365
+Jan 1 2019,New South Wales,1726
+Jan 1 2019,Northern Territory,150
+Jan 1 2019,Queensland,1920
+Jan 1 2019,South Australia,401
+Jan 1 2019,Tasmania,55
+Jan 1 2019,Victoria,1248
+Jan 1 2019,Western Australia,527
+Feb 1 2019,New South Wales,2292
+Feb 1 2019,Northern Territory,70
+Feb 1 2019,Queensland,1968
+Feb 1 2019,South Australia,747
+Feb 1 2019,Tasmania,55
+Feb 1 2019,Victoria,1153
+Feb 1 2019,Western Australia,500
+Mar 1 2019,New South Wales,3432
+Mar 1 2019,Northern Territory,106
+Mar 1 2019,Queensland,2859
+Mar 1 2019,South Australia,2512
+Mar 1 2019,Tasmania,175
+Mar 1 2019,Victoria,2274
+Mar 1 2019,Western Australia,507
+Apr 1 2019,New South Wales,2981
+Apr 1 2019,Northern Territory,248
+Apr 1 2019,Queensland,2820
+Apr 1 2019,South Australia,5838
+Apr 1 2019,Tasmania,348
+Apr 1 2019,Victoria,3744
+Apr 1 2019,Western Australia,478
+May 1 2019,New South Wales,7920
+May 1 2019,Northern Territory,282
+May 1 2019,Queensland,3609
+May 1 2019,South Australia,8409
+May 1 2019,Tasmania,357
+May 1 2019,Victoria,8167
+May 1 2019,Western Australia,3534
+Jun 1 2019,New South Wales,21375
+Jun 1 2019,Northern Territory,144
+Jun 1 2019,Queensland,7795
+Jun 1 2019,South Australia,2439
+Jun 1 2019,Tasmania,367
+Jun 1 2019,Victoria,11172
+Jun 1 2019,Western Australia,10012
+Jul 1 2019,New South Wales,29697
+Jul 1 2019,Northern Territory,143
+Jul 1 2019,Queensland,11322
+Jul 1 2019,South Australia,1694
+Jul 1 2019,Tasmania,509
+Jul 1 2019,Victoria,13830
+Jul 1 2019,Western Australia,5335
+Aug 1 2019,New South Wales,29845
+Aug 1 2019,Northern Territory,159
+Aug 1 2019,Queensland,22091
+Aug 1 2019,South Australia,1617
+Aug 1 2019,Tasmania,609
+Aug 1 2019,Victoria,13481
+Aug 1 2019,Western Australia,1295
+Sep 1 2019,New South Wales,11989
+Sep 1 2019,Northern Territory,132
+Sep 1 2019,Queensland,10509
+Sep 1 2019,South Australia,1451
+Sep 1 2019,Tasmania,352
+Sep 1 2019,Victoria,8838
+Sep 1 2019,Western Australia,420
+Oct 1 2019,New South Wales,2595
+Oct 1 2019,Northern Territory,75
+Oct 1 2019,Queensland,2089
+Oct 1 2019,South Australia,849
+Oct 1 2019,Tasmania,158
+Oct 1 2019,Victoria,3054
+Oct 1 2019,Western Australia,201
+Nov 1 2019,New South Wales,1433
+Nov 1 2019,Northern Territory,68
+Nov 1 2019,Queensland,806
+Nov 1 2019,South Australia,674
+Nov 1 2019,Tasmania,98
+Nov 1 2019,Victoria,1331
+Nov 1 2019,Western Australia,220
+Des 1 2019,New South Wales,1124
+Des 1 2019,Northern Territory,180
+Des 1 2019,Queensland,539
+Des 1 2019,South Australia,456
+Des 1 2019,Tasmania,49
+Des 1 2019,Victoria,1181
+Des 1 2019,Western Australia,215
+Jan 1 2020,New South Wales,210
+Jan 1 2020,Northern Territory,20
+Jan 1 2020,Queensland,140
+Jan 1 2020,South Australia,43
+Jan 1 2020,Tasmania,9
+Jan 1 2020,Victoria,239
+Jan 1 2020,Western Australia,48
