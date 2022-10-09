@@ -1,0 +1,102 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/spra0039/Data-Visualization-2/main/data/australia_flu_dataset.csv"
+  },
+  "vconcat": [  
+    {
+    "title": "Cases by Subtype/type",
+    "width": "container",
+    "height":200,
+    "transform": [{"filter": {"param": "time_brush"}}],
+    "encoding": {
+      "x": {
+        "title":"Total confirmed",
+        "type": "quantitative",
+        "aggregate": "sum",
+        "field": "Confirmed",
+        "stack": true
+      },
+      "y": {"type": "nominal", "field": "State"}
+    },
+    "layer": [
+      {
+        "mark": "bar",
+        "encoding": {
+          "color": {
+            "type": "nominal", 
+            "field": "Type",
+            "scale": {
+              "domain": [
+                "A and B",
+                "A(H1N1)pdm09",
+                "A(H3N2)",
+                "A(unsubtyped)",
+                "B",
+                "C",
+                "Untyped"
+              ],
+              "range": [
+                "#ffbdda",
+                "#ff9f8c",
+                "#ffd493",
+                "#fff380",
+                "#9affff",
+                "#a9bcff",
+                "#cc9c9c"
+              ]
+            }
+          },
+        "tooltip":[
+          {
+            "field": "State",
+            "type": "nominal"
+          },
+          {
+            "field":"Type",
+            "type": "nominal"
+          },
+          {
+            "type": "quantitative",
+            "aggregate": "sum",
+            "field": "Confirmed",
+            "title": "Total cases"
+          }
+        ]
+      }
+      }
+    ]
+    },
+    {
+    "title": "Use this line chart to filter out data based on time",
+    "width": "container",
+    "height":60,
+    "mark": "line",
+    "params": [
+        {"name": "time_brush", "select": {"type": "interval", "encodings": ["x"]}}
+    ],
+    "transform": [
+        {
+            "joinaggregate": [
+              {
+                "field": "Confirmed",
+                "op": "sum",
+                "as": "Total case"
+              }
+            ],
+            "groupby": [
+              "date"
+            ]
+          }
+    ],
+    "encoding": {
+        "x": {"field": "date", "type": "temporal", "axis": {"tickCount": 5}},
+        "y": {
+          "field": "Total case",
+          "type": "quantitative",
+          "axis": {"tickCount": 3, "grid": false}
+        }
+      }
+    }
+  ]
+}

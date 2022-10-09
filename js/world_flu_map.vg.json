@@ -1,0 +1,187 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Influenza Cases in the World (3 Jan 2022 - 11 Sep 2022)",
+    "width": "container",
+    "height": 300,
+    "data": {
+        "url": "https://raw.githubusercontent.com/spra0039/Data-Visualization-2/main/js/ne_110m_admin_0_countries.topojson",
+        "format": {
+            "type": "topojson",
+            "feature": "ne_110m_admin_0_countries"
+        }
+    },
+    "projection": {
+        "type": "equalEarth",
+        "center": {"expr": "center_to"},
+        "scale": {"expr": "zoom_level"}
+    },
+    "params":[
+        {
+            "name": "zoom_level",
+            "value": 90,
+            "bind": {
+              "input": "range",
+              "min": 90,
+              "max": 400,
+              "step": 1,
+              "name": "Zoom: "
+            }
+        },
+        {
+            "name": "center_to",
+            "value": [0,0],
+            "bind": {
+              "input": "select",
+              "options": [
+                [0,0],
+                [100.6197, 34.0479],
+                [34.5085, -8.7832],
+                [15.2551, 54.5260],
+                [-55.4915, -8.7832],
+                [-105.2551, 54.5260],
+                [140.0188, -22.7359]
+              ],
+              "labels": ["World","Asia","Africa", "Europe", "South America", "North America", "Oceania"],
+              "name": "Map Centre: "
+            }
+        }
+    ],
+    "layer": [
+        {
+            "params": [
+                {
+                  "name": "highlight",
+                  "select": {"type": "point", "on": "mouseover"}
+                }
+            ],
+            "transform": [
+                {
+                    "calculate": "'Data is not available in ' + datum.properties.NAME",
+                    "as": "note"
+                }
+            ],
+            "mark": {
+                "type": "geoshape",
+                "fill": "lightgray",
+                "stroke": "white"
+            },
+            "encoding": {
+                "strokeWidth": {
+                    "condition": [
+                      {
+                        "param": "highlight",
+                        "empty": false,
+                        "value": 2
+                      }
+                    ],
+                    "value": 1
+                },
+                "tooltip": {
+                    "field": "note"
+                }
+            }
+        },
+        {
+            "data": {
+                "url": "https://raw.githubusercontent.com/spra0039/Data-Visualization-2/main/js/oceans.topojson",
+                "format": {
+                    "type": "topojson",
+                    "feature": "oceans"
+                }
+            },
+            "mark": {
+                "type": "geoshape",
+                "fill": "skyblue"
+            }
+        },
+        {
+            "data": {
+                "url": "https://raw.githubusercontent.com/spra0039/Data-Visualization-2/main/js/ne_110m_graticules_30.topojson",
+                "format": {
+                    "type": "topojson",
+                    "feature": "ne_110m_graticules_30"
+                }
+            },
+            "mark": {
+                "type": "geoshape",
+                "fill": null,
+                "stroke": "lightgray"
+            }
+        },
+        {
+            "transform": [
+                {
+                    "lookup": "properties.NAME",
+                    "from": {
+                        "data": {
+                            "url": "https://raw.githubusercontent.com/spra0039/Data-Visualization-2/main/data/World_flu_dataset_(with_population_and_continent).csv"
+                        },
+                        "key": "Country",
+                        "fields": [
+                            "Confirmed",
+                            "Population"
+                        ]
+                    }
+                },
+                {
+                    "calculate": "datum.Confirmed/datum.Population * 100000",
+                    "as": "Cases per 100,000 population"
+                }
+            ],
+            "mark": {
+                "type": "geoshape",
+                "stroke":"white"
+            },
+            "encoding": {
+                "color": {
+                    "field": "Cases per 100,000 population",
+                    "type": "quantitative",
+                    "scale": {
+                        "type": "threshold",
+                        "domain": [
+                            1,
+                            10,
+                            50,
+                            100
+                        ],
+                        "range": [
+                            "#fdbe85",
+                            "#F48C06",
+                            "#D00000",
+                            "#9D0208",
+                            "#6A040F"
+                        ]
+                    }
+                },
+                "strokeWidth": {
+                    "condition": [
+                      {
+                        "param": "highlight",
+                        "empty": false,
+                        "value": 2
+                      }
+                    ],
+                    "value": 1
+                },
+                
+                "tooltip": [
+                    {
+                        "field": "properties.NAME",
+                        "type": "nominal",
+                        "title": "Country"
+                    },
+                    {
+                        "title": "Total Cases",
+                        "field": "Confirmed",
+                        "type": "quantitative"
+                    },
+                    {
+                        "field": "Cases per 100,000 population",
+                        "type": "quantitative",
+                        "format": ".3f"
+                    }
+                ]
+            }
+        }
+    ]
+}

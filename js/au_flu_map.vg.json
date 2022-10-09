@@ -1,0 +1,108 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Australia Flu Map (Jan 2014- Jan 2020)",
+    "width": "container",
+    "height": 400,
+    "data": {
+        "url": "https://raw.githubusercontent.com/spra0039/Data-Visualization-2/main/js/au_states.topojson",
+        "format": {
+            "type": "topojson",
+            "feature": "au_states"
+        }
+    },
+    "projection": {
+        "type": "mercator"
+    },
+    "layer": [
+        {
+            "params": [
+                {
+                  "name": "highlight",
+                  "select": {"type": "point", "on": "mouseover"}
+                }
+            ],
+            "transform": [
+                {
+                    "calculate": "'Data is not available in ' + datum.properties.STATE_NAME",
+                    "as": "note"
+                }
+            ],
+            "mark": {
+                "type": "geoshape",
+                "fill": "lightgray",
+                "stroke": "white"
+            },
+            "encoding": {
+                "strokeWidth": {
+                    "condition": [
+                      {
+                        "param": "highlight",
+                        "empty": false,
+                        "value": 1.5
+                      }
+                    ],
+                    "value": 0.7
+                },
+                "tooltip": {
+                    "field": "note"
+                }
+            }
+        },
+        {
+            "transform": [
+                {
+                    "lookup": "properties.STATE_NAME",
+                    "from": {
+                        "data": {
+                            "url": "https://raw.githubusercontent.com/spra0039/Data-Visualization-2/main/data/australia_total_case_dataset.csv"
+                        },
+                        "key": "States",
+                        "fields": [
+                            "States",
+                            "Cases"
+                        ]
+                    }
+                }
+            ],
+            "mark": {
+                "type": "geoshape",
+                "stroke": "white"
+            },
+            "encoding": {
+                "color": {
+                    "field": "Cases",
+                    "type": "quantitative",
+                    "scale": {
+                        "domain": [
+                            0,
+                            350000
+                        ],
+                        "scheme": "reds"
+                    }
+                },
+                "strokeWidth": {
+                    "condition": [
+                      {
+                        "param": "highlight",
+                        "empty": false,
+                        "value": 1.5
+                      }
+                    ],
+                    "value": 0.7
+                },
+                "tooltip": [
+                    {
+                        "field": "States",
+                        "type": "nominal",
+                        "title": "State"
+                    },
+                    {
+                        "field": "Cases",
+                        "title": "Total Case",
+                        "type": "quantitative"
+                    }
+                ]
+            }
+        }
+    ]
+}
