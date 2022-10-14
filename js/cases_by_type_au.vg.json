@@ -3,12 +3,44 @@
   "data": {
     "url": "https://raw.githubusercontent.com/spra0039/Data-Visualization-2/main/data/australia_flu_dataset.csv"
   },
+  "params":[
+    {
+      "name": "Flu_type",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "A and B",
+          "A(H1N1)pdm09",
+          "A(H3N2)",
+          "A(unsubtyped)",
+          "B",
+          "C",
+          "Untyped"
+        ],
+        "labels": [
+          "Show All",
+          "A and B",
+          "A(H1N1)pdm09",
+          "A(H3N2)",
+          "A(unsubtyped)",
+          "B",
+          "C",
+          "Untyped"
+        ],
+        "name": "Flu type: "
+      }
+    }
+  ],
   "vconcat": [  
     {
     "title": "Cases by Subtype/type",
-    "width": "container",
+    "width": 1070,
     "height":200,
-    "transform": [{"filter": {"param": "time_brush"}}],
+    "transform": [
+      {"filter": {"param": "time_brush"}},
+      {"filter": "Flu_type == null || datum.Type == Flu_type"}
+    ],
     "encoding": {
       "x": {
         "title":"Total confirmed",
@@ -21,7 +53,7 @@
     },
     "layer": [
       {
-        "mark": "bar",
+        "mark": {"type": "bar", "width": 200},
         "encoding": {
           "color": {
             "type": "nominal", 
@@ -64,12 +96,28 @@
           }
         ]
       }
+      },
+      {
+        "mark": {
+          "type": "text",
+          "align": "center",
+          "baseline": "middle",
+          "dx": 22
+        },
+        "encoding": {
+          "text": {
+            "field": "Confirmed",
+            "aggregate": "sum",
+            "type": "quantitative",
+            "format": ","
+          }
+        }
       }
     ]
     },
     {
     "title": "Use this line chart to filter out data based on time",
-    "width": "container",
+    "width": 1080,
     "height":60,
     "mark": "line",
     "params": [

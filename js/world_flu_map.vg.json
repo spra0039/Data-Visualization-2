@@ -2,7 +2,15 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Influenza Cases in the World (3 Jan 2022 - 11 Sep 2022)",
     "width": "container",
-    "height": 300,
+    "height": 330,
+    "config": {
+        "background":"#ebecf0",
+        "style": {
+            "cell": {
+              "stroke": "transparent"
+            }
+        }
+    },
     "data": {
         "url": "https://raw.githubusercontent.com/spra0039/Data-Visualization-2/main/js/ne_110m_admin_0_countries.topojson",
         "format": {
@@ -18,10 +26,10 @@
     "params":[
         {
             "name": "zoom_level",
-            "value": 90,
+            "value": 120,
             "bind": {
               "input": "range",
-              "min": 90,
+              "min": 120,
               "max": 400,
               "step": 1,
               "name": "Zoom: "
@@ -151,6 +159,13 @@
                             "#9D0208",
                             "#6A040F"
                         ]
+                    },
+                    "legend":{
+                        "orient": "none",
+                        "direction": "horizontal",
+                        "legendX":237,
+                        "legendY":340,
+                        "titleAnchor":"middle"
                     }
                 },
                 "strokeWidth": {
@@ -173,7 +188,8 @@
                     {
                         "title": "Total Cases",
                         "field": "Confirmed",
-                        "type": "quantitative"
+                        "type": "quantitative",
+                        "format":","
                     },
                     {
                         "field": "Cases per 100,000 population",

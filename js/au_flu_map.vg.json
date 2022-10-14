@@ -99,10 +99,38 @@
                     {
                         "field": "Cases",
                         "title": "Total Case",
-                        "type": "quantitative"
+                        "type": "quantitative",
+                        "format":","
                     }
                 ]
             }
+        },
+        {
+        "transform": [
+            {
+                "lookup": "properties.STATE_NAME",
+                "from": {
+                    "data": {
+                        "url": "https://raw.githubusercontent.com/spra0039/Data-Visualization-2/main/data/australiaInfo.csv"
+                    },
+                "key": "States",
+                "fields": ["latitude", "longitude", "stateCode"]
+                }
+            }
+        ],
+        "mark": {"type": "text", "fontWeight":"bold", "fontSize":16},
+        "encoding": {
+            "longitude": {"field": "longitude", "type": "quantitative"},
+            "latitude": {"field": "latitude", "type": "quantitative"},
+            "text": {"field": "stateCode", "type": "nominal"},
+            "opacity": {
+                "condition": {
+                  "test": "datum['stateCode'] == 'ACT'",
+                  "value": 0
+                },
+                "value": 1
+              }
         }
+    }
     ]
 }
