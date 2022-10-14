@@ -28,13 +28,13 @@
           "C",
           "Untyped"
         ],
-        "name": "Flu type: "
+        "name": "Flu Type: "
       }
     }
   ],
   "vconcat": [  
     {
-    "title": "Cases by Subtype/type",
+    "title": "Cases by Flu Subtype/Type",
     "width": 1070,
     "height":200,
     "transform": [
@@ -58,6 +58,7 @@
           "color": {
             "type": "nominal", 
             "field": "Type",
+            "title": "Flu Subtype/Type",
             "scale": {
               "domain": [
                 "A and B",
@@ -92,7 +93,8 @@
             "type": "quantitative",
             "aggregate": "sum",
             "field": "Confirmed",
-            "title": "Total cases"
+            "title": "Total cases",
+            "format":","
           }
         ]
       }
