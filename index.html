@@ -16,7 +16,7 @@
     <!-- Google font -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=GFS+Didot&family=Source+Sans+Pro&display=swap" rel="stylesheet">
 
     <!-- CSS file -->
     <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
@@ -24,11 +24,15 @@
 </head>
 
 <body>
-    <div class="title">
+    <div class="top-page">
         <!-- pure grid group -->
         <div class="pure-g">
-            <div class="pure-u-1-1">
-                <h1>Influenza Cases</h1>
+            <div class="pure-u-1-2">
+                <h1>INFLUENZA</h1>
+                <p class="intro-paragraph"><b>Influenza (flu)</b> is a highly contagious disease caused by <b style='color:red;'>influenza viruses</b> that infect the <b>nose</b>, <b>throat</b>, and sometimes the <b>lungs</b>. It can cause <b>mild to severe illness</b>, and at times can lead to <b style='color:red;'>death</b>. It spreads through <b>body fluids</b> from infected people. It is usually prevented by <b>vaccination</b> every year and treated by <b>managing symptoms</b>.</p>
+            </div>
+            <div class="pure-u-1-2">
+                <div id="world_map_vis" class="vis-container"></div>
             </div>
         </div>
         <!-- end pure grid group -->
@@ -38,32 +42,48 @@
         <!-- pure grid group -->
         <div class="pure-g">
             <div class="pure-u-1-2">
-                <h2>Influenza Cases in the World</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus euismod quis viverra nibh cras pulvinar mattis. Rutrum tellus pellentesque eu tincidunt. Suspendisse interdum consectetur libero id faucibus nisl. Sollicitudin ac orci phasellus egestas tellus rutrum tellus. Mauris a diam maecenas sed enim ut sem. Donec ac odio tempor orci dapibus ultrices in. Blandit turpis cursus in hac. Dolor sit amet consectetur adipiscing. Massa massa ultricies mi quis hendrerit dolor magna eget. Eget nunc scelerisque viverra mauris in aliquam sem fringilla ut. Amet nisl purus in mollis nunc. Ac placerat vestibulum lectus mauris. Pellentesque habitant morbi tristique senectus et. A condimentum vitae sapien pellentesque habitant morbi. Sit amet nisl suscipit adipiscing bibendum est ultricies integer. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet. Nulla malesuada pellentesque elit eget gravida cum. Arcu risus quis varius quam quisque id. Pretium aenean pharetra magna ac placerat vestibulum lectus.</p>
-                <div id="world_map_vis" class="vis-container"></div>
+                <p class="sub-title">Influenza in the World</p>
+                <p class="paragraph"><b>Influenza activity</b> has <b style='color:red;'>decreased</b> or <b style='color:red;'>remained low</b> in most countries now, <b style='color:red;'>except</b> in some countries in <b>tropical countries</b> in <b>Africa</b>, <b>Americas</b>, and <b>Asia</b>, where influenza acitivity <b style='color:red;'>increased</b>. <b>World Health Organization (WHO)</b> has <b style='color:red;'>Global Influenza Programme</b>. In this program, there is a <b>global web-based tool</b> for <b>influenza virological surveillance</b> which is called <b>FluNet</b>. It will <b style='color:red;'>collect</b> data (the number of influenza viruses detected by subtype) from <b>National Influenza Centres (NICs)</b> and <b>other national influenza laboratories</b> from 99 countries, areas, or territories. The data at country level are publically available and updated weekly in their webpage.</p>
             </div>
 
             <div class="pure-u-1-2">
-                <h2>Influenza Cases in Australia</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus euismod quis viverra nibh cras pulvinar mattis. Rutrum tellus pellentesque eu tincidunt. Suspendisse interdum consectetur libero id faucibus nisl. Sollicitudin ac orci phasellus egestas tellus rutrum tellus. Mauris a diam maecenas sed enim ut sem. Donec ac odio tempor orci dapibus ultrices in. Blandit turpis cursus in hac. Dolor sit amet consectetur adipiscing. Massa massa ultricies mi quis hendrerit dolor magna eget. Eget nunc scelerisque viverra mauris in aliquam sem fringilla ut. Amet nisl purus in mollis nunc. Ac placerat vestibulum lectus mauris. Pellentesque habitant morbi tristique senectus et. A condimentum vitae sapien pellentesque habitant morbi. Sit amet nisl suscipit adipiscing bibendum est ultricies integer. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet. Nulla malesuada pellentesque elit eget gravida cum. Arcu risus quis varius quam quisque id. Pretium aenean pharetra magna ac placerat vestibulum lectus.</p>
-                <div id="au_map_vis" class="vis-container"></div>
+                <div class="vis-margin">
+                    <div id="scatter_rate_vis" class="vis-container"></div>
+                </div>
             </div>
         </div>
         <!-- end pure grid group -->
-        
+
         <!-- pure grid group -->
         <div class="pure-g">
             <div class="pure-u-1-2">
-                <div id="scatter_rate_vis" class="vis-container"></div>
+                <div class="vis-margin">
+                    <div id="au_map_vis" class="vis-container"></div>
+                </div>
             </div>
 
             <div class="pure-u-1-2">
-                <div id="case_by_type_vis" class="vis-container"></div>
+                <p class="sub-title">Influenza in Australia</p>
+                <p class="paragraph"><b>Influenza</b> is a <b style='color:red;'>seasonal infection</b> that usually occurs from <b>April to September</b>. Flu seasons vary in severity and duration each year. In a <b>year of high Influenza activity</b>, it can caused <b style='color:red;'>more than 3,300 deaths</b> <b>in Australia</b>. Australia have 2 department called <b>National Influenza Surveillance Scheme (NISS)</b> and <b>National Notifiable Diseases Surveillance System (NNDSS)</b> that <b style='color:red;'>annually reports Influenza each year</b>.</p>
+                <p class="paragraph">Check out more about Influenza in Australia: <br><a href="https://www1.health.gov.au/internet/main/publishing.nsf/Content/cda-surveil-ozflu-flucurr.htm">Australian Influenza Surveillance Report</a></p>
+            </div>
+        </div>
+        <!-- end pure grid group -->
+
+        <!-- pure grid group -->
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <div class="vis-margin">
+                    <div id="case_by_type_vis" class="vis-container"></div>
+                </div>
             </div>
         </div>
         <!-- end pure grid group -->
     </div>
 
+    <div class="bottom-page">
+        <p class="vis-mark">Visualization by <b>Setyawan Prayogo</b> for FIT3179 2022</p>
+    </div>
 
 
     <script type="text/javascript">
